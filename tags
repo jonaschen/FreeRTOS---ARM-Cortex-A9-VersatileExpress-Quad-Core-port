@@ -1,0 +1,1699 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ADD_C_FILES	Demo/MT3628_Cortex_A9SPCore/Makefile	/^ADD_C_FILES = Demo\/MT3628_Cortex_A9SPCore\/empty_crt.c$/;"	m
+ALL_CFLAGS	Demo/MT3628_Cortex_A9SPCore/Makefile	/^ALL_CFLAGS = $(C_OPTS) $(DEFINES) $(CFLAGS) $(AUTODEPENDENCY_CFLAGS)$/;"	m
+ALL_CFLAGS	Demo/Versatile_Express_Cortex_A9MPCore/Makefile	/^ALL_CFLAGS = $(C_OPTS) $(DEFINES) $(CFLAGS) $(AUTODEPENDENCY_CFLAGS)$/;"	m
+ALL_CFLAGS	Demo/Versatile_Express_Cortex_A9MPCore/MultiCore/Makefile	/^ALL_CFLAGS = $(C_OPTS) $(DEFINES) $(CFLAGS)$/;"	m
+ALL_CFLAGS	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/Makefile	/^ALL_CFLAGS = $(C_OPTS) $(DEFINES) $(CFLAGS)$/;"	m
+ALL_LDFLAGS	Demo/MT3628_Cortex_A9SPCore/Makefile	/^ALL_LDFLAGS =	$(ALL_LDFLAGS_BASE) \\$/;"	m
+ALL_LDFLAGS	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/Makefile	/^ALL_LDFLAGS =	$(LD_FLAGS) \\$/;"	m
+ALL_LDFLAGS_0	Demo/Versatile_Express_Cortex_A9MPCore/Makefile	/^ALL_LDFLAGS_0 =	$(ALL_LDFLAGS_BASE) \\$/;"	m
+ALL_LDFLAGS_0	Demo/Versatile_Express_Cortex_A9MPCore/MultiCore/Makefile	/^ALL_LDFLAGS_0 =	$(ALL_LDFLAGS_BASE) \\$/;"	m
+ALL_LDFLAGS_1	Demo/Versatile_Express_Cortex_A9MPCore/Makefile	/^ALL_LDFLAGS_1 =	$(ALL_LDFLAGS_BASE) \\$/;"	m
+ALL_LDFLAGS_1	Demo/Versatile_Express_Cortex_A9MPCore/MultiCore/Makefile	/^ALL_LDFLAGS_1 =	$(ALL_LDFLAGS_BASE) \\$/;"	m
+ALL_LDFLAGS_2	Demo/Versatile_Express_Cortex_A9MPCore/Makefile	/^ALL_LDFLAGS_2 =	$(ALL_LDFLAGS_BASE) \\$/;"	m
+ALL_LDFLAGS_2	Demo/Versatile_Express_Cortex_A9MPCore/MultiCore/Makefile	/^ALL_LDFLAGS_2 =	$(ALL_LDFLAGS_BASE) \\$/;"	m
+ALL_LDFLAGS_3	Demo/Versatile_Express_Cortex_A9MPCore/Makefile	/^ALL_LDFLAGS_3 =	$(ALL_LDFLAGS_BASE) \\$/;"	m
+ALL_LDFLAGS_3	Demo/Versatile_Express_Cortex_A9MPCore/MultiCore/Makefile	/^ALL_LDFLAGS_3 =	$(ALL_LDFLAGS_BASE) \\$/;"	m
+ALL_LDFLAGS_BASE	Demo/MT3628_Cortex_A9SPCore/Makefile	/^ALL_LDFLAGS_BASE = $(LD_FLAGS) \\$/;"	m
+ALL_LDFLAGS_BASE	Demo/Versatile_Express_Cortex_A9MPCore/Makefile	/^ALL_LDFLAGS_BASE =	$(LD_FLAGS) \\$/;"	m
+ALL_LDFLAGS_BASE	Demo/Versatile_Express_Cortex_A9MPCore/MultiCore/Makefile	/^ALL_LDFLAGS_BASE =	$(LD_FLAGS) \\$/;"	m
+AUTODEPENDENCY_CFLAGS	Demo/MT3628_Cortex_A9SPCore/Makefile	/^AUTODEPENDENCY_CFLAGS=-MMD -MF$(@:.o=.d) -MT$@$/;"	m
+AUTODEPENDENCY_CFLAGS	Demo/Versatile_Express_Cortex_A9MPCore/Makefile	/^AUTODEPENDENCY_CFLAGS=-MMD -MF$(@:.o=.d) -MT$@$/;"	m
+AUTODEPENDENCY_CFLAGS	Demo/Versatile_Express_Cortex_A9MPCore/MultiCore/Makefile	/^AUTODEPENDENCY_CFLAGS=-MMD -MF$(@:.o=.d) -MT$@$/;"	m
+AUTODEPENDENCY_CFLAGS	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/Makefile	/^AUTODEPENDENCY_CFLAGS=-MMD -MF$(@:.o=.d) -MT$@$/;"	m
+A_BLOCK_LINK	Source/portable/MemMang/heap_2.c	/^typedef struct A_BLOCK_LINK$/;"	s	file:
+Abort_Addr	Demo/Versatile_Express_Cortex_A9MPCore/startup.S	/^Abort_Addr:      .word     Abort_Handler$/;"	l
+Abort_Addr	Demo/Versatile_Express_Cortex_A9MPCore/vectors.S	/^Abort_Addr:      .word     Abort_Handler$/;"	l
+Abort_Handler	Demo/Versatile_Express_Cortex_A9MPCore/startup.S	/^Abort_Handler:$/;"	l
+Abort_Handler	Demo/Versatile_Express_Cortex_A9MPCore/vectors.S	/^Abort_Handler:$/;"	l
+Abort_Handler_Panic	Source/portable/GCC/ARM_CA9/port.c	/^void Abort_Handler_Panic( void )$/;"	f
+Abort_Handler_Panic	Source/portable/GCC/ARM_Cortex-A9/port.c	/^void Abort_Handler_Panic( void )$/;"	f
+BLOCKING_QUEUE_PARAMETERS	Demo/Common/Minimal/BlockQ.c	/^typedef struct BLOCKING_QUEUE_PARAMETERS$/;"	s	file:
+BLOCK_Q_H	Demo/Common/include/BlockQ.h	55;"	d
+BLOCK_TIME_TEST_H	Demo/Common/include/blocktim.h	55;"	d
+BUILD_DIR	Demo/MT3628_Cortex_A9SPCore/Makefile	/^BUILD_DIR = Build$/;"	m
+BUILD_DIR	Demo/Versatile_Express_Cortex_A9MPCore/Makefile	/^BUILD_DIR = Build$/;"	m
+BUILD_DIR	Demo/Versatile_Express_Cortex_A9MPCore/MultiCore/Makefile	/^BUILD_DIR = Build$/;"	m
+BUILD_DIR	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/Makefile	/^BUILD_DIR = Build$/;"	m
+CC	Demo/MT3628_Cortex_A9SPCore/Makefile	/^CC = arm-none-eabi-gcc$/;"	m
+CC	Demo/Versatile_Express_Cortex_A9MPCore/Makefile	/^CC = arm-eabi-gcc$/;"	m
+CC	Demo/Versatile_Express_Cortex_A9MPCore/MultiCore/Makefile	/^CC = arm-eabi-gcc$/;"	m
+CC	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/Makefile	/^CC = arm-eabi-gcc$/;"	m
+COMTEST_H	Demo/Common/include/comtest2.h	55;"	d
+COUNT_SEMAPHORE_TEST_H	Demo/Common/include/countsem.h	55;"	d
+COUNT_SEM_STRUCT	Demo/Common/Minimal/countsem.c	/^typedef struct COUNT_SEM_STRUCT$/;"	s	file:
+CO_ROUTINE_H	Source/include/croutine.h	55;"	d
+C_FILES	Demo/MT3628_Cortex_A9SPCore/Makefile	/^C_FILES = $(ADD_C_FILES) \\$/;"	m
+C_FILES	Demo/Versatile_Express_Cortex_A9MPCore/Makefile	/^C_FILES =	Source\/croutine.c \\$/;"	m
+C_FILES	Demo/Versatile_Express_Cortex_A9MPCore/MultiCore/Makefile	/^C_FILES =	Source\/croutine.c \\$/;"	m
+C_FILES	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/Makefile	/^C_FILES =	$/;"	m
+C_OBJS	Demo/MT3628_Cortex_A9SPCore/Makefile	/^C_OBJS = $(C_FILES:%.c=$(BUILD_DIR)\/%.o)$/;"	m
+C_OBJS	Demo/Versatile_Express_Cortex_A9MPCore/Makefile	/^C_OBJS = $(C_FILES:%.c=$(BUILD_DIR)\/%.o)$/;"	m
+C_OBJS	Demo/Versatile_Express_Cortex_A9MPCore/MultiCore/Makefile	/^C_OBJS = $(C_FILES:%.c=$(BUILD_DIR)\/%.o)$/;"	m
+C_OPTS	Demo/MT3628_Cortex_A9SPCore/Makefile	/^C_OPTS =	-I"$(SOURCE_DIR)\/Demo\/MT3628_Cortex_A9SPCore" \\$/;"	m
+C_OPTS	Demo/Versatile_Express_Cortex_A9MPCore/Makefile	/^C_OPTS =	-I"$(SOURCE_DIR)\/Demo\/Versatile_Express_Cortex_A9MPCore" \\$/;"	m
+C_OPTS	Demo/Versatile_Express_Cortex_A9MPCore/MultiCore/Makefile	/^C_OPTS =	-I"$(SOURCE_DIR)\/Demo" \\$/;"	m
+C_OPTS	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/Makefile	/^C_OPTS =	-O3 \\$/;"	m
+Core0EntryPoint	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/startup.S	/^#define Core0EntryPoint 0x0010000$/;"	d
+Core1EntryPoint	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/startup.S	/^#define Core1EntryPoint 0x1010000$/;"	d
+Core2EntryPoint	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/startup.S	/^#define Core2EntryPoint 0x2010000$/;"	d
+Core3EntryPoint	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/startup.S	/^#define Core3EntryPoint 0x3010000$/;"	d
+DEFINES	Demo/Versatile_Express_Cortex_A9MPCore/Makefile	/^DEFINES = -DPRINTF_FLOAT_SUPPORT$/;"	m
+DEFINES	Demo/Versatile_Express_Cortex_A9MPCore/MultiCore/Makefile	/^DEFINES = $/;"	m
+DEFINES	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/Makefile	/^DEFINES = $/;"	m
+DYNAMIC_MANIPULATION_H	Demo/Common/include/dynamic.h	55;"	d
+EVENTS_TEST_H	Demo/Common/include/mevents.h	55;"	d
+FILE_OI_H	Demo/Common/include/fileIO.h	55;"	d
+FIQ_Addr	Demo/Versatile_Express_Cortex_A9MPCore/startup.S	/^FIQ_Addr:        .word     FIQ_Handler$/;"	l
+FIQ_Addr	Demo/Versatile_Express_Cortex_A9MPCore/vectors.S	/^FIQ_Addr:        .word     FIQ_Handler$/;"	l
+FIQ_Handler	Demo/Versatile_Express_Cortex_A9MPCore/startup.S	/^FIQ_Handler:$/;"	l
+FIQ_Handler	Demo/Versatile_Express_Cortex_A9MPCore/vectors.S	/^FIQ_Handler:$/;"	l
+FLASH_LED_H	Demo/Common/include/flash.h	55;"	d
+FLOP_TASKS_H	Demo/Common/include/flop.h	55;"	d
+FREERTOS_CONFIG_H	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	56;"	d
+FREERTOS_CONFIG_H	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	56;"	d
+FreeRTOS_IRQ_Handler	Source/portable/GCC/ARM_CA9/portASM.S	/^FreeRTOS_IRQ_Handler:$/;"	l
+FreeRTOS_SWI_Handler	Source/portable/GCC/ARM_CA9/portASM.S	/^FreeRTOS_SWI_Handler:$/;"	l
+GEN_Q_TEST_H	Demo/Common/include/GenQTest.h	55;"	d
+INCLUDE_pcTaskGetTaskName	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	116;"	d
+INCLUDE_pcTaskGetTaskName	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	116;"	d
+INCLUDE_pcTaskGetTaskName	Source/include/FreeRTOS.h	140;"	d
+INCLUDE_uxTaskGetStackHighWaterMark	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	112;"	d
+INCLUDE_uxTaskGetStackHighWaterMark	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	112;"	d
+INCLUDE_uxTaskGetStackHighWaterMark	Source/include/FreeRTOS.h	148;"	d
+INCLUDE_uxTaskPriorityGet	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	106;"	d
+INCLUDE_uxTaskPriorityGet	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	106;"	d
+INCLUDE_vTaskCleanUpResources	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	108;"	d
+INCLUDE_vTaskCleanUpResources	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	108;"	d
+INCLUDE_vTaskDelay	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	111;"	d
+INCLUDE_vTaskDelay	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	111;"	d
+INCLUDE_vTaskDelayUntil	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	110;"	d
+INCLUDE_vTaskDelayUntil	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	110;"	d
+INCLUDE_vTaskDelete	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	107;"	d
+INCLUDE_vTaskDelete	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	107;"	d
+INCLUDE_vTaskPrioritySet	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	105;"	d
+INCLUDE_vTaskPrioritySet	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	105;"	d
+INCLUDE_vTaskSuspend	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	109;"	d
+INCLUDE_vTaskSuspend	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	109;"	d
+INCLUDE_xTaskGetCurrentTaskHandle	Source/include/FreeRTOS.h	221;"	d
+INCLUDE_xTaskGetIdleTaskHandle	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	115;"	d
+INCLUDE_xTaskGetIdleTaskHandle	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	115;"	d
+INCLUDE_xTaskGetIdleTaskHandle	Source/include/FreeRTOS.h	132;"	d
+INCLUDE_xTaskGetSchedulerState	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	113;"	d
+INCLUDE_xTaskGetSchedulerState	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	113;"	d
+INCLUDE_xTaskGetSchedulerState	Source/include/FreeRTOS.h	217;"	d
+INCLUDE_xTaskResumeFromISR	Source/include/FreeRTOS.h	188;"	d
+INCLUDE_xTimerGetTimerDaemonTaskHandle	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	114;"	d
+INCLUDE_xTimerGetTimerDaemonTaskHandle	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	114;"	d
+INCLUDE_xTimerGetTimerDaemonTaskHandle	Source/include/FreeRTOS.h	136;"	d
+INC_FREERTOS_H	Source/include/FreeRTOS.h	55;"	d
+INTEGER_TASKS_H	Demo/Common/include/integer.h	55;"	d
+IRQ_Addr	Demo/Versatile_Express_Cortex_A9MPCore/startup.S	/^IRQ_Addr:        .word     IRQ_Handler$/;"	l
+IRQ_Addr	Demo/Versatile_Express_Cortex_A9MPCore/vectors.S	/^IRQ_Addr:        .word     IRQ_Handler$/;"	l
+IRQ_Handler	Demo/Versatile_Express_Cortex_A9MPCore/startup.S	/^IRQ_Handler:$/;"	l
+IRQ_Handler	Demo/Versatile_Express_Cortex_A9MPCore/vectors.S	/^IRQ_Handler:$/;"	l
+JumpTable	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/startup.S	/^JumpTable:$/;"	l
+LD	Demo/MT3628_Cortex_A9SPCore/Makefile	/^LD = arm-none-eabi-gcc$/;"	m
+LD	Demo/Versatile_Express_Cortex_A9MPCore/Makefile	/^LD = arm-eabi-gcc$/;"	m
+LD	Demo/Versatile_Express_Cortex_A9MPCore/MultiCore/Makefile	/^LD = arm-eabi-gcc$/;"	m
+LD	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/Makefile	/^LD = arm-eabi-gcc$/;"	m
+LIBS	Demo/MT3628_Cortex_A9SPCore/Makefile	/^LIBS =$/;"	m
+LIBS	Demo/Versatile_Express_Cortex_A9MPCore/Makefile	/^LIBS = -lm$/;"	m
+LIBS	Demo/Versatile_Express_Cortex_A9MPCore/MultiCore/Makefile	/^LIBS = $/;"	m
+LIBS	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/Makefile	/^LIBS = $/;"	m
+LINK_PATH	Demo/MT3628_Cortex_A9SPCore/Makefile	/^LINK_PATH = .\/$/;"	m
+LINK_PATH	Demo/Versatile_Express_Cortex_A9MPCore/Makefile	/^LINK_PATH = MultiCore\/$/;"	m
+LIST_H	Source/include/list.h	84;"	d
+Launcher	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/startup.S	/^Launcher:$/;"	l
+MPU_WRAPPERS_H	Source/include/mpu_wrappers.h	55;"	d
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	Source/portable/MemMang/heap_1.c	67;"	d	file:
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	Source/portable/MemMang/heap_1.c	72;"	d	file:
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	Source/portable/MemMang/heap_2.c	67;"	d	file:
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	Source/portable/MemMang/heap_2.c	72;"	d	file:
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	Source/portable/MemMang/heap_3.c	71;"	d	file:
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	Source/portable/MemMang/heap_3.c	76;"	d	file:
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	Source/queue.c	60;"	d	file:
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	Source/queue.c	69;"	d	file:
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	Source/tasks.c	62;"	d	file:
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	Source/tasks.c	69;"	d	file:
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	Source/timers.c	57;"	d	file:
+MPU_WRAPPERS_INCLUDED_FROM_API_FILE	Source/timers.c	64;"	d	file:
+NAME	Demo/MT3628_Cortex_A9SPCore/Makefile	/^NAME = FreeRTOSDemo-Baikal$/;"	m
+NAME	Demo/Versatile_Express_Cortex_A9MPCore/Makefile	/^NAME = FreeRTOSDemo$/;"	m
+NAME	Demo/Versatile_Express_Cortex_A9MPCore/MultiCore/Makefile	/^NAME = FreeRTOSDemo$/;"	m
+NAME	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/Makefile	/^NAME = VersatileLoader$/;"	m
+No_Handler	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/startup.S	/^No_Handler:$/;"	l
+OBJCOPY	Demo/MT3628_Cortex_A9SPCore/Makefile	/^OBJCOPY = arm-none-eabi-objcopy$/;"	m
+OBJCOPY	Demo/Versatile_Express_Cortex_A9MPCore/Makefile	/^OBJCOPY = arm-eabi-objcopy$/;"	m
+OBJCOPY	Demo/Versatile_Express_Cortex_A9MPCore/MultiCore/Makefile	/^OBJCOPY = arm-eabi-objcopy$/;"	m
+OBJCOPY	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/Makefile	/^OBJCOPY = arm-eabi-objcopy$/;"	m
+OBJS	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/Makefile	/^OBJS = $(C_FILES:%.c=$(BUILD_DIR)\/%.o) $(S_FILES:%.S=$(BUILD_DIR)\/%.o)$/;"	m
+PARTEST_H	Demo/Common/include/partest.h	55;"	d
+POLLED_Q_H	Demo/Common/include/PollQ.h	55;"	d
+PORTABLE_H	Source/include/portable.h	59;"	d
+PORTMACRO_H	Source/portable/GCC/ARM_CA9/portmacro.h	63;"	d
+PORTMACRO_H	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	63;"	d
+PRINT_H	Demo/Common/include/print.h	55;"	d
+PRIVILEGED_DATA	Source/include/mpu_wrappers.h	120;"	d
+PRIVILEGED_DATA	Source/include/mpu_wrappers.h	128;"	d
+PRIVILEGED_FUNCTION	Source/include/mpu_wrappers.h	114;"	d
+PRIVILEGED_FUNCTION	Source/include/mpu_wrappers.h	119;"	d
+PRIVILEGED_FUNCTION	Source/include/mpu_wrappers.h	127;"	d
+PROJDEFS_H	Source/include/projdefs.h	55;"	d
+PageTable	Source/portable/GCC/ARM_CA9/port.c	/^static unsigned long PageTable[4096] __attribute__((aligned (16384)));$/;"	v	file:
+PageTable	Source/portable/GCC/ARM_Cortex-A9/port.c	/^static unsigned long PageTable[4096] __attribute__((aligned (16384)));$/;"	v	file:
+Prefetch_Addr	Demo/Versatile_Express_Cortex_A9MPCore/startup.S	/^Prefetch_Addr:   .word     Prefetch_Handler$/;"	l
+Prefetch_Addr	Demo/Versatile_Express_Cortex_A9MPCore/vectors.S	/^Prefetch_Addr:   .word     Prefetch_Handler$/;"	l
+Prefetch_Handler	Demo/Versatile_Express_Cortex_A9MPCore/startup.S	/^Prefetch_Handler:$/;"	l
+Prefetch_Handler	Demo/Versatile_Express_Cortex_A9MPCore/vectors.S	/^Prefetch_Handler:$/;"	l
+Prefetch_Handler_Panic	Source/portable/GCC/ARM_CA9/port.c	/^void Prefetch_Handler_Panic( void )$/;"	f
+Prefetch_Handler_Panic	Source/portable/GCC/ARM_Cortex-A9/port.c	/^void Prefetch_Handler_Panic( void )$/;"	f
+QUEUE_H	Source/include/queue.h	56;"	d
+QUEUE_REGISTRY_ITEM	Source/queue.c	/^	typedef struct QUEUE_REGISTRY_ITEM$/;"	s	file:
+Q_PEEK_TEST_H	Demo/Common/include/QPeek.h	55;"	d
+QueueDefinition	Source/queue.c	/^typedef struct QueueDefinition$/;"	s	file:
+RECURSIVE_MUTEX_TEST_H	Demo/Common/include/recmutex.h	55;"	d
+RTCCR	Demo/Versatile_Express_Cortex_A9MPCore/pl031_rtc.c	67;"	d	file:
+RTCDR	Demo/Versatile_Express_Cortex_A9MPCore/pl031_rtc.c	64;"	d	file:
+RTCICR	Demo/Versatile_Express_Cortex_A9MPCore/pl031_rtc.c	71;"	d	file:
+RTCIMSC	Demo/Versatile_Express_Cortex_A9MPCore/pl031_rtc.c	68;"	d	file:
+RTCLR	Demo/Versatile_Express_Cortex_A9MPCore/pl031_rtc.c	66;"	d	file:
+RTCMIS	Demo/Versatile_Express_Cortex_A9MPCore/pl031_rtc.c	70;"	d	file:
+RTCMR	Demo/Versatile_Express_Cortex_A9MPCore/pl031_rtc.c	65;"	d	file:
+RTCRIS	Demo/Versatile_Express_Cortex_A9MPCore/pl031_rtc.c	69;"	d	file:
+RTC_BASE	Demo/Versatile_Express_Cortex_A9MPCore/pl031_rtc.c	63;"	d	file:
+RX_QUEUE	Demo/MT3628_Cortex_A9SPCore/uart.c	153;"	d	file:
+RX_QUEUE	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	116;"	d	file:
+RX_QUEUE	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	153;"	d	file:
+ReadACTLR	Source/portable/GCC/ARM_CA9/port.c	/^static unsigned long ReadACTLR()$/;"	f	file:
+ReadACTLR	Source/portable/GCC/ARM_Cortex-A9/port.c	/^static unsigned long ReadACTLR()$/;"	f	file:
+ReadSCTLR	Source/portable/GCC/ARM_CA9/port.c	/^static unsigned long ReadSCTLR()$/;"	f	file:
+ReadSCTLR	Source/portable/GCC/ARM_Cortex-A9/port.c	/^static unsigned long ReadSCTLR()$/;"	f	file:
+Reset_Addr	Demo/Versatile_Express_Cortex_A9MPCore/startup.S	/^Reset_Addr:      .word     Reset_Handler$/;"	l
+Reset_Addr	Demo/Versatile_Express_Cortex_A9MPCore/vectors.S	/^Reset_Addr:      .word     __cs3_start_asm$/;"	l
+Reset_Handler	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/startup.S	/^Reset_Handler:$/;"	l
+Reset_Handler	Demo/Versatile_Express_Cortex_A9MPCore/startup.S	/^Reset_Handler:$/;"	l
+SEMAPHORE_H	Source/include/semphr.h	55;"	d
+SEMAPHORE_PARAMETERS	Demo/Common/Minimal/semtest.c	/^typedef struct SEMAPHORE_PARAMETERS$/;"	s	file:
+SEMAPHORE_TEST_H	Demo/Common/include/semtest.h	55;"	d
+SERIAL_COMMS_H	Demo/Common/include/serial.h	55;"	d
+SOURCE_DIR	Demo/MT3628_Cortex_A9SPCore/Makefile	/^SOURCE_DIR = ..\/..$/;"	m
+SOURCE_DIR	Demo/Versatile_Express_Cortex_A9MPCore/Makefile	/^SOURCE_DIR = ..\/..$/;"	m
+SOURCE_DIR	Demo/Versatile_Express_Cortex_A9MPCore/MultiCore/Makefile	/^SOURCE_DIR = ..$/;"	m
+SOURCE_DIR	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/Makefile	/^SOURCE_DIR = .$/;"	m
+STACK_MACROS_H	Source/include/StackMacros.h	55;"	d
+STRUCT_HANDLER_PARAMETER	Source/portable/GCC/ARM_CA9/port.c	/^typedef struct STRUCT_HANDLER_PARAMETER$/;"	s	file:
+STRUCT_HANDLER_PARAMETER	Source/portable/GCC/ARM_Cortex-A9/port.c	/^typedef struct STRUCT_HANDLER_PARAMETER$/;"	s	file:
+SUICIDE_TASK_H	Demo/Common/include/death.h	55;"	d
+SWI_Addr	Demo/Versatile_Express_Cortex_A9MPCore/startup.S	/^SWI_Addr:        .word     SWI_Handler$/;"	l
+SWI_Addr	Demo/Versatile_Express_Cortex_A9MPCore/vectors.S	/^SWI_Addr:        .word     SWI_Handler$/;"	l
+SWI_Handler	Demo/Versatile_Express_Cortex_A9MPCore/startup.S	/^SWI_Handler:$/;"	l
+SWI_Handler	Demo/Versatile_Express_Cortex_A9MPCore/vectors.S	/^SWI_Handler:$/;"	l
+S_FILES	Demo/MT3628_Cortex_A9SPCore/Makefile	/^S_FILES = Demo\/MT3628_Cortex_A9SPCore\/start.S$/;"	m
+S_FILES	Demo/Versatile_Express_Cortex_A9MPCore/Makefile	/^S_FILES =	Demo\/Versatile_Express_Cortex_A9MPCore\/startup.S$/;"	m
+S_FILES	Demo/Versatile_Express_Cortex_A9MPCore/MultiCore/Makefile	/^S_FILES =	Demo\/startup.S$/;"	m
+S_FILES	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/Makefile	/^S_FILES =	startup.S$/;"	m
+S_OBJS	Demo/MT3628_Cortex_A9SPCore/Makefile	/^S_OBJS = $(S_FILES:%.S=$(BUILD_DIR)\/%.o)$/;"	m
+S_OBJS	Demo/Versatile_Express_Cortex_A9MPCore/Makefile	/^S_OBJS = $(S_FILES:%.S=$(BUILD_DIR)\/%.o)$/;"	m
+S_OBJS	Demo/Versatile_Express_Cortex_A9MPCore/MultiCore/Makefile	/^S_OBJS = $(S_FILES:%.S=$(BUILD_DIR)\/%.o)$/;"	m
+Stack	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/startup.S	/^Stack:$/;"	l
+StackEnd	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/startup.S	/^StackEnd:$/;"	l
+Stack_Addr	Demo/Versatile_Express_Cortex_A9MPCore/startup.S	/^Stack_Addr:		.word	  __stack$/;"	l
+Stack_Addr	Demo/Versatile_Express_Cortex_A9MPCore/vectors.S	/^Stack_Addr:		.word	  __cs3_stack$/;"	l
+TASK_H	Source/include/task.h	56;"	d
+TIMERS_H	Source/include/timers.h	56;"	d
+TIMER_0_1_BASE	Demo/Versatile_Express_Cortex_A9MPCore/sp804_timer.c	64;"	d	file:
+TIMER_1_BGLOAD	Demo/Versatile_Express_Cortex_A9MPCore/sp804_timer.c	71;"	d	file:
+TIMER_1_CONTROL	Demo/Versatile_Express_Cortex_A9MPCore/sp804_timer.c	67;"	d	file:
+TIMER_1_INTCLR	Demo/Versatile_Express_Cortex_A9MPCore/sp804_timer.c	68;"	d	file:
+TIMER_1_LOAD	Demo/Versatile_Express_Cortex_A9MPCore/sp804_timer.c	65;"	d	file:
+TIMER_1_MIS	Demo/Versatile_Express_Cortex_A9MPCore/sp804_timer.c	70;"	d	file:
+TIMER_1_RIS	Demo/Versatile_Express_Cortex_A9MPCore/sp804_timer.c	69;"	d	file:
+TIMER_1_VALUE	Demo/Versatile_Express_Cortex_A9MPCore/sp804_timer.c	66;"	d	file:
+TIMER_2_BGLOAD	Demo/Versatile_Express_Cortex_A9MPCore/sp804_timer.c	78;"	d	file:
+TIMER_2_CONTROL	Demo/Versatile_Express_Cortex_A9MPCore/sp804_timer.c	74;"	d	file:
+TIMER_2_INTCLR	Demo/Versatile_Express_Cortex_A9MPCore/sp804_timer.c	75;"	d	file:
+TIMER_2_LOAD	Demo/Versatile_Express_Cortex_A9MPCore/sp804_timer.c	72;"	d	file:
+TIMER_2_MIS	Demo/Versatile_Express_Cortex_A9MPCore/sp804_timer.c	77;"	d	file:
+TIMER_2_RIS	Demo/Versatile_Express_Cortex_A9MPCore/sp804_timer.c	76;"	d	file:
+TIMER_2_VALUE	Demo/Versatile_Express_Cortex_A9MPCore/sp804_timer.c	73;"	d	file:
+TIMER_DEMO_H	Demo/Common/include/TimerDemo.h	55;"	d
+TX_QUEUE	Demo/MT3628_Cortex_A9SPCore/uart.c	152;"	d	file:
+TX_QUEUE	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	115;"	d	file:
+TX_QUEUE	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	152;"	d	file:
+UART0_BASE	Demo/MT3628_Cortex_A9SPCore/uart.c	70;"	d	file:
+UART0_BASE	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	70;"	d	file:
+UART0_BASE	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	70;"	d	file:
+UART0_VECTOR_ID	Demo/MT3628_Cortex_A9SPCore/uart.c	144;"	d	file:
+UART0_VECTOR_ID	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	109;"	d	file:
+UART0_VECTOR_ID	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	144;"	d	file:
+UART1_BASE	Demo/MT3628_Cortex_A9SPCore/uart.c	71;"	d	file:
+UART1_BASE	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	71;"	d	file:
+UART1_BASE	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	71;"	d	file:
+UART1_VECTOR_ID	Demo/MT3628_Cortex_A9SPCore/uart.c	147;"	d	file:
+UART1_VECTOR_ID	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	110;"	d	file:
+UART1_VECTOR_ID	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	147;"	d	file:
+UART2_BASE	Demo/MT3628_Cortex_A9SPCore/uart.c	72;"	d	file:
+UART2_BASE	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	72;"	d	file:
+UART2_BASE	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	72;"	d	file:
+UART2_VECTOR_ID	Demo/MT3628_Cortex_A9SPCore/uart.c	148;"	d	file:
+UART2_VECTOR_ID	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	111;"	d	file:
+UART2_VECTOR_ID	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	148;"	d	file:
+UART3_BASE	Demo/MT3628_Cortex_A9SPCore/uart.c	73;"	d	file:
+UART3_BASE	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	73;"	d	file:
+UART3_BASE	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	73;"	d	file:
+UART3_VECTOR_ID	Demo/MT3628_Cortex_A9SPCore/uart.c	149;"	d	file:
+UART3_VECTOR_ID	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	112;"	d	file:
+UART3_VECTOR_ID	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	149;"	d	file:
+UART4_BASE	Demo/MT3628_Cortex_A9SPCore/uart.c	74;"	d	file:
+UART4_BASE	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	74;"	d	file:
+UART4_VECTOR_ID	Demo/MT3628_Cortex_A9SPCore/uart.c	150;"	d	file:
+UART4_VECTOR_ID	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	113;"	d	file:
+UART4_VECTOR_ID	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	150;"	d	file:
+UARTCR	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	83;"	d	file:
+UARTDMACR	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	89;"	d	file:
+UARTDR	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	76;"	d	file:
+UARTFBRD	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	81;"	d	file:
+UARTFR	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	78;"	d	file:
+UARTIBRD	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	80;"	d	file:
+UARTICR	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	88;"	d	file:
+UARTIFLS	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	84;"	d	file:
+UARTILPR	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	79;"	d	file:
+UARTIMSC	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	85;"	d	file:
+UARTLCR_H	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	82;"	d	file:
+UARTMIS	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	87;"	d	file:
+UARTPCellID0	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	94;"	d	file:
+UARTPCellID1	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	95;"	d	file:
+UARTPCellID2	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	96;"	d	file:
+UARTPCellID3	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	97;"	d	file:
+UARTPeriphID0	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	90;"	d	file:
+UARTPeriphID1	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	91;"	d	file:
+UARTPeriphID2	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	92;"	d	file:
+UARTPeriphID3	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	93;"	d	file:
+UARTRIS	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	86;"	d	file:
+UARTRSR_UARTECR	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	77;"	d	file:
+UART_ASR	Demo/MT3628_Cortex_A9SPCore/uart.c	85;"	d	file:
+UART_ASR	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	85;"	d	file:
+UART_CLK	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	122;"	d	file:
+UART_CLK	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	124;"	d	file:
+UART_CLK_HZ	Demo/MT3628_Cortex_A9SPCore/uart.c	143;"	d	file:
+UART_CLK_HZ	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	106;"	d	file:
+UART_CLK_HZ	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	143;"	d	file:
+UART_DEVICE_TYPE	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	74;"	d	file:
+UART_FCR_INTERRUPT_TRIGGER_LEVEL_MASK	Demo/MT3628_Cortex_A9SPCore/uart.c	104;"	d	file:
+UART_FCR_INTERRUPT_TRIGGER_LEVEL_MASK	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	104;"	d	file:
+UART_FCR_RESET_RX_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	107;"	d	file:
+UART_FCR_RESET_RX_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	107;"	d	file:
+UART_FCR_RESET_TX_EMPTY_INT_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	105;"	d	file:
+UART_FCR_RESET_TX_EMPTY_INT_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	105;"	d	file:
+UART_FCR_RESET_TX_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	106;"	d	file:
+UART_FCR_RESET_TX_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	106;"	d	file:
+UART_FCR_TX_RX_ENABLE_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	108;"	d	file:
+UART_FCR_TX_RX_ENABLE_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	108;"	d	file:
+UART_FIFO_SIZE_BYTES	Demo/MT3628_Cortex_A9SPCore/uart.c	146;"	d	file:
+UART_FIFO_SIZE_BYTES	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	108;"	d	file:
+UART_FIFO_SIZE_BYTES	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	146;"	d	file:
+UART_FLAG_RXFE	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	104;"	d	file:
+UART_FLAG_TXFE	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	102;"	d	file:
+UART_FLAG_TXFF	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	103;"	d	file:
+UART_IER_DLAB	Demo/MT3628_Cortex_A9SPCore/uart.c	77;"	d	file:
+UART_IER_DLAB	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	77;"	d	file:
+UART_IER_DMA_ENABLE	Demo/MT3628_Cortex_A9SPCore/uart.c	87;"	d	file:
+UART_IER_DMA_ENABLE	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	87;"	d	file:
+UART_IER_MODEM_INT_ENABLE	Demo/MT3628_Cortex_A9SPCore/uart.c	91;"	d	file:
+UART_IER_MODEM_INT_ENABLE	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	91;"	d	file:
+UART_IER_NRZ_ENABLE	Demo/MT3628_Cortex_A9SPCore/uart.c	89;"	d	file:
+UART_IER_NRZ_ENABLE	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	89;"	d	file:
+UART_IER_RXDA_INT_ENABLE	Demo/MT3628_Cortex_A9SPCore/uart.c	94;"	d	file:
+UART_IER_RXDA_INT_ENABLE	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	94;"	d	file:
+UART_IER_RXLS_INT_ENABLE	Demo/MT3628_Cortex_A9SPCore/uart.c	92;"	d	file:
+UART_IER_RXLS_INT_ENABLE	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	92;"	d	file:
+UART_IER_RX_TIMEOUT_INT_ENABLE	Demo/MT3628_Cortex_A9SPCore/uart.c	90;"	d	file:
+UART_IER_RX_TIMEOUT_INT_ENABLE	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	90;"	d	file:
+UART_IER_TXDR_INT_ENABLE	Demo/MT3628_Cortex_A9SPCore/uart.c	93;"	d	file:
+UART_IER_TXDR_INT_ENABLE	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	93;"	d	file:
+UART_IER_UNIT_ENABLE	Demo/MT3628_Cortex_A9SPCore/uart.c	88;"	d	file:
+UART_IER_UNIT_ENABLE	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	88;"	d	file:
+UART_IIR_FCR	Demo/MT3628_Cortex_A9SPCore/uart.c	78;"	d	file:
+UART_IIR_FCR	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	78;"	d	file:
+UART_IIR_FIFO_ENABLE_STATUS_MASK	Demo/MT3628_Cortex_A9SPCore/uart.c	96;"	d	file:
+UART_IIR_FIFO_ENABLE_STATUS_MASK	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	96;"	d	file:
+UART_IIR_INTERRUPT_PENDING_MASK	Demo/MT3628_Cortex_A9SPCore/uart.c	102;"	d	file:
+UART_IIR_INTERRUPT_PENDING_MASK	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	102;"	d	file:
+UART_IIR_INTERRUPT_STATUS_MASK	Demo/MT3628_Cortex_A9SPCore/uart.c	98;"	d	file:
+UART_IIR_INTERRUPT_STATUS_MASK	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	98;"	d	file:
+UART_IIR_INTERRUPT_STATUS_RX_DR	Demo/MT3628_Cortex_A9SPCore/uart.c	100;"	d	file:
+UART_IIR_INTERRUPT_STATUS_RX_DR	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	100;"	d	file:
+UART_IIR_INTERRUPT_STATUS_RX_ERROR	Demo/MT3628_Cortex_A9SPCore/uart.c	99;"	d	file:
+UART_IIR_INTERRUPT_STATUS_RX_ERROR	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	99;"	d	file:
+UART_IIR_INTERRUPT_STATUS_TX	Demo/MT3628_Cortex_A9SPCore/uart.c	101;"	d	file:
+UART_IIR_INTERRUPT_STATUS_TX	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	101;"	d	file:
+UART_IIR_TIMEOUT_STATUS_MASK	Demo/MT3628_Cortex_A9SPCore/uart.c	97;"	d	file:
+UART_IIR_TIMEOUT_STATUS_MASK	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	97;"	d	file:
+UART_INT_STATUS_RX	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	100;"	d	file:
+UART_INT_STATUS_TX	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	99;"	d	file:
+UART_IRDA_CSR	Demo/MT3628_Cortex_A9SPCore/uart.c	84;"	d	file:
+UART_IRDA_CSR	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	84;"	d	file:
+UART_LCR	Demo/MT3628_Cortex_A9SPCore/uart.c	79;"	d	file:
+UART_LCR	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	79;"	d	file:
+UART_LCR_DIVISOR_LATCH_ACCESS_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	110;"	d	file:
+UART_LCR_DIVISOR_LATCH_ACCESS_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	110;"	d	file:
+UART_LCR_EVEN_PARITY_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	113;"	d	file:
+UART_LCR_EVEN_PARITY_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	113;"	d	file:
+UART_LCR_PARITY_ENABLE_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	114;"	d	file:
+UART_LCR_PARITY_ENABLE_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	114;"	d	file:
+UART_LCR_SET_BREAK_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	111;"	d	file:
+UART_LCR_SET_BREAK_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	111;"	d	file:
+UART_LCR_STICKY_PARITY_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	112;"	d	file:
+UART_LCR_STICKY_PARITY_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	112;"	d	file:
+UART_LCR_STOP_BIT_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	115;"	d	file:
+UART_LCR_STOP_BIT_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	115;"	d	file:
+UART_LCR_WORD_LENGTH_SELECT_MASK	Demo/MT3628_Cortex_A9SPCore/uart.c	116;"	d	file:
+UART_LCR_WORD_LENGTH_SELECT_MASK	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	116;"	d	file:
+UART_LSR	Demo/MT3628_Cortex_A9SPCore/uart.c	81;"	d	file:
+UART_LSR	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	81;"	d	file:
+UART_LSR_BI_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	121;"	d	file:
+UART_LSR_BI_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	121;"	d	file:
+UART_LSR_FIFO_ERROR_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	118;"	d	file:
+UART_LSR_FIFO_ERROR_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	118;"	d	file:
+UART_LSR_FRAME_ERROR_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	122;"	d	file:
+UART_LSR_FRAME_ERROR_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	122;"	d	file:
+UART_LSR_OVERRUN_ERROR_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	124;"	d	file:
+UART_LSR_OVERRUN_ERROR_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	124;"	d	file:
+UART_LSR_PARITY_ERROR_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	123;"	d	file:
+UART_LSR_PARITY_ERROR_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	123;"	d	file:
+UART_LSR_RXDR_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	125;"	d	file:
+UART_LSR_RXDR_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	125;"	d	file:
+UART_LSR_TXDR_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	120;"	d	file:
+UART_LSR_TXDR_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	120;"	d	file:
+UART_LSR_TXE_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	119;"	d	file:
+UART_LSR_TXE_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	119;"	d	file:
+UART_MCR	Demo/MT3628_Cortex_A9SPCore/uart.c	80;"	d	file:
+UART_MCR	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	80;"	d	file:
+UART_MCR_DTR_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	131;"	d	file:
+UART_MCR_DTR_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	131;"	d	file:
+UART_MCR_LOOP_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	127;"	d	file:
+UART_MCR_LOOP_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	127;"	d	file:
+UART_MCR_OUT1_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	129;"	d	file:
+UART_MCR_OUT1_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	129;"	d	file:
+UART_MCR_OUT2_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	128;"	d	file:
+UART_MCR_OUT2_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	128;"	d	file:
+UART_MCR_RTS_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	130;"	d	file:
+UART_MCR_RTS_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	130;"	d	file:
+UART_MSR	Demo/MT3628_Cortex_A9SPCore/uart.c	82;"	d	file:
+UART_MSR	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	82;"	d	file:
+UART_MSR_CTS_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	136;"	d	file:
+UART_MSR_CTS_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	136;"	d	file:
+UART_MSR_DCD_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	133;"	d	file:
+UART_MSR_DCD_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	133;"	d	file:
+UART_MSR_DCTS_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	140;"	d	file:
+UART_MSR_DCTS_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	140;"	d	file:
+UART_MSR_DDCD_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	137;"	d	file:
+UART_MSR_DDCD_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	137;"	d	file:
+UART_MSR_DDSR_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	139;"	d	file:
+UART_MSR_DDSR_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	139;"	d	file:
+UART_MSR_DSR_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	135;"	d	file:
+UART_MSR_DSR_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	135;"	d	file:
+UART_MSR_RI_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	134;"	d	file:
+UART_MSR_RI_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	134;"	d	file:
+UART_MSR_TERI_FLAG	Demo/MT3628_Cortex_A9SPCore/uart.c	138;"	d	file:
+UART_MSR_TERI_FLAG	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	138;"	d	file:
+UART_SPR	Demo/MT3628_Cortex_A9SPCore/uart.c	83;"	d	file:
+UART_SPR	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	83;"	d	file:
+UART_THR_DLAB	Demo/MT3628_Cortex_A9SPCore/uart.c	76;"	d	file:
+UART_THR_DLAB	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	76;"	d	file:
+UART_USE_INTERRUPT	Demo/MT3628_Cortex_A9SPCore/uart.c	68;"	d	file:
+UART_USE_INTERRUPT	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	68;"	d	file:
+UART_USE_INTERRUPT	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	68;"	d	file:
+Undefined_Addr	Demo/Versatile_Express_Cortex_A9MPCore/startup.S	/^Undefined_Addr:  .word     Undefined_Handler$/;"	l
+Undefined_Addr	Demo/Versatile_Express_Cortex_A9MPCore/vectors.S	/^Undefined_Addr:  .word     Undefined_Handler$/;"	l
+Undefined_Handler	Demo/Versatile_Express_Cortex_A9MPCore/startup.S	/^Undefined_Handler:$/;"	l
+Undefined_Handler	Demo/Versatile_Express_Cortex_A9MPCore/vectors.S	/^Undefined_Handler:$/;"	l
+Undefined_Handler_Panic	Source/portable/GCC/ARM_CA9/port.c	/^void Undefined_Handler_Panic( void )$/;"	f
+Undefined_Handler_Panic	Source/portable/GCC/ARM_Cortex-A9/port.c	/^void Undefined_Handler_Panic( void )$/;"	f
+Vector_Init	Demo/Versatile_Express_Cortex_A9MPCore/VersatileLoader/startup.S	/^Vector_Init:$/;"	l
+Vector_Init	Demo/Versatile_Express_Cortex_A9MPCore/startup.S	/^Vector_Init:$/;"	l
+Vector_Init	Demo/Versatile_Express_Cortex_A9MPCore/vectors.S	/^Vector_Init:$/;"	l
+WriteACTLR	Source/portable/GCC/ARM_CA9/port.c	/^static void WriteACTLR(unsigned long ACTLR)$/;"	f	file:
+WriteACTLR	Source/portable/GCC/ARM_Cortex-A9/port.c	/^static void WriteACTLR(unsigned long ACTLR)$/;"	f	file:
+WriteSCTLR	Source/portable/GCC/ARM_CA9/port.c	/^static void WriteSCTLR(unsigned long SCTLR)$/;"	f	file:
+WriteSCTLR	Source/portable/GCC/ARM_Cortex-A9/port.c	/^static void WriteSCTLR(unsigned long SCTLR)$/;"	f	file:
+__cs3_start_asm	Demo/Versatile_Express_Cortex_A9MPCore/vectors.S	/^__cs3_start_asm:$/;"	l
+_close	Demo/MT3628_Cortex_A9SPCore/empty_crt.c	/^int _close(int fd)$/;"	f
+_data_abort	Demo/MT3628_Cortex_A9SPCore/start.S	/^_data_abort:		.word data_abort$/;"	l
+_fiq	Demo/MT3628_Cortex_A9SPCore/start.S	/^_fiq:			.word fiq$/;"	l
+_fstat	Demo/MT3628_Cortex_A9SPCore/empty_crt.c	/^int _fstat(int fd, struct stat *buf)$/;"	f
+_init	Source/portable/GCC/ARM_CA9/port.c	/^void _init(void)$/;"	f
+_init	Source/portable/GCC/ARM_Cortex-A9/port.c	/^void _init(void)$/;"	f
+_irq	Demo/MT3628_Cortex_A9SPCore/start.S	/^_irq:			.word irq$/;"	l
+_isatty	Demo/MT3628_Cortex_A9SPCore/empty_crt.c	/^int _isatty(int fd)$/;"	f
+_lseek	Demo/MT3628_Cortex_A9SPCore/empty_crt.c	/^off_t _lseek(int fd, off_t offset, int whence)$/;"	f
+_not_used	Demo/MT3628_Cortex_A9SPCore/start.S	/^_not_used:		.word not_used$/;"	l
+_prefetch_abort	Demo/MT3628_Cortex_A9SPCore/start.S	/^_prefetch_abort:	.word prefetch_abort$/;"	l
+_read	Demo/MT3628_Cortex_A9SPCore/empty_crt.c	/^_read (int fd, char* buf, int nbytes)$/;"	f
+_reset	Demo/MT3628_Cortex_A9SPCore/start.S	/^_reset:$/;"	l
+_sbrk	Demo/MT3628_Cortex_A9SPCore/empty_crt.c	/^caddr_t _sbrk ( int incr )$/;"	f
+_software_interrupt	Demo/MT3628_Cortex_A9SPCore/start.S	/^_software_interrupt: 	.word software_interrupt$/;"	l
+_undefined_instruction	Demo/MT3628_Cortex_A9SPCore/start.S	/^_undefined_instruction:	.word undefined_instruction $/;"	l
+_vector_table	Demo/MT3628_Cortex_A9SPCore/start.S	/^_vector_table:$/;"	l
+_write	Demo/MT3628_Cortex_A9SPCore/empty_crt.c	/^_write (int fd, char* buf, int nbytes)$/;"	f
+bktALLOWABLE_MARGIN	Demo/Common/Minimal/blocktim.c	81;"	d	file:
+bktDONT_BLOCK	Demo/Common/Minimal/blocktim.c	83;"	d	file:
+bktPRIMARY_BLOCK_TIME	Demo/Common/Minimal/blocktim.c	80;"	d	file:
+bktPRIMARY_PRIORITY	Demo/Common/Minimal/blocktim.c	70;"	d	file:
+bktQUEUE_LENGTH	Demo/Common/Minimal/blocktim.c	78;"	d	file:
+bktRUN_INDICATOR	Demo/Common/Minimal/blocktim.c	84;"	d	file:
+bktSECONDARY_PRIORITY	Demo/Common/Minimal/blocktim.c	74;"	d	file:
+bktSHORT_WAIT	Demo/Common/Minimal/blocktim.c	79;"	d	file:
+bktTIME_TO_BLOCK	Demo/Common/Minimal/blocktim.c	82;"	d	file:
+blckqNUM_TASK_SETS	Demo/Common/Minimal/BlockQ.c	98;"	d	file:
+blckqSTACK_SIZE	Demo/Common/Minimal/BlockQ.c	97;"	d	file:
+comBUFFER_LEN	Demo/Common/Minimal/comtest.c	118;"	d	file:
+comFIRST_BYTE	Demo/Common/Minimal/comtest.c	115;"	d	file:
+comINITIAL_RX_COUNT_VALUE	Demo/Common/Minimal/comtest.c	119;"	d	file:
+comLAST_BYTE	Demo/Common/Minimal/comtest.c	116;"	d	file:
+comNO_BLOCK	Demo/Common/Minimal/comtest.c	109;"	d	file:
+comOFFSET_TIME	Demo/Common/Minimal/comtest.c	105;"	d	file:
+comRX_BLOCK_TIME	Demo/Common/Minimal/comtest.c	112;"	d	file:
+comRX_LED_OFFSET	Demo/Common/Minimal/comtest.c	98;"	d	file:
+comSTACK_SIZE	Demo/Common/Minimal/comtest.c	96;"	d	file:
+comTOTAL_PERMISSIBLE_ERRORS	Demo/Common/Minimal/comtest.c	99;"	d	file:
+comTX_LED_OFFSET	Demo/Common/Minimal/comtest.c	97;"	d	file:
+comTX_MAX_BLOCK_TIME	Demo/Common/Minimal/comtest.c	103;"	d	file:
+comTX_MIN_BLOCK_TIME	Demo/Common/Minimal/comtest.c	104;"	d	file:
+configASSERT	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	119;"	d
+configASSERT	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	119;"	d
+configASSERT	Source/include/FreeRTOS.h	192;"	d
+configCHECK_FOR_STACK_OVERFLOW	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	81;"	d
+configCHECK_FOR_STACK_OVERFLOW	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	81;"	d
+configCHECK_FOR_STACK_OVERFLOW	Source/include/FreeRTOS.h	309;"	d
+configCPU_CLOCK_HZ	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	132;"	d
+configCPU_CLOCK_HZ	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	132;"	d
+configCPU_PERIPH_HZ	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	133;"	d
+configCPU_PERIPH_HZ	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	133;"	d
+configGENERATE_RUN_TIME_STATS	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	80;"	d
+configGENERATE_RUN_TIME_STATS	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	80;"	d
+configGENERATE_RUN_TIME_STATS	Source/include/FreeRTOS.h	455;"	d
+configIDLE_SHOULD_YIELD	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	77;"	d
+configIDLE_SHOULD_YIELD	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	77;"	d
+configIDLE_SHOULD_YIELD	Source/include/FreeRTOS.h	180;"	d
+configKERNEL_INTERRUPT_PRIORITY	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	126;"	d
+configKERNEL_INTERRUPT_PRIORITY	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	126;"	d
+configKERNEL_INTERRUPT_PRIORITY	Source/portable/GCC/ARM_CA9/port.c	76;"	d	file:
+configKERNEL_INTERRUPT_PRIORITY	Source/portable/GCC/ARM_Cortex-A9/port.c	76;"	d	file:
+configLOWEST_INTERRUPT_PRIORITY	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	125;"	d
+configLOWEST_INTERRUPT_PRIORITY	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	125;"	d
+configMAX_CO_ROUTINE_PRIORITIES	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	100;"	d
+configMAX_CO_ROUTINE_PRIORITIES	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	95;"	d
+configMAX_CO_ROUTINE_PRIORITIES	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	100;"	d
+configMAX_CO_ROUTINE_PRIORITIES	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	95;"	d
+configMAX_PRIORITIES	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	94;"	d
+configMAX_PRIORITIES	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	94;"	d
+configMAX_SYSCALL_INTERRUPT_PRIORITY	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	127;"	d
+configMAX_SYSCALL_INTERRUPT_PRIORITY	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	127;"	d
+configMAX_TASK_NAME_LEN	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	74;"	d
+configMAX_TASK_NAME_LEN	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	74;"	d
+configMAX_TASK_NAME_LEN	Source/include/FreeRTOS.h	176;"	d
+configMINIMAL_STACK_SIZE	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	72;"	d
+configMINIMAL_STACK_SIZE	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	72;"	d
+configPLATFORM	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	130;"	d
+configPLATFORM	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	130;"	d
+configQUEUE_REGISTRY_SIZE	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	83;"	d
+configQUEUE_REGISTRY_SIZE	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	83;"	d
+configQUEUE_REGISTRY_SIZE	Source/include/FreeRTOS.h	238;"	d
+configTICK_RATE_HZ	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	71;"	d
+configTICK_RATE_HZ	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	71;"	d
+configTIMER_QUEUE_LENGTH	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	91;"	d
+configTIMER_QUEUE_LENGTH	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	91;"	d
+configTIMER_TASK_PRIORITY	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	90;"	d
+configTIMER_TASK_PRIORITY	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	90;"	d
+configTIMER_TASK_STACK_DEPTH	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	92;"	d
+configTIMER_TASK_STACK_DEPTH	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	92;"	d
+configTOTAL_HEAP_SIZE	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	73;"	d
+configTOTAL_HEAP_SIZE	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	73;"	d
+configUART_PORT	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	134;"	d
+configUART_PORT	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	134;"	d
+configUSE_16_BIT_TICKS	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	76;"	d
+configUSE_16_BIT_TICKS	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	76;"	d
+configUSE_ALTERNATIVE_API	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	87;"	d
+configUSE_ALTERNATIVE_API	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	87;"	d
+configUSE_ALTERNATIVE_API	Source/include/FreeRTOS.h	168;"	d
+configUSE_APPLICATION_TASK_TAG	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	85;"	d
+configUSE_APPLICATION_TASK_TAG	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	85;"	d
+configUSE_APPLICATION_TASK_TAG	Source/include/FreeRTOS.h	144;"	d
+configUSE_COUNTING_SEMAPHORES	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	86;"	d
+configUSE_COUNTING_SEMAPHORES	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	86;"	d
+configUSE_COUNTING_SEMAPHORES	Source/include/FreeRTOS.h	164;"	d
+configUSE_CO_ROUTINES	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	78;"	d
+configUSE_CO_ROUTINES	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	99;"	d
+configUSE_CO_ROUTINES	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	78;"	d
+configUSE_CO_ROUTINES	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	99;"	d
+configUSE_IDLE_HOOK	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	69;"	d
+configUSE_IDLE_HOOK	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	69;"	d
+configUSE_MALLOC_FAILED_HOOK	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	84;"	d
+configUSE_MALLOC_FAILED_HOOK	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	84;"	d
+configUSE_MALLOC_FAILED_HOOK	Source/include/FreeRTOS.h	477;"	d
+configUSE_MUTEXES	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	79;"	d
+configUSE_MUTEXES	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	79;"	d
+configUSE_MUTEXES	Source/include/FreeRTOS.h	156;"	d
+configUSE_PREEMPTION	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	68;"	d
+configUSE_PREEMPTION	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	68;"	d
+configUSE_RECURSIVE_MUTEXES	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	82;"	d
+configUSE_RECURSIVE_MUTEXES	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	82;"	d
+configUSE_RECURSIVE_MUTEXES	Source/include/FreeRTOS.h	152;"	d
+configUSE_TICK_HOOK	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	70;"	d
+configUSE_TICK_HOOK	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	70;"	d
+configUSE_TIMERS	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	89;"	d
+configUSE_TIMERS	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	89;"	d
+configUSE_TIMERS	Source/include/FreeRTOS.h	160;"	d
+configUSE_TRACE_FACILITY	Demo/MT3628_Cortex_A9SPCore/FreeRTOSConfig.h	75;"	d
+configUSE_TRACE_FACILITY	Demo/Versatile_Express_Cortex_A9MPCore/FreeRTOSConfig.h	75;"	d
+corCRCB	Source/include/croutine.h	/^} corCRCB; \/* Co-routine control block.  Note must be identical in size down to uxPriority with tskTCB. *\/$/;"	t	typeref:struct:corCoRoutineControlBlock
+corCoRoutineControlBlock	Source/include/croutine.h	/^typedef struct corCoRoutineControlBlock$/;"	s
+corINITIAL_STATE	Source/croutine.c	81;"	d	file:
+countDONT_BLOCK	Demo/Common/Minimal/countsem.c	80;"	d	file:
+countMAX_COUNT_VALUE	Demo/Common/Minimal/countsem.c	68;"	d	file:
+countNUM_TEST_TASKS	Demo/Common/Minimal/countsem.c	79;"	d	file:
+countSTART_AT_MAX_COUNT	Demo/Common/Minimal/countsem.c	74;"	d	file:
+countSTART_AT_ZERO	Demo/Common/Minimal/countsem.c	75;"	d	file:
+crCOROUTINE_CODE	Source/include/croutine.h	/^typedef void (*crCOROUTINE_CODE)( xCoRoutineHandle, unsigned portBASE_TYPE );$/;"	t
+crDELAY	Source/include/croutine.h	316;"	d
+crEND	Source/include/croutine.h	261;"	d
+crQUEUE_RECEIVE	Source/include/croutine.h	498;"	d
+crQUEUE_RECEIVE_FROM_ISR	Source/include/croutine.h	720;"	d
+crQUEUE_SEND	Source/include/croutine.h	406;"	d
+crQUEUE_SEND_FROM_ISR	Source/include/croutine.h	607;"	d
+crSET_STATE0	Source/include/croutine.h	267;"	d
+crSET_STATE1	Source/include/croutine.h	268;"	d
+crSTART	Source/include/croutine.h	230;"	d
+dDummy	Source/portable/MemMang/heap_1.c	/^		volatile portDOUBLE dDummy;$/;"	m	union:xRTOS_HEAP	file:
+dDummy	Source/portable/MemMang/heap_2.c	/^		volatile portDOUBLE dDummy;$/;"	m	union:xRTOS_HEAP	file:
+data_abort	Demo/MT3628_Cortex_A9SPCore/start.S	/^data_abort:$/;"	l
+deathSTACK_SIZE	Demo/Common/Minimal/death.c	96;"	d	file:
+eBaud	Demo/Common/include/serial.h	/^} eBaud;$/;"	t	typeref:enum:__anon5
+eCOMPort	Demo/Common/include/serial.h	/^} eCOMPort;$/;"	t	typeref:enum:__anon1
+eDataBits	Demo/Common/include/serial.h	/^} eDataBits;$/;"	t	typeref:enum:__anon4
+eParity	Demo/Common/include/serial.h	/^} eParity;$/;"	t	typeref:enum:__anon2
+eStopBits	Demo/Common/include/serial.h	/^} eStopBits;$/;"	t	typeref:enum:__anon3
+errCOULD_NOT_ALLOCATE_REQUIRED_MEMORY	Source/include/projdefs.h	69;"	d
+errNO_TASK_TO_RUN	Source/include/projdefs.h	70;"	d
+errQUEUE_BLOCKED	Source/include/projdefs.h	71;"	d
+errQUEUE_EMPTY	Source/include/projdefs.h	65;"	d
+errQUEUE_FULL	Source/include/projdefs.h	66;"	d
+errQUEUE_YIELD	Source/include/projdefs.h	72;"	d
+exit_without_switch	Source/portable/GCC/ARM_CA9/portASM.S	/^exit_without_switch:$/;"	l
+fiq	Demo/MT3628_Cortex_A9SPCore/start.S	/^fiq:$/;"	l
+formatfloat	Demo/Versatile_Express_Cortex_A9MPCore/printf-stdarg.c	/^static char *formatfloat(char *bufferstart,double absvalue,int precision,int zeropadwidth,bool forceperiod)$/;"	f	file:
+formatinteger	Demo/Versatile_Express_Cortex_A9MPCore/printf-stdarg.c	/^static char *formatinteger(char *bufferend,unsigned int absvalue,$/;"	f	file:
+genqMUTEX_HIGH_PRIORITY	Demo/Common/Minimal/GenQTest.c	82;"	d	file:
+genqMUTEX_LOW_PRIORITY	Demo/Common/Minimal/GenQTest.c	79;"	d	file:
+genqMUTEX_MEDIUM_PRIORITY	Demo/Common/Minimal/GenQTest.c	81;"	d	file:
+genqMUTEX_TEST_PRIORITY	Demo/Common/Minimal/GenQTest.c	80;"	d	file:
+genqNO_BLOCK	Demo/Common/Minimal/GenQTest.c	77;"	d	file:
+genqQUEUE_LENGTH	Demo/Common/Minimal/GenQTest.c	76;"	d	file:
+heapMINIMUM_BLOCK_SIZE	Source/portable/MemMang/heap_2.c	96;"	d	file:
+heapSTRUCT_SIZE	Source/portable/MemMang/heap_2.c	/^static const unsigned short  heapSTRUCT_SIZE	= ( sizeof( xBlockLink ) + portBYTE_ALIGNMENT - ( sizeof( xBlockLink ) % portBYTE_ALIGNMENT ) );$/;"	v	file:
+intgCONST1	Demo/Common/Minimal/integer.c	94;"	d	file:
+intgCONST2	Demo/Common/Minimal/integer.c	95;"	d	file:
+intgCONST3	Demo/Common/Minimal/integer.c	96;"	d	file:
+intgCONST4	Demo/Common/Minimal/integer.c	97;"	d	file:
+intgEXPECTED_ANSWER	Demo/Common/Minimal/integer.c	98;"	d	file:
+intgNUMBER_OF_TASKS	Demo/Common/Minimal/integer.c	103;"	d	file:
+intgSTACK_SIZE	Demo/Common/Minimal/integer.c	100;"	d	file:
+irq	Demo/MT3628_Cortex_A9SPCore/start.S	/^irq:$/;"	l
+ledFLASH_RATE_BASE	Demo/Common/Minimal/flash.c	80;"	d	file:
+ledNUMBER_OF_LEDS	Demo/Common/Minimal/flash.c	79;"	d	file:
+ledSTACK_SIZE	Demo/Common/Minimal/flash.c	78;"	d	file:
+listCURRENT_LIST_LENGTH	Source/include/list.h	169;"	d
+listGET_ITEM_VALUE_OF_HEAD_ENTRY	Source/include/list.h	155;"	d
+listGET_LIST_ITEM_VALUE	Source/include/list.h	146;"	d
+listGET_OWNER_OF_HEAD_ENTRY	Source/include/list.h	220;"	d
+listGET_OWNER_OF_NEXT_ENTRY	Source/include/list.h	190;"	d
+listIS_CONTAINED_WITHIN	Source/include/list.h	232;"	d
+listLIST_IS_EMPTY	Source/include/list.h	164;"	d
+listSET_LIST_ITEM_OWNER	Source/include/list.h	127;"	d
+listSET_LIST_ITEM_VALUE	Source/include/list.h	136;"	d
+main	Demo/MT3628_Cortex_A9SPCore/main.c	/^int main( void )$/;"	f
+main	Demo/Versatile_Express_Cortex_A9MPCore/main.c	/^int main( void )$/;"	f
+main	Demo/Versatile_Express_Cortex_A9MPCore/printf-stdarg.c	/^int main(void)$/;"	f
+mainBLOCK_Q_PRIORITY	Demo/MT3628_Cortex_A9SPCore/main.c	91;"	d	file:
+mainBLOCK_Q_PRIORITY	Demo/Versatile_Express_Cortex_A9MPCore/main.c	91;"	d	file:
+mainCHECK_DELAY	Demo/MT3628_Cortex_A9SPCore/main.c	85;"	d	file:
+mainCHECK_DELAY	Demo/Versatile_Express_Cortex_A9MPCore/main.c	85;"	d	file:
+mainCHECK_TASK_PRIORITY	Demo/MT3628_Cortex_A9SPCore/main.c	89;"	d	file:
+mainCHECK_TASK_PRIORITY	Demo/Versatile_Express_Cortex_A9MPCore/main.c	89;"	d	file:
+mainGEN_Q_PRIORITY	Demo/MT3628_Cortex_A9SPCore/main.c	92;"	d	file:
+mainGEN_Q_PRIORITY	Demo/Versatile_Express_Cortex_A9MPCore/main.c	92;"	d	file:
+mainNO_DELAY	Demo/MT3628_Cortex_A9SPCore/main.c	96;"	d	file:
+mainNO_DELAY	Demo/Versatile_Express_Cortex_A9MPCore/main.c	96;"	d	file:
+mainPRINT_BAUDRATE	Demo/MT3628_Cortex_A9SPCore/main.c	100;"	d	file:
+mainPRINT_BAUDRATE	Demo/MT3628_Cortex_A9SPCore/main.c	102;"	d	file:
+mainPRINT_BAUDRATE	Demo/Versatile_Express_Cortex_A9MPCore/main.c	100;"	d	file:
+mainPRINT_BAUDRATE	Demo/Versatile_Express_Cortex_A9MPCore/main.c	102;"	d	file:
+mainPRINT_PORT	Demo/MT3628_Cortex_A9SPCore/main.c	98;"	d	file:
+mainPRINT_PORT	Demo/Versatile_Express_Cortex_A9MPCore/main.c	98;"	d	file:
+mainQUEUE_POLL_PRIORITY	Demo/MT3628_Cortex_A9SPCore/main.c	88;"	d	file:
+mainQUEUE_POLL_PRIORITY	Demo/Versatile_Express_Cortex_A9MPCore/main.c	88;"	d	file:
+mainQUEUE_SIZE	Demo/MT3628_Cortex_A9SPCore/main.c	95;"	d	file:
+mainQUEUE_SIZE	Demo/Versatile_Express_Cortex_A9MPCore/main.c	95;"	d	file:
+mainSEM_TEST_PRIORITY	Demo/MT3628_Cortex_A9SPCore/main.c	90;"	d	file:
+mainSEM_TEST_PRIORITY	Demo/Versatile_Express_Cortex_A9MPCore/main.c	90;"	d	file:
+main_stack	Demo/MT3628_Cortex_A9SPCore/start.S	/^main_stack:	.word	__stack		\/\/ set __stack in link scripts (ld file)$/;"	l
+mathNUMBER_OF_TASKS	Demo/Common/Minimal/flop.c	78;"	d	file:
+mathSTACK_SIZE	Demo/Common/Minimal/flop.c	77;"	d	file:
+not_used	Demo/MT3628_Cortex_A9SPCore/start.S	/^not_used:$/;"	l
+partstDEFAULT_PORT_ADDRESS	Demo/Common/include/partest.h	57;"	d
+pcHead	Source/queue.c	/^	signed char *pcHead;				\/*< Points to the beginning of the queue storage area. *\/$/;"	m	struct:QueueDefinition	file:
+pcName	Source/include/task.h	/^	const signed char * const pcName;$/;"	m	struct:xTASK_PARAMTERS
+pcQueueName	Source/queue.c	/^		signed char *pcQueueName;$/;"	m	struct:QUEUE_REGISTRY_ITEM	file:
+pcReadFrom	Source/queue.c	/^	signed char *pcReadFrom;			\/*< Points to the last place that a queued item was read from. *\/$/;"	m	struct:QueueDefinition	file:
+pcStatsString	Source/tasks.c	/^	PRIVILEGED_DATA static char pcStatsString[ 50 ] ;$/;"	v	file:
+pcTail	Source/queue.c	/^	signed char *pcTail;				\/*< Points to the byte at the end of the queue storage area.  Once more byte is allocated than necessary to store the queue items, this is used as a marker. *\/$/;"	m	struct:QueueDefinition	file:
+pcTaskGetTaskName	Source/tasks.c	/^	signed char *pcTaskGetTaskName( xTaskHandle xTaskToQuery )$/;"	f
+pcTaskName	Source/tasks.c	/^	signed char				pcTaskName[ configMAX_TASK_NAME_LEN ];\/*< Descriptive name given to the task when created.  Facilitates debugging only. *\/$/;"	m	struct:tskTaskControlBlock	file:
+pcTimerName	Source/timers.c	/^	const signed char		*pcTimerName;		\/*<< Text name.  This is not used by the kernel, it is included simply to make debugging easier. *\/$/;"	m	struct:tmrTimerControl	file:
+pcWriteTo	Source/queue.c	/^	signed char *pcWriteTo;				\/*< Points to the free next place in the storage area. *\/$/;"	m	struct:QueueDefinition	file:
+pdFAIL	Source/include/projdefs.h	64;"	d
+pdFALSE	Source/include/projdefs.h	61;"	d
+pdPASS	Source/include/projdefs.h	63;"	d
+pdTASK_CODE	Source/include/projdefs.h	/^typedef void (*pdTASK_CODE)( void * );$/;"	t
+pdTASK_HOOK_CODE	Source/include/FreeRTOS.h	/^typedef portBASE_TYPE (*pdTASK_HOOK_CODE)( void * );$/;"	t
+pdTRUE	Source/include/projdefs.h	60;"	d
+pollqCONSUMER_DELAY	Demo/Common/Minimal/PollQ.c	97;"	d	file:
+pollqINITIAL_VALUE	Demo/Common/Minimal/PollQ.c	100;"	d	file:
+pollqNO_DELAY	Demo/Common/Minimal/PollQ.c	98;"	d	file:
+pollqPRODUCER_DELAY	Demo/Common/Minimal/PollQ.c	96;"	d	file:
+pollqQUEUE_SIZE	Demo/Common/Minimal/PollQ.c	95;"	d	file:
+pollqSTACK_SIZE	Demo/Common/Minimal/PollQ.c	94;"	d	file:
+pollqVALUES_TO_PRODUCE	Demo/Common/Minimal/PollQ.c	99;"	d	file:
+portABORT_STACK_SIZE	Source/portable/GCC/ARM_CA9/portmacro.h	231;"	d
+portABORT_STACK_SIZE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	231;"	d
+portABT_MODE	Source/portable/GCC/ARM_CA9/portmacro.h	224;"	d
+portABT_MODE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	224;"	d
+portALIGNMENT_ASSERT_pxCurrentTCB	Source/include/FreeRTOS.h	196;"	d
+portBASE_TYPE	Source/portable/GCC/ARM_CA9/portmacro.h	86;"	d
+portBASE_TYPE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	86;"	d
+portBYTE_ALIGNMENT	Source/portable/GCC/ARM_CA9/portmacro.h	100;"	d
+portBYTE_ALIGNMENT	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	100;"	d
+portBYTE_ALIGNMENT_MASK	Source/include/portable.h	311;"	d
+portBYTE_ALIGNMENT_MASK	Source/include/portable.h	315;"	d
+portBYTE_ALIGNMENT_MASK	Source/include/portable.h	319;"	d
+portBYTE_ALIGNMENT_MASK	Source/include/portable.h	323;"	d
+portCHAR	Source/portable/GCC/ARM_CA9/portmacro.h	80;"	d
+portCHAR	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	80;"	d
+portCLEAN_UP_TCB	Source/include/FreeRTOS.h	234;"	d
+portCLEAR_INTERRUPT_MASK	Source/portable/GCC/ARM_CA9/portmacro.h	114;"	d
+portCLEAR_INTERRUPT_MASK	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	114;"	d
+portCLEAR_INTERRUPT_MASK_FROM_ISR	Source/include/FreeRTOS.h	230;"	d
+portCLEAR_INTERRUPT_MASK_FROM_ISR	Source/portable/GCC/ARM_CA9/portmacro.h	116;"	d
+portCLEAR_INTERRUPT_MASK_FROM_ISR	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	116;"	d
+portCONFIGURE_TIMER_FOR_RUN_TIME_STATS	Source/include/FreeRTOS.h	473;"	d
+portCORE_ID	Demo/Versatile_Express_Cortex_A9MPCore/printf-stdarg.c	/^static inline unsigned long portCORE_ID(void)$/;"	f	file:
+portCORE_ID	Source/portable/GCC/ARM_CA9/portmacro.h	/^static inline unsigned long portCORE_ID(void)$/;"	f
+portCORE_ID	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	/^static inline unsigned long portCORE_ID(void)$/;"	f
+portCRITICAL_NESTING_IN_TCB	Source/include/FreeRTOS.h	172;"	d
+portCRITICAL_NESTING_IN_TCB	Source/portable/GCC/ARM_CA9/portmacro.h	107;"	d
+portCRITICAL_NESTING_IN_TCB	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	107;"	d
+portDISABLE_INTERRUPTS	Source/portable/GCC/ARM_CA9/portmacro.h	117;"	d
+portDISABLE_INTERRUPTS	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	117;"	d
+portDOUBLE	Source/portable/GCC/ARM_CA9/portmacro.h	82;"	d
+portDOUBLE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	82;"	d
+portENABLE_INTERRUPTS	Source/portable/GCC/ARM_CA9/portmacro.h	/^static inline void portENABLE_INTERRUPTS(void)$/;"	f
+portENABLE_INTERRUPTS	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	/^static inline void portENABLE_INTERRUPTS(void)$/;"	f
+portEND_SWITCHING_ISR	Source/portable/GCC/ARM_CA9/portmacro.h	215;"	d
+portEND_SWITCHING_ISR	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	215;"	d
+portENTER_CRITICAL	Source/portable/GCC/ARM_CA9/portmacro.h	108;"	d
+portENTER_CRITICAL	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	108;"	d
+portEXCEPTION_VECTORS_BASE	Source/portable/GCC/ARM_CA9/portmacro.h	144;"	d
+portEXCEPTION_VECTORS_BASE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	144;"	d
+portEXIT_CRITICAL	Source/portable/GCC/ARM_CA9/portmacro.h	109;"	d
+portEXIT_CRITICAL	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	109;"	d
+portFIQ_MODE	Source/portable/GCC/ARM_CA9/portmacro.h	220;"	d
+portFIQ_MODE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	220;"	d
+portFIQ_STACK_SIZE	Source/portable/GCC/ARM_CA9/portmacro.h	229;"	d
+portFIQ_STACK_SIZE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	229;"	d
+portFLOAT	Source/portable/GCC/ARM_CA9/portmacro.h	81;"	d
+portFLOAT	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	81;"	d
+portGIC_CLEAR	Source/portable/GCC/ARM_CA9/portmacro.h	183;"	d
+portGIC_CLEAR	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	183;"	d
+portGIC_CONTROL_DISABLE_INTERRUPTS	Source/portable/GCC/ARM_CA9/portmacro.h	187;"	d
+portGIC_CONTROL_DISABLE_INTERRUPTS	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	187;"	d
+portGIC_CONTROL_ENABLE_INTERRUPTS	Source/portable/GCC/ARM_CA9/portmacro.h	186;"	d
+portGIC_CONTROL_ENABLE_INTERRUPTS	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	186;"	d
+portGIC_CPU_INTERRUPT_SOURCE_MASK	Source/portable/GCC/ARM_CA9/portmacro.h	190;"	d
+portGIC_CPU_INTERRUPT_SOURCE_MASK	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	190;"	d
+portGIC_DISTRIBUTOR_BASE	Source/portable/GCC/ARM_CA9/portmacro.h	143;"	d
+portGIC_DISTRIBUTOR_BASE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	143;"	d
+portGIC_ICCBPR	Source/portable/GCC/ARM_CA9/portmacro.h	156;"	d
+portGIC_ICCBPR	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	156;"	d
+portGIC_ICCEOIR	Source/portable/GCC/ARM_CA9/portmacro.h	158;"	d
+portGIC_ICCEOIR	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	158;"	d
+portGIC_ICCHPIR	Source/portable/GCC/ARM_CA9/portmacro.h	160;"	d
+portGIC_ICCHPIR	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	160;"	d
+portGIC_ICCIAR	Source/portable/GCC/ARM_CA9/portmacro.h	157;"	d
+portGIC_ICCIAR	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	157;"	d
+portGIC_ICCICR	Source/portable/GCC/ARM_CA9/portmacro.h	154;"	d
+portGIC_ICCICR	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	154;"	d
+portGIC_ICCPMR	Source/portable/GCC/ARM_CA9/portmacro.h	155;"	d
+portGIC_ICCPMR	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	155;"	d
+portGIC_ICCRPR	Source/portable/GCC/ARM_CA9/portmacro.h	159;"	d
+portGIC_ICCRPR	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	159;"	d
+portGIC_ICDABR_BASE	Source/portable/GCC/ARM_CA9/portmacro.h	169;"	d
+portGIC_ICDABR_BASE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	169;"	d
+portGIC_ICDCPENDGIR	Source/portable/GCC/ARM_CA9/portmacro.h	176;"	d
+portGIC_ICDCPENDGIR	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	176;"	d
+portGIC_ICDDCR	Source/portable/GCC/ARM_CA9/portmacro.h	163;"	d
+portGIC_ICDDCR	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	163;"	d
+portGIC_ICDICER_BASE	Source/portable/GCC/ARM_CA9/portmacro.h	166;"	d
+portGIC_ICDICER_BASE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	166;"	d
+portGIC_ICDICPR_BASE	Source/portable/GCC/ARM_CA9/portmacro.h	168;"	d
+portGIC_ICDICPR_BASE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	168;"	d
+portGIC_ICDICR_BASE	Source/portable/GCC/ARM_CA9/portmacro.h	172;"	d
+portGIC_ICDICR_BASE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	172;"	d
+portGIC_ICDICTR	Source/portable/GCC/ARM_CA9/portmacro.h	164;"	d
+portGIC_ICDICTR	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	164;"	d
+portGIC_ICDIPR_BASE	Source/portable/GCC/ARM_CA9/portmacro.h	170;"	d
+portGIC_ICDIPR_BASE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	170;"	d
+portGIC_ICDIPTR_BASE	Source/portable/GCC/ARM_CA9/portmacro.h	171;"	d
+portGIC_ICDIPTR_BASE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	171;"	d
+portGIC_ICDISER_BASE	Source/portable/GCC/ARM_CA9/portmacro.h	165;"	d
+portGIC_ICDISER_BASE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	165;"	d
+portGIC_ICDISPR_BASE	Source/portable/GCC/ARM_CA9/portmacro.h	167;"	d
+portGIC_ICDISPR_BASE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	167;"	d
+portGIC_ICDPPIS	Source/portable/GCC/ARM_CA9/portmacro.h	173;"	d
+portGIC_ICDPPIS	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	173;"	d
+portGIC_ICDSGIR	Source/portable/GCC/ARM_CA9/portmacro.h	175;"	d
+portGIC_ICDSGIR	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	175;"	d
+portGIC_ICDSPENDGIR	Source/portable/GCC/ARM_CA9/portmacro.h	177;"	d
+portGIC_ICDSPENDGIR	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	177;"	d
+portGIC_ICDSPIS_BASE	Source/portable/GCC/ARM_CA9/portmacro.h	174;"	d
+portGIC_ICDSPIS_BASE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	174;"	d
+portGIC_PRIORITY_MASK_MASK	Source/portable/GCC/ARM_CA9/portmacro.h	188;"	d
+portGIC_PRIORITY_MASK_MASK	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	188;"	d
+portGIC_PRIVATE_BASE	Source/portable/GCC/ARM_CA9/portmacro.h	142;"	d
+portGIC_PRIVATE_BASE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	142;"	d
+portGIC_READ	Source/portable/GCC/ARM_CA9/portmacro.h	182;"	d
+portGIC_READ	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	182;"	d
+portGIC_SET	Source/portable/GCC/ARM_CA9/portmacro.h	181;"	d
+portGIC_SET	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	181;"	d
+portGIC_SPURIOUS_VECTOR	Source/portable/GCC/ARM_CA9/portmacro.h	189;"	d
+portGIC_SPURIOUS_VECTOR	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	189;"	d
+portGIC_VECTOR_MASK	Source/portable/GCC/ARM_CA9/portmacro.h	191;"	d
+portGIC_VECTOR_MASK	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	191;"	d
+portGIC_WRITE	Source/portable/GCC/ARM_CA9/portmacro.h	180;"	d
+portGIC_WRITE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	180;"	d
+portHEAP_END	Source/portable/GCC/ARM_CA9/portmacro.h	101;"	d
+portHEAP_END	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	101;"	d
+portINITIAL_XPSR	Source/portable/GCC/ARM_CA9/port.c	80;"	d	file:
+portINITIAL_XPSR	Source/portable/GCC/ARM_Cortex-A9/port.c	80;"	d	file:
+portIRQ_MODE	Source/portable/GCC/ARM_CA9/portmacro.h	221;"	d
+portIRQ_MODE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	221;"	d
+portIRQ_STACK_SIZE	Source/portable/GCC/ARM_CA9/portmacro.h	230;"	d
+portIRQ_STACK_SIZE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	230;"	d
+portLONG	Source/portable/GCC/ARM_CA9/portmacro.h	83;"	d
+portLONG	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	83;"	d
+portMAX_DELAY	Source/portable/GCC/ARM_CA9/portmacro.h	90;"	d
+portMAX_DELAY	Source/portable/GCC/ARM_CA9/portmacro.h	93;"	d
+portMAX_DELAY	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	90;"	d
+portMAX_DELAY	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	93;"	d
+portMAX_VECTORS	Source/portable/GCC/ARM_CA9/portmacro.h	145;"	d
+portMAX_VECTORS	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	145;"	d
+portMON_MODE	Source/portable/GCC/ARM_CA9/portmacro.h	223;"	d
+portMON_MODE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	223;"	d
+portNOP	Source/portable/GCC/ARM_CA9/portmacro.h	130;"	d
+portNOP	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	130;"	d
+portNUM_CONFIGURABLE_REGIONS	Source/include/portable.h	331;"	d
+portPERIPHBASE	Source/portable/GCC/ARM_CA9/portmacro.h	141;"	d
+portPERIPHBASE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	141;"	d
+portPOINTER_SIZE_TYPE	Source/include/FreeRTOS.h	247;"	d
+portPRIVILEGE_BIT	Source/include/FreeRTOS.h	481;"	d
+portPROCESSOR_MODE_MASK	Source/portable/GCC/ARM_CA9/portmacro.h	218;"	d
+portPROCESSOR_MODE_MASK	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	218;"	d
+portSCU_BASE	Source/portable/GCC/ARM_CA9/portmacro.h	149;"	d
+portSCU_BASE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	149;"	d
+portSCU_CONFIGURATION	Source/portable/GCC/ARM_CA9/portmacro.h	151;"	d
+portSCU_CONFIGURATION	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	151;"	d
+portSCU_CONTROL	Source/portable/GCC/ARM_CA9/portmacro.h	150;"	d
+portSCU_CONTROL	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	150;"	d
+portSET_INTERRUPT_MASK	Source/portable/GCC/ARM_CA9/portmacro.h	113;"	d
+portSET_INTERRUPT_MASK	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	113;"	d
+portSET_INTERRUPT_MASK_FROM_ISR	Source/include/FreeRTOS.h	226;"	d
+portSET_INTERRUPT_MASK_FROM_ISR	Source/portable/GCC/ARM_CA9/portmacro.h	115;"	d
+portSET_INTERRUPT_MASK_FROM_ISR	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	115;"	d
+portSGI_CLEAR_YIELD	Source/portable/GCC/ARM_CA9/portmacro.h	214;"	d
+portSGI_CLEAR_YIELD	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	214;"	d
+portSGI_YIELD	Source/portable/GCC/ARM_CA9/portmacro.h	204;"	d
+portSGI_YIELD	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	204;"	d
+portSGI_YIELD_VECTOR_ID	Source/portable/GCC/ARM_CA9/portmacro.h	203;"	d
+portSGI_YIELD_VECTOR_ID	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	203;"	d
+portSHORT	Source/portable/GCC/ARM_CA9/portmacro.h	84;"	d
+portSHORT	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	84;"	d
+portSTACK_GROWTH	Source/portable/GCC/ARM_CA9/portmacro.h	98;"	d
+portSTACK_GROWTH	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	98;"	d
+portSTACK_TYPE	Source/portable/GCC/ARM_CA9/portmacro.h	85;"	d
+portSTACK_TYPE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	85;"	d
+portSVC_MODE	Source/portable/GCC/ARM_CA9/portmacro.h	222;"	d
+portSVC_MODE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	222;"	d
+portSVC_STACK_SIZE	Source/portable/GCC/ARM_CA9/portmacro.h	232;"	d
+portSVC_STACK_SIZE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	232;"	d
+portSYSTICK_BASE	Source/portable/GCC/ARM_CA9/portmacro.h	194;"	d
+portSYSTICK_BASE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	194;"	d
+portSYSTICK_CONTROL	Source/portable/GCC/ARM_CA9/portmacro.h	196;"	d
+portSYSTICK_CONTROL	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	196;"	d
+portSYSTICK_CTRL_ENABLE_PERIODIC_INTERRUPTS	Source/portable/GCC/ARM_CA9/portmacro.h	198;"	d
+portSYSTICK_CTRL_ENABLE_PERIODIC_INTERRUPTS	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	198;"	d
+portSYSTICK_INTERRUPT_STATUS	Source/portable/GCC/ARM_CA9/portmacro.h	197;"	d
+portSYSTICK_INTERRUPT_STATUS	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	197;"	d
+portSYSTICK_LOAD	Source/portable/GCC/ARM_CA9/portmacro.h	195;"	d
+portSYSTICK_LOAD	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	195;"	d
+portSYSTICK_PRESCALE	Source/portable/GCC/ARM_CA9/portmacro.h	199;"	d
+portSYSTICK_PRESCALE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	199;"	d
+portSYSTICK_VECTOR_ID	Source/portable/GCC/ARM_CA9/portmacro.h	200;"	d
+portSYSTICK_VECTOR_ID	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	200;"	d
+portSYS_MODE	Source/portable/GCC/ARM_CA9/portmacro.h	226;"	d
+portSYS_MODE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	226;"	d
+portTASK_FUNCTION	Demo/Common/Minimal/BlockQ.c	/^static portTASK_FUNCTION( vBlockingQueueConsumer, pvParameters )$/;"	f	file:
+portTASK_FUNCTION	Demo/Common/Minimal/BlockQ.c	/^static portTASK_FUNCTION( vBlockingQueueProducer, pvParameters )$/;"	f	file:
+portTASK_FUNCTION	Demo/Common/Minimal/PollQ.c	/^static portTASK_FUNCTION( vPolledQueueConsumer, pvParameters )$/;"	f	file:
+portTASK_FUNCTION	Demo/Common/Minimal/PollQ.c	/^static portTASK_FUNCTION( vPolledQueueProducer, pvParameters )$/;"	f	file:
+portTASK_FUNCTION	Demo/Common/Minimal/comtest.c	/^static portTASK_FUNCTION( vComRxTask, pvParameters )$/;"	f	file:
+portTASK_FUNCTION	Demo/Common/Minimal/comtest.c	/^static portTASK_FUNCTION( vComTxTask, pvParameters )$/;"	f	file:
+portTASK_FUNCTION	Demo/Common/Minimal/death.c	/^static portTASK_FUNCTION( vCreateTasks, pvParameters )$/;"	f	file:
+portTASK_FUNCTION	Demo/Common/Minimal/death.c	/^static portTASK_FUNCTION( vSuicidalTask, pvParameters )$/;"	f	file:
+portTASK_FUNCTION	Demo/Common/Minimal/dynamic.c	/^static portTASK_FUNCTION( vContinuousIncrementTask, pvParameters )$/;"	f	file:
+portTASK_FUNCTION	Demo/Common/Minimal/dynamic.c	/^static portTASK_FUNCTION( vCounterControlTask, pvParameters )$/;"	f	file:
+portTASK_FUNCTION	Demo/Common/Minimal/dynamic.c	/^static portTASK_FUNCTION( vLimitedIncrementTask, pvParameters )$/;"	f	file:
+portTASK_FUNCTION	Demo/Common/Minimal/dynamic.c	/^static portTASK_FUNCTION( vQueueReceiveWhenSuspendedTask, pvParameters )$/;"	f	file:
+portTASK_FUNCTION	Demo/Common/Minimal/dynamic.c	/^static portTASK_FUNCTION( vQueueSendWhenSuspendedTask, pvParameters )$/;"	f	file:
+portTASK_FUNCTION	Demo/Common/Minimal/flash.c	/^static portTASK_FUNCTION( vLEDFlashTask, pvParameters )$/;"	f	file:
+portTASK_FUNCTION	Demo/Common/Minimal/flop.c	/^static portTASK_FUNCTION( vCompetingMathTask1, pvParameters )$/;"	f	file:
+portTASK_FUNCTION	Demo/Common/Minimal/flop.c	/^static portTASK_FUNCTION( vCompetingMathTask2, pvParameters )$/;"	f	file:
+portTASK_FUNCTION	Demo/Common/Minimal/flop.c	/^static portTASK_FUNCTION( vCompetingMathTask3, pvParameters )$/;"	f	file:
+portTASK_FUNCTION	Demo/Common/Minimal/flop.c	/^static portTASK_FUNCTION( vCompetingMathTask4, pvParameters )$/;"	f	file:
+portTASK_FUNCTION	Demo/Common/Minimal/integer.c	/^static portTASK_FUNCTION( vCompeteingIntMathTask, pvParameters )$/;"	f	file:
+portTASK_FUNCTION	Demo/Common/Minimal/semtest.c	/^static portTASK_FUNCTION( prvSemaphoreTest, pvParameters )$/;"	f	file:
+portTASK_FUNCTION	Source/portable/GCC/ARM_CA9/portmacro.h	128;"	d
+portTASK_FUNCTION	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	128;"	d
+portTASK_FUNCTION	Source/tasks.c	/^static portTASK_FUNCTION( prvIdleTask, pvParameters )$/;"	f	file:
+portTASK_FUNCTION_PROTO	Source/portable/GCC/ARM_CA9/portmacro.h	127;"	d
+portTASK_FUNCTION_PROTO	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	127;"	d
+portTICK_RATE_MS	Source/portable/GCC/ARM_CA9/portmacro.h	99;"	d
+portTICK_RATE_MS	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	99;"	d
+portTickType	Source/portable/GCC/ARM_CA9/portmacro.h	/^	typedef unsigned portLONG portTickType;$/;"	t
+portTickType	Source/portable/GCC/ARM_CA9/portmacro.h	/^	typedef unsigned portSHORT portTickType;$/;"	t
+portTickType	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	/^	typedef unsigned portLONG portTickType;$/;"	t
+portTickType	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	/^	typedef unsigned portSHORT portTickType;$/;"	t
+portUND_MODE	Source/portable/GCC/ARM_CA9/portmacro.h	225;"	d
+portUND_MODE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	225;"	d
+portUSER_MODE	Source/portable/GCC/ARM_CA9/portmacro.h	219;"	d
+portUSER_MODE	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	219;"	d
+portUSING_MPU_WRAPPERS	Source/include/mpu_wrappers.h	129;"	d
+portYIELD	Source/portable/GCC/ARM_CA9/portmacro.h	/^static inline void portYIELD(void)$/;"	f
+portYIELD	Source/portable/GCC/ARM_Cortex-A9/portmacro.h	/^static inline void portYIELD(void)$/;"	f
+portYIELD_WITHIN_API	Source/include/FreeRTOS.h	485;"	d
+prefetch_abort	Demo/MT3628_Cortex_A9SPCore/start.S	/^prefetch_abort:$/;"	l
+priLOOPS	Demo/Common/Minimal/dynamic.c	136;"	d	file:
+priMAX_COUNT	Demo/Common/Minimal/dynamic.c	137;"	d	file:
+priNO_BLOCK	Demo/Common/Minimal/dynamic.c	138;"	d	file:
+priSLEEP_TIME	Demo/Common/Minimal/dynamic.c	135;"	d	file:
+priSTACK_SIZE	Demo/Common/Minimal/dynamic.c	134;"	d	file:
+priSUSPENDED_QUEUE_LENGTH	Demo/Common/Minimal/dynamic.c	139;"	d	file:
+print	Demo/Versatile_Express_Cortex_A9MPCore/printf-stdarg.c	/^static int print(char **out,const char *format,va_list args)$/;"	f	file:
+printchar	Demo/Versatile_Express_Cortex_A9MPCore/printf-stdarg.c	/^static void printchar(char **out,int c)$/;"	f	file:
+printf	Demo/Versatile_Express_Cortex_A9MPCore/printf-stdarg.c	/^int printf(const char *format,...)$/;"	f
+printstring	Demo/Versatile_Express_Cortex_A9MPCore/printf-stdarg.c	/^static int printstring(char **out,const char *string,int width,bool padleft)$/;"	f	file:
+prvAddCoRoutineToReadyQueue	Source/croutine.c	90;"	d	file:
+prvAddCurrentTaskToDelayedList	Source/tasks.c	/^static void prvAddCurrentTaskToDelayedList( portTickType xTimeToWake )$/;"	f	file:
+prvAddTaskToReadyQueue	Source/tasks.c	207;"	d	file:
+prvAllocateTCBAndStack	Source/tasks.c	/^static tskTCB *prvAllocateTCBAndStack( unsigned short usStackDepth, portSTACK_TYPE *puxStackBuffer )$/;"	f	file:
+prvAutoReloadTimerCallback	Demo/Common/Minimal/TimerDemo.c	/^static void prvAutoReloadTimerCallback( xTimerHandle pxExpiredTimer )$/;"	f	file:
+prvCheckDelayedList	Source/croutine.c	/^static void prvCheckDelayedList( void )$/;"	f	file:
+prvCheckDelayedTasks	Source/tasks.c	223;"	d	file:
+prvCheckForValidListAndQueue	Source/timers.c	/^static void prvCheckForValidListAndQueue( void )$/;"	f	file:
+prvCheckPendingReadyList	Source/croutine.c	/^static void prvCheckPendingReadyList( void )$/;"	f	file:
+prvCheckTasksWaitingTermination	Source/tasks.c	/^static void prvCheckTasksWaitingTermination( void )$/;"	f	file:
+prvCopyDataFromQueue	Source/queue.c	/^static void prvCopyDataFromQueue( xQUEUE * const pxQueue, const void *pvBuffer )$/;"	f	file:
+prvCopyDataToQueue	Source/queue.c	/^static void prvCopyDataToQueue( xQUEUE *pxQueue, const void *pvItemToQueue, portBASE_TYPE xPosition )$/;"	f	file:
+prvCountingSemaphoreTask	Demo/Common/Minimal/countsem.c	/^static void prvCountingSemaphoreTask( void *pvParameters )$/;"	f	file:
+prvDecrementSemaphoreCount	Demo/Common/Minimal/countsem.c	/^static void prvDecrementSemaphoreCount( xSemaphoreHandle xSemaphore, unsigned portBASE_TYPE *puxLoopCounter )$/;"	f	file:
+prvDeleteTCB	Source/tasks.c	/^	static void prvDeleteTCB( tskTCB *pxTCB )$/;"	f	file:
+prvGenerateRunTimeStatsForTasksInList	Source/tasks.c	/^	static void prvGenerateRunTimeStatsForTasksInList( const signed char *pcWriteBuffer, xList *pxList, unsigned long ulTotalRunTime )$/;"	f	file:
+prvGetNextExpireTime	Source/timers.c	/^static portTickType prvGetNextExpireTime( portBASE_TYPE *pxListWasEmpty )$/;"	f	file:
+prvGetTCBFromHandle	Source/tasks.c	282;"	d	file:
+prvHeapInit	Source/portable/MemMang/heap_2.c	133;"	d	file:
+prvHighPriorityMutexTask	Demo/Common/Minimal/GenQTest.c	/^static void prvHighPriorityMutexTask( void *pvParameters )$/;"	f	file:
+prvHighPriorityPeekTask	Demo/Common/Minimal/QPeek.c	/^static void prvHighPriorityPeekTask( void *pvParameters )$/;"	f	file:
+prvHighestPriorityPeekTask	Demo/Common/Minimal/QPeek.c	/^static void prvHighestPriorityPeekTask( void *pvParameters )$/;"	f	file:
+prvISRAutoReloadTimerCallback	Demo/Common/Minimal/TimerDemo.c	/^static void prvISRAutoReloadTimerCallback( xTimerHandle pxExpiredTimer )$/;"	f	file:
+prvISROneShotTimerCallback	Demo/Common/Minimal/TimerDemo.c	/^static void prvISROneShotTimerCallback( xTimerHandle pxExpiredTimer )$/;"	f	file:
+prvIncrementSemaphoreCount	Demo/Common/Minimal/countsem.c	/^static void prvIncrementSemaphoreCount( xSemaphoreHandle xSemaphore, unsigned portBASE_TYPE *puxLoopCounter )$/;"	f	file:
+prvInitialiseCoRoutineLists	Source/croutine.c	/^static void prvInitialiseCoRoutineLists( void )$/;"	f	file:
+prvInitialiseTCBVariables	Source/tasks.c	/^static void prvInitialiseTCBVariables( tskTCB *pxTCB, const signed char * const pcName, unsigned portBASE_TYPE uxPriority, const xMemoryRegion * const xRegions, unsigned short usStackDepth )$/;"	f	file:
+prvInitialiseTaskLists	Source/tasks.c	/^static void prvInitialiseTaskLists( void )$/;"	f	file:
+prvInsertBlockIntoFreeList	Source/portable/MemMang/heap_2.c	112;"	d	file:
+prvInsertTimerInActiveList	Source/timers.c	/^static portBASE_TYPE prvInsertTimerInActiveList( xTIMER *pxTimer, portTickType xNextExpiryTime, portTickType xTimeNow, portTickType xCommandTime )$/;"	f	file:
+prvIsQueueEmpty	Source/queue.c	/^static signed portBASE_TYPE prvIsQueueEmpty( const xQueueHandle pxQueue )$/;"	f	file:
+prvIsQueueFull	Source/queue.c	/^static signed portBASE_TYPE prvIsQueueFull( const xQueueHandle pxQueue )$/;"	f	file:
+prvListTaskWithinSingleList	Source/tasks.c	/^	static void prvListTaskWithinSingleList( const signed char *pcWriteBuffer, xList *pxList, signed char cStatus )$/;"	f	file:
+prvLockQueue	Source/queue.c	244;"	d	file:
+prvLowPriorityMutexTask	Demo/Common/Minimal/GenQTest.c	/^static void prvLowPriorityMutexTask( void *pvParameters )$/;"	f	file:
+prvLowPriorityPeekTask	Demo/Common/Minimal/QPeek.c	/^static void prvLowPriorityPeekTask( void *pvParameters )$/;"	f	file:
+prvMediumPriorityMutexTask	Demo/Common/Minimal/GenQTest.c	/^static void prvMediumPriorityMutexTask( void *pvParameters )$/;"	f	file:
+prvMediumPriorityPeekTask	Demo/Common/Minimal/QPeek.c	/^static void prvMediumPriorityPeekTask( void *pvParameters )$/;"	f	file:
+prvOneShotTimerCallback	Demo/Common/Minimal/TimerDemo.c	/^static void prvOneShotTimerCallback( xTimerHandle pxExpiredTimer )$/;"	f	file:
+prvProcessExpiredTimer	Source/timers.c	/^static void prvProcessExpiredTimer( portTickType xNextExpireTime, portTickType xTimeNow )$/;"	f	file:
+prvProcessReceivedCommands	Source/timers.c	/^static void	prvProcessReceivedCommands( void )$/;"	f	file:
+prvProcessTimerOrBlockTask	Source/timers.c	/^static void prvProcessTimerOrBlockTask( portTickType xNextExpireTime, portBASE_TYPE xListWasEmpty )$/;"	f	file:
+prvReadP15_C12_C0_1	Demo/MT3628_Cortex_A9SPCore/main.c	/^static unsigned long prvReadP15_C12_C0_1( void )$/;"	f	file:
+prvReadP15_C12_C0_1	Demo/Versatile_Express_Cortex_A9MPCore/main.c	/^static unsigned long prvReadP15_C12_C0_1( void )$/;"	f	file:
+prvReadP15_C1_C0_0	Demo/MT3628_Cortex_A9SPCore/main.c	/^static unsigned long prvReadP15_C1_C0_0( void )$/;"	f	file:
+prvReadP15_C1_C0_0	Demo/Versatile_Express_Cortex_A9MPCore/main.c	/^static unsigned long prvReadP15_C1_C0_0( void )$/;"	f	file:
+prvReadP15_C1_C0_1	Demo/MT3628_Cortex_A9SPCore/main.c	/^static unsigned long prvReadP15_C1_C0_1( void )$/;"	f	file:
+prvReadP15_C1_C0_1	Demo/Versatile_Express_Cortex_A9MPCore/main.c	/^static unsigned long prvReadP15_C1_C0_1( void )$/;"	f	file:
+prvReadP15_C1_C0_2	Demo/MT3628_Cortex_A9SPCore/main.c	/^static unsigned long prvReadP15_C1_C0_2( void )$/;"	f	file:
+prvReadP15_C1_C0_2	Demo/Versatile_Express_Cortex_A9MPCore/main.c	/^static unsigned long prvReadP15_C1_C0_2( void )$/;"	f	file:
+prvReadP15_C1_C1_0	Demo/MT3628_Cortex_A9SPCore/main.c	/^static unsigned long prvReadP15_C1_C1_0( void )$/;"	f	file:
+prvReadP15_C1_C1_0	Demo/Versatile_Express_Cortex_A9MPCore/main.c	/^static unsigned long prvReadP15_C1_C1_0( void )$/;"	f	file:
+prvReadP15_C1_C1_1	Demo/MT3628_Cortex_A9SPCore/main.c	/^static unsigned long prvReadP15_C1_C1_1( void )$/;"	f	file:
+prvReadP15_C1_C1_1	Demo/Versatile_Express_Cortex_A9MPCore/main.c	/^static unsigned long prvReadP15_C1_C1_1( void )$/;"	f	file:
+prvReadP15_C1_C1_2	Demo/MT3628_Cortex_A9SPCore/main.c	/^static unsigned long prvReadP15_C1_C1_2( void )$/;"	f	file:
+prvReadP15_C1_C1_2	Demo/Versatile_Express_Cortex_A9MPCore/main.c	/^static unsigned long prvReadP15_C1_C1_2( void )$/;"	f	file:
+prvRecursiveMutexBlockingTask	Demo/Common/Minimal/recmutex.c	/^static void prvRecursiveMutexBlockingTask( void *pvParameters )$/;"	f	file:
+prvRecursiveMutexControllingTask	Demo/Common/Minimal/recmutex.c	/^static void prvRecursiveMutexControllingTask( void *pvParameters )$/;"	f	file:
+prvRecursiveMutexPollingTask	Demo/Common/Minimal/recmutex.c	/^static void prvRecursiveMutexPollingTask( void *pvParameters )$/;"	f	file:
+prvResetStartConditionsForNextIteration	Demo/Common/Minimal/TimerDemo.c	/^static void prvResetStartConditionsForNextIteration( void )$/;"	f	file:
+prvSampleTimeNow	Source/timers.c	/^static portTickType prvSampleTimeNow( portBASE_TYPE *pxTimerListsWereSwitched )$/;"	f	file:
+prvSendFrontAndBackTest	Demo/Common/Minimal/GenQTest.c	/^static void prvSendFrontAndBackTest( void *pvParameters )$/;"	f	file:
+prvSetupHardware	Demo/Versatile_Express_Cortex_A9MPCore/main.c	/^static void prvSetupHardware( void )$/;"	f	file:
+prvSetupTimerInterrupt	Source/portable/GCC/ARM_CA9/port.c	/^void prvSetupTimerInterrupt( void )$/;"	f
+prvSetupTimerInterrupt	Source/portable/GCC/ARM_Cortex-A9/port.c	/^void prvSetupTimerInterrupt( void )$/;"	f
+prvSwitchTimerLists	Source/timers.c	/^static void prvSwitchTimerLists( portTickType xLastTime )$/;"	f	file:
+prvTest1_CreateTimersWithoutSchedulerRunning	Demo/Common/Minimal/TimerDemo.c	/^static void prvTest1_CreateTimersWithoutSchedulerRunning( void )$/;"	f	file:
+prvTest2_CheckTaskAndTimersInitialState	Demo/Common/Minimal/TimerDemo.c	/^static void prvTest2_CheckTaskAndTimersInitialState( void )$/;"	f	file:
+prvTest3_CheckAutoReloadExpireRates	Demo/Common/Minimal/TimerDemo.c	/^static void	prvTest3_CheckAutoReloadExpireRates( void )$/;"	f	file:
+prvTest4_CheckAutoReloadTimersCanBeStopped	Demo/Common/Minimal/TimerDemo.c	/^static void prvTest4_CheckAutoReloadTimersCanBeStopped( void )$/;"	f	file:
+prvTest5_CheckBasicOneShotTimerBehaviour	Demo/Common/Minimal/TimerDemo.c	/^static void prvTest5_CheckBasicOneShotTimerBehaviour( void )$/;"	f	file:
+prvTest6_CheckAutoReloadResetBehaviour	Demo/Common/Minimal/TimerDemo.c	/^static void prvTest6_CheckAutoReloadResetBehaviour( void )$/;"	f	file:
+prvTimerTask	Source/timers.c	/^static void prvTimerTask( void *pvParameters )$/;"	f	file:
+prvTimerTestTask	Demo/Common/Minimal/TimerDemo.c	/^static void prvTimerTestTask( void *pvParameters )$/;"	f	file:
+prvUnlockQueue	Source/queue.c	/^static void prvUnlockQueue( xQueueHandle pxQueue )$/;"	f	file:
+psCheckVariable	Demo/Common/Minimal/BlockQ.c	/^	volatile short *psCheckVariable;	\/*< Incremented on each successful cycle to check the task is still running. *\/$/;"	m	struct:BLOCKING_QUEUE_PARAMETERS	file:
+pulSharedVariable	Demo/Common/Minimal/semtest.c	/^	volatile unsigned long *pulSharedVariable;$/;"	m	struct:SEMAPHORE_PARAMETERS	file:
+putchar	Demo/Versatile_Express_Cortex_A9MPCore/printf-stdarg.c	/^int putchar(int c)$/;"	f
+puts	Demo/Versatile_Express_Cortex_A9MPCore/printf-stdarg.c	/^int puts(const char *s)$/;"	f
+puxAbortStack	Source/portable/GCC/ARM_CA9/port.c	/^static portSTACK_TYPE puxAbortStack[ portABORT_STACK_SIZE ];$/;"	v	file:
+puxAbortStack	Source/portable/GCC/ARM_Cortex-A9/port.c	/^static portSTACK_TYPE puxAbortStack[ portABORT_STACK_SIZE ];$/;"	v	file:
+puxAbortStackPointer	Source/portable/GCC/ARM_CA9/port.c	/^static portSTACK_TYPE *puxAbortStackPointer = &(puxAbortStack[ portABORT_STACK_SIZE - 1 ] );$/;"	v	file:
+puxAbortStackPointer	Source/portable/GCC/ARM_Cortex-A9/port.c	/^static portSTACK_TYPE *puxAbortStackPointer = &(puxAbortStack[ portABORT_STACK_SIZE - 1 ] );$/;"	v	file:
+puxFIQStack	Source/portable/GCC/ARM_CA9/port.c	/^static portSTACK_TYPE puxFIQStack[ portFIQ_STACK_SIZE ];$/;"	v	file:
+puxFIQStack	Source/portable/GCC/ARM_Cortex-A9/port.c	/^static portSTACK_TYPE puxFIQStack[ portFIQ_STACK_SIZE ];$/;"	v	file:
+puxFIQStackPointer	Source/portable/GCC/ARM_CA9/port.c	/^static portSTACK_TYPE *puxFIQStackPointer = &(puxFIQStack[ portFIQ_STACK_SIZE - 1 ] );$/;"	v	file:
+puxFIQStackPointer	Source/portable/GCC/ARM_Cortex-A9/port.c	/^static portSTACK_TYPE *puxFIQStackPointer = &(puxFIQStack[ portFIQ_STACK_SIZE - 1 ] );$/;"	v	file:
+puxIRQStack	Source/portable/GCC/ARM_CA9/port.c	/^static portSTACK_TYPE puxIRQStack[ portIRQ_STACK_SIZE ];$/;"	v	file:
+puxIRQStack	Source/portable/GCC/ARM_Cortex-A9/port.c	/^static portSTACK_TYPE puxIRQStack[ portIRQ_STACK_SIZE ];$/;"	v	file:
+puxIRQStackPointer	Source/portable/GCC/ARM_CA9/port.c	/^static portSTACK_TYPE *puxIRQStackPointer = &(puxIRQStack[ portIRQ_STACK_SIZE - 1 ] );$/;"	v	file:
+puxIRQStackPointer	Source/portable/GCC/ARM_Cortex-A9/port.c	/^static portSTACK_TYPE *puxIRQStackPointer = &(puxIRQStack[ portIRQ_STACK_SIZE - 1 ] );$/;"	v	file:
+puxSVCStack	Source/portable/GCC/ARM_CA9/port.c	/^static portSTACK_TYPE puxSVCStack[ portSVC_STACK_SIZE ];$/;"	v	file:
+puxSVCStack	Source/portable/GCC/ARM_Cortex-A9/port.c	/^static portSTACK_TYPE puxSVCStack[ portSVC_STACK_SIZE ];$/;"	v	file:
+puxSVCStackPointer	Source/portable/GCC/ARM_CA9/port.c	/^static portSTACK_TYPE *puxSVCStackPointer = &(puxSVCStack[ portSVC_STACK_SIZE - 1 ] );$/;"	v	file:
+puxSVCStackPointer	Source/portable/GCC/ARM_Cortex-A9/port.c	/^static portSTACK_TYPE *puxSVCStackPointer = &(puxSVCStack[ portSVC_STACK_SIZE - 1 ] );$/;"	v	file:
+puxStackBuffer	Source/include/task.h	/^	portSTACK_TYPE *puxStackBuffer;$/;"	m	struct:xTASK_PARAMTERS
+pvBaseAddress	Source/include/task.h	/^	void *pvBaseAddress;$/;"	m	struct:xMEMORY_REGION
+pvContainer	Source/include/list.h	/^	void * pvContainer;						\/*< Pointer to the list in which this list item is placed (if any). *\/$/;"	m	struct:xLIST_ITEM
+pvOwner	Source/include/list.h	/^	void * pvOwner;							\/*< Pointer to the object (normally a TCB) that contains the list item.  There is therefore a two way link between the object containing the list item and the list item itself. *\/$/;"	m	struct:xLIST_ITEM
+pvParameter	Source/portable/GCC/ARM_CA9/port.c	/^    void *pvParameter;$/;"	m	struct:STRUCT_HANDLER_PARAMETER	file:
+pvParameter	Source/portable/GCC/ARM_Cortex-A9/port.c	/^    void *pvParameter;$/;"	m	struct:STRUCT_HANDLER_PARAMETER	file:
+pvParameters	Source/include/task.h	/^	void *pvParameters;$/;"	m	struct:xTASK_PARAMTERS
+pvPortMalloc	Source/include/mpu_wrappers.h	103;"	d
+pvPortMalloc	Source/portable/MemMang/heap_1.c	/^void *pvPortMalloc( size_t xWantedSize )$/;"	f
+pvPortMalloc	Source/portable/MemMang/heap_2.c	/^void *pvPortMalloc( size_t xWantedSize )$/;"	f
+pvPortMalloc	Source/portable/MemMang/heap_3.c	/^void *pvPortMalloc( size_t xWantedSize )$/;"	f
+pvPortMallocAligned	Source/include/FreeRTOS.h	489;"	d
+pvTaskCode	Source/include/task.h	/^	pdTASK_CODE pvTaskCode;$/;"	m	struct:xTASK_PARAMTERS
+pvTimerGetTimerID	Source/timers.c	/^void *pvTimerGetTimerID( xTimerHandle xTimer )$/;"	f
+pvTimerID	Source/timers.c	/^	void 					*pvTimerID;			\/*<< An ID to identify the timer.  This allows the timer to be identified when the same callback is used for multiple timers. *\/$/;"	m	struct:tmrTimerControl	file:
+pxCallbackFunction	Source/timers.c	/^	tmrTIMER_CALLBACK		pxCallbackFunction;	\/*<< The function that will be called when the timer expires. *\/$/;"	m	struct:tmrTimerControl	file:
+pxCoRoutineFunction	Source/include/croutine.h	/^	crCOROUTINE_CODE 		pxCoRoutineFunction;$/;"	m	struct:corCoRoutineControlBlock
+pxCurrentCoRoutine	Source/croutine.c	/^corCRCB * pxCurrentCoRoutine = NULL;$/;"	v
+pxCurrentTCB	Source/tasks.c	/^PRIVILEGED_DATA tskTCB * volatile pxCurrentTCB = NULL;$/;"	v
+pxCurrentTCBConst	Source/portable/GCC/ARM_CA9/portASM.S	/^pxCurrentTCBConst: .word pxCurrentTCB$/;"	l
+pxCurrentTimerList	Source/timers.c	/^PRIVILEGED_DATA static xList *pxCurrentTimerList;$/;"	v	file:
+pxDelayedCoRoutineList	Source/croutine.c	/^static xList * pxDelayedCoRoutineList;									\/*< Points to the delayed co-routine list currently being used. *\/$/;"	v	file:
+pxDelayedTaskList	Source/tasks.c	/^PRIVILEGED_DATA static xList * volatile pxDelayedTaskList ;				\/*< Points to the delayed task list currently being used. *\/$/;"	v	file:
+pxEndOfStack	Source/tasks.c	/^		portSTACK_TYPE *pxEndOfStack;			\/*< Used for stack overflow checking on architectures where the stack grows up from low memory. *\/$/;"	m	struct:tskTaskControlBlock	file:
+pxISR	Source/include/portable.h	/^	typedef void ( __interrupt __far *pxISR )();$/;"	t
+pxISR	Source/include/portable.h	/^    typedef void ( __interrupt __far *pxISR )();$/;"	t
+pxIndex	Source/include/list.h	/^	volatile xListItem * pxIndex;			\/*< Used to walk through the list.  Points to the last item returned by a call to pvListGetOwnerOfNextEntry (). *\/$/;"	m	struct:xLIST
+pxInterruptHandlers	Source/portable/GCC/ARM_CA9/port.c	/^xInterruptHandlerDefinition pxInterruptHandlers[ portMAX_VECTORS ] = { { NULL, NULL } };$/;"	v
+pxInterruptHandlers	Source/portable/GCC/ARM_Cortex-A9/port.c	/^xInterruptHandlerDefinition pxInterruptHandlers[ portMAX_VECTORS ] = { { NULL, NULL } };$/;"	v
+pxMutexHolder	Source/queue.c	86;"	d	file:
+pxNext	Source/include/list.h	/^	volatile struct xLIST_ITEM * pxNext;	\/*< Pointer to the next xListItem in the list. *\/$/;"	m	struct:xLIST_ITEM	typeref:struct:xLIST_ITEM::xLIST_ITEM
+pxNext	Source/include/list.h	/^	volatile struct xLIST_ITEM *pxNext;$/;"	m	struct:xMINI_LIST_ITEM	typeref:struct:xMINI_LIST_ITEM::xLIST_ITEM
+pxNextFreeBlock	Source/portable/MemMang/heap_2.c	/^	struct A_BLOCK_LINK *pxNextFreeBlock;	\/*<< The next free block in the list. *\/$/;"	m	struct:A_BLOCK_LINK	typeref:struct:A_BLOCK_LINK::A_BLOCK_LINK	file:
+pxOverflowDelayedCoRoutineList	Source/croutine.c	/^static xList * pxOverflowDelayedCoRoutineList;							\/*< Points to the delayed co-routine list currently being used to hold co-routines that have overflowed the current tick count. *\/$/;"	v	file:
+pxOverflowDelayedTaskList	Source/tasks.c	/^PRIVILEGED_DATA static xList * volatile pxOverflowDelayedTaskList;		\/*< Points to the delayed task list currently being used to hold tasks that have overflowed the current tick count. *\/$/;"	v	file:
+pxOverflowTimerList	Source/timers.c	/^PRIVILEGED_DATA static xList *pxOverflowTimerList;$/;"	v	file:
+pxPortInitialiseStack	Source/portable/GCC/ARM_CA9/port.c	/^portSTACK_TYPE *pxPortInitialiseStack( portSTACK_TYPE *pxTopOfStack, pdTASK_CODE pxCode, void *pvParameters )$/;"	f
+pxPortInitialiseStack	Source/portable/GCC/ARM_Cortex-A9/port.c	/^portSTACK_TYPE *pxPortInitialiseStack( portSTACK_TYPE *pxTopOfStack, pdTASK_CODE pxCode, void *pvParameters )$/;"	f
+pxPrevious	Source/include/list.h	/^	volatile struct xLIST_ITEM * pxPrevious;\/*< Pointer to the previous xListItem in the list. *\/$/;"	m	struct:xLIST_ITEM	typeref:struct:xLIST_ITEM::xLIST_ITEM
+pxPrevious	Source/include/list.h	/^	volatile struct xLIST_ITEM *pxPrevious;$/;"	m	struct:xMINI_LIST_ITEM	typeref:struct:xMINI_LIST_ITEM::xLIST_ITEM
+pxReadyCoRoutineLists	Source/croutine.c	/^static xList pxReadyCoRoutineLists[ configMAX_CO_ROUTINE_PRIORITIES ];	\/*< Prioritised ready co-routines. *\/$/;"	v	file:
+pxReadyTasksLists	Source/tasks.c	/^PRIVILEGED_DATA static xList pxReadyTasksLists[ configMAX_PRIORITIES ];	\/*< Prioritised ready tasks. *\/$/;"	v	file:
+pxStack	Source/tasks.c	/^	portSTACK_TYPE			*pxStack;			\/*< Points to the start of the stack. *\/$/;"	m	struct:tskTaskControlBlock	file:
+pxTaskTag	Source/tasks.c	/^		pdTASK_HOOK_CODE pxTaskTag;$/;"	m	struct:tskTaskControlBlock	file:
+pxTimer	Source/timers.c	/^	xTIMER *				pxTimer;			\/*<< The timer to which the command will be applied. *\/$/;"	m	struct:tmrTimerQueueMessage	file:
+pxTopOfStack	Source/tasks.c	/^	volatile portSTACK_TYPE	*pxTopOfStack;		\/*< Points to the location of the last item placed on the tasks stack.  THIS MUST BE THE FIRST MEMBER OF THE STRUCT. *\/$/;"	m	struct:tskTaskControlBlock	file:
+qpeekHIGHEST_PRIORITY	Demo/Common/Minimal/QPeek.c	79;"	d	file:
+qpeekHIGH_PRIORITY	Demo/Common/Minimal/QPeek.c	78;"	d	file:
+qpeekLOW_PRIORITY	Demo/Common/Minimal/QPeek.c	76;"	d	file:
+qpeekMEDIUM_PRIORITY	Demo/Common/Minimal/QPeek.c	77;"	d	file:
+qpeekNO_BLOCK	Demo/Common/Minimal/QPeek.c	73;"	d	file:
+qpeekQUEUE_LENGTH	Demo/Common/Minimal/QPeek.c	72;"	d	file:
+qpeekSHORT_DELAY	Demo/Common/Minimal/QPeek.c	74;"	d	file:
+queueDONT_BLOCK	Source/queue.c	94;"	d	file:
+queueERRONEOUS_UNBLOCK	Source/queue.c	79;"	d	file:
+queueLOCKED_UNMODIFIED	Source/queue.c	77;"	d	file:
+queueMUTEX_GIVE_BLOCK_TIME	Source/queue.c	95;"	d	file:
+queueQUEUE_IS_MUTEX	Source/queue.c	89;"	d	file:
+queueQUEUE_TYPE_BASE	Source/include/queue.h	82;"	d
+queueQUEUE_TYPE_BASE	Source/queue.c	98;"	d	file:
+queueQUEUE_TYPE_BINARY_SEMAPHORE	Source/include/queue.h	85;"	d
+queueQUEUE_TYPE_BINARY_SEMAPHORE	Source/queue.c	101;"	d	file:
+queueQUEUE_TYPE_COUNTING_SEMAPHORE	Source/include/queue.h	84;"	d
+queueQUEUE_TYPE_COUNTING_SEMAPHORE	Source/queue.c	100;"	d	file:
+queueQUEUE_TYPE_MUTEX	Source/include/queue.h	83;"	d
+queueQUEUE_TYPE_MUTEX	Source/queue.c	99;"	d	file:
+queueQUEUE_TYPE_RECURSIVE_MUTEX	Source/include/queue.h	86;"	d
+queueQUEUE_TYPE_RECURSIVE_MUTEX	Source/queue.c	102;"	d	file:
+queueSEMAPHORE_QUEUE_ITEM_LENGTH	Source/queue.c	93;"	d	file:
+queueSEND_TO_BACK	Source/include/queue.h	78;"	d
+queueSEND_TO_BACK	Source/queue.c	82;"	d	file:
+queueSEND_TO_FRONT	Source/include/queue.h	79;"	d
+queueSEND_TO_FRONT	Source/queue.c	83;"	d	file:
+queueUNLOCKED	Source/queue.c	76;"	d	file:
+recmuBLOCKING_TASK_PRIORITY	Demo/Common/Minimal/recmutex.c	100;"	d	file:
+recmuCONTROLLING_TASK_PRIORITY	Demo/Common/Minimal/recmutex.c	99;"	d	file:
+recmuMAX_COUNT	Demo/Common/Minimal/recmutex.c	104;"	d	file:
+recmuNO_DELAY	Demo/Common/Minimal/recmutex.c	108;"	d	file:
+recmuPOLLING_TASK_PRIORITY	Demo/Common/Minimal/recmutex.c	101;"	d	file:
+recmuSHORT_DELAY	Demo/Common/Minimal/recmutex.c	107;"	d	file:
+recmuTWO_TICK_DELAY	Demo/Common/Minimal/recmutex.c	109;"	d	file:
+sBlockingConsumerCount	Demo/Common/Minimal/BlockQ.c	/^static volatile short sBlockingConsumerCount[ blckqNUM_TASK_SETS ] = { ( unsigned short ) 0, ( unsigned short ) 0, ( unsigned short ) 0 };$/;"	v	file:
+sBlockingProducerCount	Demo/Common/Minimal/BlockQ.c	/^static volatile short sBlockingProducerCount[ blckqNUM_TASK_SETS ] = { ( unsigned short ) 0, ( unsigned short ) 0, ( unsigned short ) 0 };$/;"	v	file:
+sCheckVariables	Demo/Common/Minimal/semtest.c	/^static volatile short sCheckVariables[ semtstNUM_TASKS ] = { 0 };$/;"	v	file:
+sNextCheckVariable	Demo/Common/Minimal/semtest.c	/^static volatile short sNextCheckVariable = 0;$/;"	v	file:
+semBINARY_SEMAPHORE_QUEUE_LENGTH	Source/include/semphr.h	65;"	d
+semGIVE_BLOCK_TIME	Source/include/semphr.h	67;"	d
+semSEMAPHORE_QUEUE_ITEM_LENGTH	Source/include/semphr.h	66;"	d
+semtstBLOCKING_EXPECTED_VALUE	Demo/Common/Minimal/semtest.c	89;"	d	file:
+semtstDELAY_FACTOR	Demo/Common/Minimal/semtest.c	96;"	d	file:
+semtstNON_BLOCKING_EXPECTED_VALUE	Demo/Common/Minimal/semtest.c	90;"	d	file:
+semtstNUM_TASKS	Demo/Common/Minimal/semtest.c	94;"	d	file:
+semtstSTACK_SIZE	Demo/Common/Minimal/semtest.c	92;"	d	file:
+ser110	Demo/Common/include/serial.h	/^	ser110,		$/;"	e	enum:__anon5
+ser115200	Demo/Common/include/serial.h	/^	ser115200$/;"	e	enum:__anon5
+ser1200	Demo/Common/include/serial.h	/^	ser1200,	$/;"	e	enum:__anon5
+ser134	Demo/Common/include/serial.h	/^	ser134,		$/;"	e	enum:__anon5
+ser150	Demo/Common/include/serial.h	/^	ser150,    $/;"	e	enum:__anon5
+ser1800	Demo/Common/include/serial.h	/^	ser1800,	$/;"	e	enum:__anon5
+ser19200	Demo/Common/include/serial.h	/^	ser19200,	$/;"	e	enum:__anon5
+ser200	Demo/Common/include/serial.h	/^	ser200,$/;"	e	enum:__anon5
+ser2400	Demo/Common/include/serial.h	/^	ser2400,   $/;"	e	enum:__anon5
+ser300	Demo/Common/include/serial.h	/^	ser300,		$/;"	e	enum:__anon5
+ser38400	Demo/Common/include/serial.h	/^	ser38400,	$/;"	e	enum:__anon5
+ser4800	Demo/Common/include/serial.h	/^	ser4800,$/;"	e	enum:__anon5
+ser50	Demo/Common/include/serial.h	/^	ser50,		$/;"	e	enum:__anon5
+ser57600	Demo/Common/include/serial.h	/^	ser57600,	$/;"	e	enum:__anon5
+ser600	Demo/Common/include/serial.h	/^	ser600,		$/;"	e	enum:__anon5
+ser75	Demo/Common/include/serial.h	/^	ser75,		$/;"	e	enum:__anon5
+ser9600	Demo/Common/include/serial.h	/^	ser9600,		$/;"	e	enum:__anon5
+serBITS_5	Demo/Common/include/serial.h	/^	serBITS_5, $/;"	e	enum:__anon4
+serBITS_6	Demo/Common/include/serial.h	/^	serBITS_6, $/;"	e	enum:__anon4
+serBITS_7	Demo/Common/include/serial.h	/^	serBITS_7, $/;"	e	enum:__anon4
+serBITS_8	Demo/Common/include/serial.h	/^	serBITS_8 $/;"	e	enum:__anon4
+serCOM1	Demo/Common/include/serial.h	/^	serCOM1, $/;"	e	enum:__anon1
+serCOM2	Demo/Common/include/serial.h	/^	serCOM2, $/;"	e	enum:__anon1
+serCOM3	Demo/Common/include/serial.h	/^	serCOM3, $/;"	e	enum:__anon1
+serCOM4	Demo/Common/include/serial.h	/^	serCOM4, $/;"	e	enum:__anon1
+serCOM5	Demo/Common/include/serial.h	/^	serCOM5, $/;"	e	enum:__anon1
+serCOM6	Demo/Common/include/serial.h	/^	serCOM6, $/;"	e	enum:__anon1
+serCOM7	Demo/Common/include/serial.h	/^	serCOM7, $/;"	e	enum:__anon1
+serCOM8	Demo/Common/include/serial.h	/^	serCOM8 $/;"	e	enum:__anon1
+serEVEN_PARITY	Demo/Common/include/serial.h	/^	serEVEN_PARITY, $/;"	e	enum:__anon2
+serMARK_PARITY	Demo/Common/include/serial.h	/^	serMARK_PARITY, $/;"	e	enum:__anon2
+serNO_PARITY	Demo/Common/include/serial.h	/^	serNO_PARITY, $/;"	e	enum:__anon2
+serODD_PARITY	Demo/Common/include/serial.h	/^	serODD_PARITY, $/;"	e	enum:__anon2
+serSPACE_PARITY	Demo/Common/include/serial.h	/^	serSPACE_PARITY $/;"	e	enum:__anon2
+serSTOP_1	Demo/Common/include/serial.h	/^	serSTOP_1, $/;"	e	enum:__anon3
+serSTOP_2	Demo/Common/include/serial.h	/^	serSTOP_2 $/;"	e	enum:__anon3
+software_interrupt	Demo/MT3628_Cortex_A9SPCore/start.S	/^software_interrupt:$/;"	l
+sprintf	Demo/Versatile_Express_Cortex_A9MPCore/printf-stdarg.c	/^int sprintf(char *out,const char *format,...)$/;"	f
+static	Source/croutine.c	63;"	d	file:
+static	Source/tasks.c	127;"	d	file:
+switch_before_exit	Source/portable/GCC/ARM_CA9/portASM.S	/^switch_before_exit:$/;"	l
+taskDISABLE_INTERRUPTS	Source/include/task.h	173;"	d
+taskENABLE_INTERRUPTS	Source/include/task.h	183;"	d
+taskENTER_CRITICAL	Source/include/task.h	149;"	d
+taskEXIT_CRITICAL	Source/include/task.h	163;"	d
+taskFIRST_CHECK_FOR_STACK_OVERFLOW	Source/include/StackMacros.h	109;"	d
+taskFIRST_CHECK_FOR_STACK_OVERFLOW	Source/include/StackMacros.h	76;"	d
+taskFIRST_CHECK_FOR_STACK_OVERFLOW	Source/include/StackMacros.h	94;"	d
+taskSCHEDULER_NOT_STARTED	Source/include/task.h	186;"	d
+taskSCHEDULER_RUNNING	Source/include/task.h	187;"	d
+taskSCHEDULER_SUSPENDED	Source/include/task.h	188;"	d
+taskSECOND_CHECK_FOR_STACK_OVERFLOW	Source/include/StackMacros.h	124;"	d
+taskSECOND_CHECK_FOR_STACK_OVERFLOW	Source/include/StackMacros.h	145;"	d
+taskSECOND_CHECK_FOR_STACK_OVERFLOW	Source/include/StackMacros.h	77;"	d
+taskSECOND_CHECK_FOR_STACK_OVERFLOW	Source/include/StackMacros.h	86;"	d
+taskYIELD	Source/include/task.h	135;"	d
+tmrCOMMAND_CHANGE_PERIOD	Source/include/timers.h	75;"	d
+tmrCOMMAND_DELETE	Source/include/timers.h	76;"	d
+tmrCOMMAND_START	Source/include/timers.h	73;"	d
+tmrCOMMAND_STOP	Source/include/timers.h	74;"	d
+tmrNO_DELAY	Source/timers.c	73;"	d	file:
+tmrTIMER_CALLBACK	Source/include/timers.h	/^typedef void (*tmrTIMER_CALLBACK)( xTimerHandle xTimer );$/;"	t
+tmrTimerControl	Source/timers.c	/^typedef struct tmrTimerControl$/;"	s	file:
+tmrTimerQueueMessage	Source/timers.c	/^typedef struct tmrTimerQueueMessage$/;"	s	file:
+tmrdemoDONT_BLOCK	Demo/Common/Minimal/TimerDemo.c	75;"	d	file:
+tmrdemoONE_SHOT_TIMER_PERIOD	Demo/Common/Minimal/TimerDemo.c	76;"	d	file:
+traceBLOCKING_ON_QUEUE_RECEIVE	Source/include/FreeRTOS.h	297;"	d
+traceBLOCKING_ON_QUEUE_SEND	Source/include/FreeRTOS.h	305;"	d
+traceCREATE_COUNTING_SEMAPHORE	Source/include/FreeRTOS.h	347;"	d
+traceCREATE_COUNTING_SEMAPHORE_FAILED	Source/include/FreeRTOS.h	351;"	d
+traceCREATE_MUTEX	Source/include/FreeRTOS.h	323;"	d
+traceCREATE_MUTEX_FAILED	Source/include/FreeRTOS.h	327;"	d
+traceEND	Source/include/FreeRTOS.h	260;"	d
+traceGIVE_MUTEX_RECURSIVE	Source/include/FreeRTOS.h	331;"	d
+traceGIVE_MUTEX_RECURSIVE_FAILED	Source/include/FreeRTOS.h	335;"	d
+traceQUEUE_CREATE	Source/include/FreeRTOS.h	315;"	d
+traceQUEUE_CREATE_FAILED	Source/include/FreeRTOS.h	319;"	d
+traceQUEUE_DELETE	Source/include/FreeRTOS.h	391;"	d
+traceQUEUE_PEEK	Source/include/FreeRTOS.h	367;"	d
+traceQUEUE_RECEIVE	Source/include/FreeRTOS.h	363;"	d
+traceQUEUE_RECEIVE_FAILED	Source/include/FreeRTOS.h	371;"	d
+traceQUEUE_RECEIVE_FROM_ISR	Source/include/FreeRTOS.h	383;"	d
+traceQUEUE_RECEIVE_FROM_ISR_FAILED	Source/include/FreeRTOS.h	387;"	d
+traceQUEUE_SEND	Source/include/FreeRTOS.h	355;"	d
+traceQUEUE_SEND_FAILED	Source/include/FreeRTOS.h	359;"	d
+traceQUEUE_SEND_FROM_ISR	Source/include/FreeRTOS.h	375;"	d
+traceQUEUE_SEND_FROM_ISR_FAILED	Source/include/FreeRTOS.h	379;"	d
+traceSTART	Source/include/FreeRTOS.h	254;"	d
+traceTAKE_MUTEX_RECURSIVE	Source/include/FreeRTOS.h	339;"	d
+traceTAKE_MUTEX_RECURSIVE_FAILED	Source/include/FreeRTOS.h	343;"	d
+traceTASK_CREATE	Source/include/FreeRTOS.h	395;"	d
+traceTASK_CREATE_FAILED	Source/include/FreeRTOS.h	399;"	d
+traceTASK_DELAY	Source/include/FreeRTOS.h	411;"	d
+traceTASK_DELAY_UNTIL	Source/include/FreeRTOS.h	407;"	d
+traceTASK_DELETE	Source/include/FreeRTOS.h	403;"	d
+traceTASK_INCREMENT_TICK	Source/include/FreeRTOS.h	431;"	d
+traceTASK_PRIORITY_DISINHERIT	Source/include/FreeRTOS.h	289;"	d
+traceTASK_PRIORITY_INHERIT	Source/include/FreeRTOS.h	281;"	d
+traceTASK_PRIORITY_SET	Source/include/FreeRTOS.h	415;"	d
+traceTASK_RESUME	Source/include/FreeRTOS.h	423;"	d
+traceTASK_RESUME_FROM_ISR	Source/include/FreeRTOS.h	427;"	d
+traceTASK_SUSPEND	Source/include/FreeRTOS.h	419;"	d
+traceTASK_SWITCHED_IN	Source/include/FreeRTOS.h	266;"	d
+traceTASK_SWITCHED_OUT	Source/include/FreeRTOS.h	272;"	d
+traceTIMER_COMMAND_RECEIVED	Source/include/FreeRTOS.h	451;"	d
+traceTIMER_COMMAND_SEND	Source/include/FreeRTOS.h	443;"	d
+traceTIMER_CREATE	Source/include/FreeRTOS.h	435;"	d
+traceTIMER_CREATE_FAILED	Source/include/FreeRTOS.h	439;"	d
+traceTIMER_EXPIRED	Source/include/FreeRTOS.h	447;"	d
+trmdemoNUM_TIMER_RESETS	Demo/Common/Minimal/TimerDemo.c	77;"	d	file:
+tskBLOCKED_CHAR	Source/tasks.c	193;"	d	file:
+tskDELETED_CHAR	Source/tasks.c	195;"	d	file:
+tskIDLE_PRIORITY	Source/include/task.h	125;"	d
+tskIDLE_STACK_SIZE	Source/tasks.c	74;"	d	file:
+tskKERNEL_VERSION_NUMBER	Source/include/task.h	73;"	d
+tskREADY_CHAR	Source/tasks.c	194;"	d	file:
+tskSTACK_FILL_BYTE	Source/tasks.c	188;"	d	file:
+tskSUSPENDED_CHAR	Source/tasks.c	196;"	d	file:
+tskTCB	Source/tasks.c	/^} tskTCB;$/;"	t	typeref:struct:tskTaskControlBlock	file:
+tskTaskControlBlock	Source/tasks.c	/^typedef struct tskTaskControlBlock$/;"	s	file:
+ucAutoReloadTimerCounters	Demo/Common/Minimal/TimerDemo.c	/^static unsigned char ucAutoReloadTimerCounters[ configTIMER_QUEUE_LENGTH + 1 ] = { 0 };$/;"	v	file:
+ucHeap	Source/portable/MemMang/heap_1.c	/^	unsigned char ucHeap[ configTOTAL_HEAP_SIZE ];$/;"	m	union:xRTOS_HEAP	file:
+ucHeap	Source/portable/MemMang/heap_2.c	/^	unsigned char ucHeap[ configTOTAL_HEAP_SIZE ];$/;"	m	union:xRTOS_HEAP	file:
+ucISRAutoReloadTimerCounter	Demo/Common/Minimal/TimerDemo.c	/^static unsigned char ucISRAutoReloadTimerCounter = ( unsigned char ) 0;$/;"	v	file:
+ucISROneShotTimerCounter	Demo/Common/Minimal/TimerDemo.c	/^static unsigned char ucISROneShotTimerCounter = ( unsigned char ) 0;$/;"	v	file:
+ucOneShotTimerCounter	Demo/Common/Minimal/TimerDemo.c	/^static unsigned char ucOneShotTimerCounter = ( unsigned char ) 0;$/;"	v	file:
+ucQueueGetQueueNumber	Source/queue.c	/^	unsigned char ucQueueGetQueueNumber( xQueueHandle pxQueue )$/;"	f
+ucQueueGetQueueType	Source/queue.c	/^	unsigned char ucQueueGetQueueType( xQueueHandle pxQueue )$/;"	f
+ucQueueNumber	Source/queue.c	/^		unsigned char ucQueueNumber;$/;"	m	struct:QueueDefinition	file:
+ucQueueType	Source/queue.c	/^		unsigned char ucQueueType;$/;"	m	struct:QueueDefinition	file:
+ulCounter	Demo/Common/Minimal/dynamic.c	/^static unsigned long ulCounter;$/;"	v	file:
+ulCriticalNestingConst	Source/portable/GCC/ARM_CA9/portASM.S	/^ulCriticalNestingConst: .word ulCriticalNesting$/;"	l
+ulGuardedVariable	Demo/Common/Minimal/GenQTest.c	/^static volatile unsigned portLONG ulGuardedVariable = 0;$/;"	v	file:
+ulICCEOIRConst	Source/portable/GCC/ARM_CA9/portASM.S	/^ulICCEOIRConst:	.word ulICCEOIR$/;"	l
+ulICCIARConst	Source/portable/GCC/ARM_CA9/portASM.S	/^ulICCIARConst:	.word ulICCIAR$/;"	l
+ulICCPMRConst	Source/portable/GCC/ARM_CA9/portASM.S	/^ulICCPMRConst: .word ulICCPMR$/;"	l
+ulKernelPriority	Source/portable/GCC/ARM_CA9/port.c	/^const unsigned long ulKernelPriority = configKERNEL_INTERRUPT_PRIORITY;$/;"	v
+ulKernelPriority	Source/portable/GCC/ARM_Cortex-A9/port.c	/^const unsigned long ulKernelPriority = configKERNEL_INTERRUPT_PRIORITY;$/;"	v
+ulLengthInBytes	Source/include/task.h	/^	unsigned long ulLengthInBytes;$/;"	m	struct:xMEMORY_REGION
+ulLoopCounter	Demo/Common/Minimal/GenQTest.c	/^static volatile unsigned portLONG ulLoopCounter = 0;$/;"	v	file:
+ulLoopCounter	Demo/Common/Minimal/QPeek.c	/^static volatile unsigned portLONG ulLoopCounter = 0;$/;"	v	file:
+ulLoopCounter	Demo/Common/Minimal/TimerDemo.c	/^static volatile unsigned long ulLoopCounter = 0;$/;"	v	file:
+ulLoopCounter2	Demo/Common/Minimal/GenQTest.c	/^static volatile unsigned portLONG ulLoopCounter2 = 0;$/;"	v	file:
+ulMaxAPIPriorityMaskConst	Source/portable/GCC/ARM_CA9/portASM.S	/^ulMaxAPIPriorityMaskConst: .word ulMaxAPIPriorityMask$/;"	l
+ulMaxVectorId	Source/portable/GCC/ARM_CA9/port.c	/^static unsigned long ulMaxVectorId = portMAX_VECTORS;$/;"	v	file:
+ulMaxVectorId	Source/portable/GCC/ARM_Cortex-A9/port.c	/^static unsigned long ulMaxVectorId = portMAX_VECTORS;$/;"	v	file:
+ulParameters	Source/include/task.h	/^	unsigned long ulParameters;$/;"	m	struct:xMEMORY_REGION
+ulPortInterruptNestingConst	Source/portable/GCC/ARM_CA9/portASM.S	/^ulPortInterruptNestingConst: .word ulPortInterruptNesting$/;"	l
+ulPortTaskHasFPUContextConst	Source/portable/GCC/ARM_CA9/portASM.S	/^ulPortTaskHasFPUContextConst: .word ulPortTaskHasFPUContext$/;"	l
+ulRunTimeCounter	Source/tasks.c	/^		unsigned long ulRunTimeCounter;		\/*< Used for calculating how much CPU time each task is utilising. *\/$/;"	m	struct:tskTaskControlBlock	file:
+ulTaskEndTrace	Source/include/mpu_wrappers.h	83;"	d
+ulTaskSwitchedInTime	Source/tasks.c	/^	PRIVILEGED_DATA static unsigned long ulTaskSwitchedInTime = 0UL;	\/*< Holds the value of a timer\/counter the last time a task was switched in. *\/$/;"	v	file:
+undefined_instruction	Demo/MT3628_Cortex_A9SPCore/start.S	/^undefined_instruction:$/;"	l
+usCheckVariable	Demo/Common/Minimal/dynamic.c	/^static volatile unsigned short usCheckVariable = ( unsigned short ) 0;$/;"	v	file:
+usCreationCount	Demo/Common/Minimal/death.c	/^static volatile unsigned short usCreationCount = 0;$/;"	v	file:
+usStackDepth	Source/include/task.h	/^	unsigned short usStackDepth;$/;"	m	struct:xTASK_PARAMTERS
+usTaskCheck	Demo/Common/Minimal/flop.c	/^static volatile unsigned short usTaskCheck[ mathNUMBER_OF_TASKS ] = { ( unsigned short ) 0 };$/;"	v	file:
+usTaskCheckFreeStackSpace	Source/tasks.c	/^	static unsigned short usTaskCheckFreeStackSpace( const unsigned char * pucStackByte )$/;"	f	file:
+uxAutoReload	Source/timers.c	/^	unsigned portBASE_TYPE	uxAutoReload;		\/*<< Set to pdTRUE if the timer should be automatically restarted once expired.  Set to pdFALSE if the timer is, in effect, a one shot timer. *\/$/;"	m	struct:tmrTimerControl	file:
+uxBaseLED	Demo/Common/Minimal/comtest.c	/^static unsigned portBASE_TYPE uxBaseLED = 0;$/;"	v	file:
+uxBasePriority	Source/tasks.c	/^		unsigned portBASE_TYPE uxBasePriority;	\/*< The priority last assigned to the task - used by the priority inheritance mechanism. *\/$/;"	m	struct:tskTaskControlBlock	file:
+uxBlockingCycles	Demo/Common/Minimal/recmutex.c	/^static volatile unsigned portBASE_TYPE uxControllingCycles = 0, uxBlockingCycles = 0, uxPollingCycles = 0;$/;"	v	file:
+uxControllingCycles	Demo/Common/Minimal/recmutex.c	/^static volatile unsigned portBASE_TYPE uxControllingCycles = 0, uxBlockingCycles = 0, uxPollingCycles = 0;$/;"	v	file:
+uxCriticalNesting	Source/tasks.c	/^		unsigned portBASE_TYPE uxCriticalNesting;$/;"	m	struct:tskTaskControlBlock	file:
+uxCurrentNumberOfTasks	Source/tasks.c	/^PRIVILEGED_DATA static volatile unsigned portBASE_TYPE uxCurrentNumberOfTasks 	= ( unsigned portBASE_TYPE ) 0U;$/;"	v	file:
+uxExpectedStartCount	Demo/Common/Minimal/countsem.c	/^	unsigned portBASE_TYPE uxExpectedStartCount;	$/;"	m	struct:COUNT_SEM_STRUCT	file:
+uxFlashTaskNumber	Demo/Common/Minimal/flash.c	/^static volatile unsigned portBASE_TYPE uxFlashTaskNumber = 0;$/;"	v	file:
+uxIndex	Source/include/croutine.h	/^	unsigned portBASE_TYPE 	uxIndex;			\/*< Used to distinguish between co-routines when multiple co-routines use the same co-routine function. *\/$/;"	m	struct:corCoRoutineControlBlock
+uxItemSize	Source/queue.c	/^	unsigned portBASE_TYPE uxItemSize;		\/*< The size of each items that the queue will hold. *\/$/;"	m	struct:QueueDefinition	file:
+uxLength	Source/queue.c	/^	unsigned portBASE_TYPE uxLength;		\/*< The length of the queue defined as the number of items it will hold, not the number of bytes. *\/$/;"	m	struct:QueueDefinition	file:
+uxLoopCounter	Demo/Common/Minimal/countsem.c	/^	unsigned portBASE_TYPE uxLoopCounter;			$/;"	m	struct:COUNT_SEM_STRUCT	file:
+uxMaxNumberOfExtraTasksRunning	Demo/Common/Minimal/death.c	/^static const unsigned portBASE_TYPE uxMaxNumberOfExtraTasksRunning = 2;$/;"	v	file:
+uxMessagesWaiting	Source/queue.c	/^	volatile unsigned portBASE_TYPE uxMessagesWaiting;\/*< The number of items currently in the queue. *\/$/;"	m	struct:QueueDefinition	file:
+uxMissedTicks	Source/tasks.c	/^PRIVILEGED_DATA static volatile unsigned portBASE_TYPE uxMissedTicks 			= ( unsigned portBASE_TYPE ) 0U;$/;"	v	file:
+uxNumberOfItems	Source/include/list.h	/^	volatile unsigned portBASE_TYPE uxNumberOfItems;$/;"	m	struct:xLIST
+uxPollingCycles	Demo/Common/Minimal/recmutex.c	/^static volatile unsigned portBASE_TYPE uxControllingCycles = 0, uxBlockingCycles = 0, uxPollingCycles = 0;$/;"	v	file:
+uxPriority	Source/include/croutine.h	/^	unsigned portBASE_TYPE 	uxPriority;			\/*< The priority of the co-routine in relation to other co-routines. *\/$/;"	m	struct:corCoRoutineControlBlock
+uxPriority	Source/include/task.h	/^	unsigned portBASE_TYPE uxPriority;$/;"	m	struct:xTASK_PARAMTERS
+uxPriority	Source/tasks.c	/^	unsigned portBASE_TYPE	uxPriority;			\/*< The priority of the task where 0 is the lowest priority. *\/$/;"	m	struct:tskTaskControlBlock	file:
+uxQueueMessagesWaiting	Source/include/mpu_wrappers.h	100;"	d
+uxQueueMessagesWaiting	Source/queue.c	/^unsigned portBASE_TYPE uxQueueMessagesWaiting( const xQueueHandle pxQueue )$/;"	f
+uxQueueMessagesWaitingFromISR	Source/queue.c	/^unsigned portBASE_TYPE uxQueueMessagesWaitingFromISR( const xQueueHandle pxQueue )$/;"	f
+uxQueueType	Source/queue.c	87;"	d	file:
+uxRecursiveCallCount	Source/queue.c	88;"	d	file:
+uxRxLoops	Demo/Common/Minimal/comtest.c	/^static volatile unsigned portBASE_TYPE uxRxLoops = comINITIAL_RX_COUNT_VALUE;$/;"	v	file:
+uxSchedulerSuspended	Source/tasks.c	/^PRIVILEGED_DATA static volatile unsigned portBASE_TYPE uxSchedulerSuspended	 	= ( unsigned portBASE_TYPE ) pdFALSE;$/;"	v	file:
+uxState	Source/include/croutine.h	/^	unsigned short 		uxState;			\/*< Used internally by the co-routine implementation. *\/$/;"	m	struct:corCoRoutineControlBlock
+uxTCBNumber	Source/tasks.c	/^		unsigned portBASE_TYPE	uxTCBNumber;	\/*< This stores a number that increments each time a TCB is created.  It allows debuggers to determine when a task has been deleted and then recreated. *\/$/;"	m	struct:tskTaskControlBlock	file:
+uxTCBNumber	Source/tasks.c	/^PRIVILEGED_DATA static unsigned portBASE_TYPE uxTCBNumber 						= ( unsigned portBASE_TYPE ) 0U;$/;"	v	file:
+uxTaskGetNumberOfTasks	Source/include/mpu_wrappers.h	79;"	d
+uxTaskGetNumberOfTasks	Source/tasks.c	/^unsigned portBASE_TYPE uxTaskGetNumberOfTasks( void )$/;"	f
+uxTaskGetStackHighWaterMark	Source/include/mpu_wrappers.h	87;"	d
+uxTaskGetStackHighWaterMark	Source/tasks.c	/^	unsigned portBASE_TYPE uxTaskGetStackHighWaterMark( xTaskHandle xTask )$/;"	f
+uxTaskGetTaskNumber	Source/tasks.c	/^	unsigned portBASE_TYPE uxTaskGetTaskNumber( xTaskHandle xTask )$/;"	f
+uxTaskNumber	Source/tasks.c	/^		unsigned portBASE_TYPE  uxTaskNumber;	\/*< This stores a number specifically for use by third party trace code. *\/$/;"	m	struct:tskTaskControlBlock	file:
+uxTaskPriorityGet	Source/include/mpu_wrappers.h	71;"	d
+uxTaskPriorityGet	Source/tasks.c	/^	unsigned portBASE_TYPE uxTaskPriorityGet( xTaskHandle pxTask )$/;"	f
+uxTasksDeleted	Source/tasks.c	/^	PRIVILEGED_DATA static volatile unsigned portBASE_TYPE uxTasksDeleted = ( unsigned portBASE_TYPE ) 0U;$/;"	v	file:
+uxTasksRunningAtStart	Demo/Common/Minimal/death.c	/^static volatile unsigned portBASE_TYPE uxTasksRunningAtStart = 0;$/;"	v	file:
+uxTopCoRoutineReadyPriority	Source/croutine.c	/^static unsigned portBASE_TYPE uxTopCoRoutineReadyPriority = 0;$/;"	v	file:
+uxTopReadyPriority	Source/tasks.c	/^PRIVILEGED_DATA static volatile unsigned portBASE_TYPE uxTopReadyPriority 		= tskIDLE_PRIORITY;$/;"	v	file:
+uxTopUsedPriority	Source/tasks.c	/^PRIVILEGED_DATA static unsigned portBASE_TYPE uxTopUsedPriority	 				= tskIDLE_PRIORITY;$/;"	v	file:
+vAltStartComTestTasks	Demo/Common/Minimal/comtest.c	/^void vAltStartComTestTasks( unsigned portBASE_TYPE uxPriority, unsigned long ulBaudRate, unsigned portBASE_TYPE uxLED )$/;"	f
+vApplicationIRQHandlerConst	Source/portable/GCC/ARM_CA9/portASM.S	/^vApplicationIRQHandlerConst: .word vApplicationIRQHandler$/;"	l
+vApplicationIdleHook	Demo/MT3628_Cortex_A9SPCore/main.c	/^void vApplicationIdleHook( void )$/;"	f
+vApplicationIdleHook	Demo/Versatile_Express_Cortex_A9MPCore/main.c	/^void vApplicationIdleHook( void )$/;"	f
+vApplicationMallocFailedHook	Demo/MT3628_Cortex_A9SPCore/main.c	/^void vApplicationMallocFailedHook( void )$/;"	f
+vApplicationMallocFailedHook	Demo/Versatile_Express_Cortex_A9MPCore/main.c	/^void vApplicationMallocFailedHook( void )$/;"	f
+vApplicationStackOverflowHook	Demo/MT3628_Cortex_A9SPCore/main.c	/^void vApplicationStackOverflowHook( xTaskHandle *pxTask, signed char *pcTaskName )$/;"	f
+vApplicationStackOverflowHook	Demo/Versatile_Express_Cortex_A9MPCore/main.c	/^void vApplicationStackOverflowHook( xTaskHandle *pxTask, signed char *pcTaskName )$/;"	f
+vApplicationTickHook	Demo/MT3628_Cortex_A9SPCore/main.c	/^void vApplicationTickHook( void )$/;"	f
+vApplicationTickHook	Demo/Versatile_Express_Cortex_A9MPCore/main.c	/^void vApplicationTickHook( void )$/;"	f
+vAssertCalled	Demo/MT3628_Cortex_A9SPCore/main.c	/^extern void vAssertCalled( char *file, int line )$/;"	f
+vAssertCalled	Demo/Versatile_Express_Cortex_A9MPCore/main.c	/^extern void vAssertCalled( char *file, int line )$/;"	f
+vCheckTask	Demo/MT3628_Cortex_A9SPCore/main.c	/^static void vCheckTask( void *pvParameters )$/;"	f	file:
+vCheckTask	Demo/Versatile_Express_Cortex_A9MPCore/main.c	/^static void vCheckTask( void *pvParameters )$/;"	f	file:
+vCoRoutineAddToDelayedList	Source/croutine.c	/^void vCoRoutineAddToDelayedList( portTickType xTicksToDelay, xList *pxEventList )$/;"	f
+vCoRoutineSchedule	Source/croutine.c	/^void vCoRoutineSchedule( void )$/;"	f
+vCreateBlockTimeTasks	Demo/Common/Minimal/blocktim.c	/^void vCreateBlockTimeTasks( void )$/;"	f
+vCreateSuicidalTasks	Demo/Common/Minimal/death.c	/^void vCreateSuicidalTasks( unsigned portBASE_TYPE uxPriority )$/;"	f
+vHandler	Source/portable/GCC/ARM_CA9/port.c	/^	void (*vHandler)(void *);$/;"	m	struct:STRUCT_HANDLER_PARAMETER	file:
+vHandler	Source/portable/GCC/ARM_Cortex-A9/port.c	/^	void (*vHandler)(void *);$/;"	m	struct:STRUCT_HANDLER_PARAMETER	file:
+vListInitialise	Source/list.c	/^void vListInitialise( xList *pxList )$/;"	f
+vListInitialiseItem	Source/list.c	/^void vListInitialiseItem( xListItem *pxItem )$/;"	f
+vListInsert	Source/list.c	/^void vListInsert( xList *pxList, xListItem *pxNewListItem )$/;"	f
+vListInsertEnd	Source/list.c	/^void vListInsertEnd( xList *pxList, xListItem *pxNewListItem )$/;"	f
+vListRemove	Source/list.c	/^void vListRemove( xListItem *pxItemToRemove )$/;"	f
+vPortClearInterruptMask	Source/portable/GCC/ARM_CA9/port.c	/^void vPortClearInterruptMask( portBASE_TYPE xPriorityMask )$/;"	f
+vPortClearInterruptMask	Source/portable/GCC/ARM_Cortex-A9/port.c	/^void vPortClearInterruptMask( portBASE_TYPE xPriorityMask )$/;"	f
+vPortEndScheduler	Source/portable/GCC/ARM_CA9/port.c	/^void vPortEndScheduler( void )$/;"	f
+vPortEndScheduler	Source/portable/GCC/ARM_Cortex-A9/port.c	/^void vPortEndScheduler( void )$/;"	f
+vPortFree	Source/include/mpu_wrappers.h	104;"	d
+vPortFree	Source/portable/MemMang/heap_1.c	/^void vPortFree( void *pv )$/;"	f
+vPortFree	Source/portable/MemMang/heap_2.c	/^void vPortFree( void *pv )$/;"	f
+vPortFree	Source/portable/MemMang/heap_3.c	/^void vPortFree( void *pv )$/;"	f
+vPortFreeAligned	Source/include/FreeRTOS.h	493;"	d
+vPortGICInterruptHandler	Source/portable/GCC/ARM_CA9/port.c	/^void vPortGICInterruptHandler( void )$/;"	f
+vPortGICInterruptHandler	Source/portable/GCC/ARM_Cortex-A9/port.c	/^void vPortGICInterruptHandler( void )$/;"	f
+vPortInitialiseBlocks	Source/include/mpu_wrappers.h	106;"	d
+vPortInitialiseBlocks	Source/portable/MemMang/heap_1.c	/^void vPortInitialiseBlocks( void )$/;"	f
+vPortInitialiseBlocks	Source/portable/MemMang/heap_2.c	/^void vPortInitialiseBlocks( void )$/;"	f
+vPortInstallInterruptHandler	Source/portable/GCC/ARM_CA9/port.c	/^void vPortInstallInterruptHandler( void (*vHandler)(void *), void *pvParameter, unsigned long ulVector, unsigned char ucEdgeTriggered, unsigned char ucPriority, unsigned char ucProcessorTargets )$/;"	f
+vPortInstallInterruptHandler	Source/portable/GCC/ARM_Cortex-A9/port.c	/^void vPortInstallInterruptHandler( void (*vHandler)(void *), void *pvParameter, unsigned long ulVector, unsigned char ucEdgeTriggered, unsigned char ucPriority, unsigned char ucProcessorTargets )$/;"	f
+vPortInterruptContext	Source/portable/GCC/ARM_CA9/port.c	/^void vPortInterruptContext( void )$/;"	f
+vPortInterruptContext	Source/portable/GCC/ARM_Cortex-A9/port.c	/^void vPortInterruptContext( void )$/;"	f
+vPortRestoreTaskContext	Source/portable/GCC/ARM_CA9/portASM.S	/^vPortRestoreTaskContext:$/;"	l
+vPortSMCHandler	Source/portable/GCC/ARM_CA9/port.c	/^void vPortSMCHandler( void )$/;"	f
+vPortSMCHandler	Source/portable/GCC/ARM_Cortex-A9/port.c	/^void vPortSMCHandler( void )$/;"	f
+vPortSVCHandler	Source/portable/GCC/ARM_CA9/port.c	/^void vPortSVCHandler( void )$/;"	f
+vPortSVCHandler	Source/portable/GCC/ARM_Cortex-A9/port.c	/^void vPortSVCHandler( void )$/;"	f
+vPortStartFirstTask	Source/portable/GCC/ARM_CA9/port.c	/^void vPortStartFirstTask( void )$/;"	f
+vPortStartFirstTask	Source/portable/GCC/ARM_Cortex-A9/port.c	/^void vPortStartFirstTask( void )$/;"	f
+vPortSysTickHandler	Source/portable/GCC/ARM_CA9/port.c	/^void vPortSysTickHandler( void *pvParameter )$/;"	f
+vPortSysTickHandler	Source/portable/GCC/ARM_Cortex-A9/port.c	/^void vPortSysTickHandler( void *pvParameter )$/;"	f
+vPortUnknownInterruptHandler	Source/portable/GCC/ARM_CA9/port.c	/^void vPortUnknownInterruptHandler( void *pvParameter )$/;"	f
+vPortUnknownInterruptHandler	Source/portable/GCC/ARM_Cortex-A9/port.c	/^void vPortUnknownInterruptHandler( void *pvParameter )$/;"	f
+vPortYieldFromISR	Source/portable/GCC/ARM_CA9/port.c	/^void vPortYieldFromISR( void )$/;"	f
+vPortYieldFromISR	Source/portable/GCC/ARM_Cortex-A9/port.c	/^void vPortYieldFromISR( void )$/;"	f
+vPrimaryBlockTimeTestTask	Demo/Common/Minimal/blocktim.c	/^static void vPrimaryBlockTimeTestTask( void *pvParameters )$/;"	f	file:
+vQueueAddToRegistry	Source/include/FreeRTOS.h	242;"	d
+vQueueAddToRegistry	Source/include/mpu_wrappers.h	109;"	d
+vQueueAddToRegistry	Source/queue.c	/^	void vQueueAddToRegistry( xQueueHandle xQueue, signed char *pcQueueName )$/;"	f
+vQueueDelete	Source/include/mpu_wrappers.h	101;"	d
+vQueueDelete	Source/queue.c	/^void vQueueDelete( xQueueHandle pxQueue )$/;"	f
+vQueueSetQueueNumber	Source/queue.c	/^	void vQueueSetQueueNumber( xQueueHandle pxQueue, unsigned char ucQueueNumber )$/;"	f
+vQueueUnregisterQueue	Source/include/FreeRTOS.h	243;"	d
+vQueueUnregisterQueue	Source/include/mpu_wrappers.h	110;"	d
+vQueueUnregisterQueue	Source/queue.c	/^	static void vQueueUnregisterQueue( xQueueHandle xQueue )$/;"	f	file:
+vQueueWaitForMessageRestricted	Source/queue.c	/^	void vQueueWaitForMessageRestricted( xQueueHandle pxQueue, portTickType xTicksToWait )$/;"	f
+vRTCAcknowledgeInterrupt	Demo/Versatile_Express_Cortex_A9MPCore/pl031_rtc.c	/^void vRTCAcknowledgeInterrupt( unsigned long ulOffset )$/;"	f
+vRTCEnable	Demo/Versatile_Express_Cortex_A9MPCore/pl031_rtc.c	/^void vRTCEnable( unsigned long ulOffset )$/;"	f
+vRTCInitialise	Demo/Versatile_Express_Cortex_A9MPCore/pl031_rtc.c	/^void vRTCInitialise( void )$/;"	f
+vSecondaryBlockTimeTestTask	Demo/Common/Minimal/blocktim.c	/^static void vSecondaryBlockTimeTestTask( void *pvParameters )$/;"	f	file:
+vSemaphoreCreateBinary	Source/include/semphr.h	108;"	d
+vSemaphoreDelete	Source/include/semphr.h	721;"	d
+vSerialPutString	Demo/MT3628_Cortex_A9SPCore/serial.c	/^void vSerialPutString( xComPortHandle pxPort, const signed char * const pcString, unsigned short usStringLength )$/;"	f
+vSerialPutString	Demo/Versatile_Express_Cortex_A9MPCore/serial.c	/^void vSerialPutString( xComPortHandle pxPort, const signed char * const pcString, unsigned short usStringLength )$/;"	f
+vStartBlockingQueueTasks	Demo/Common/Minimal/BlockQ.c	/^void vStartBlockingQueueTasks( unsigned portBASE_TYPE uxPriority )$/;"	f
+vStartCountingSemaphoreTasks	Demo/Common/Minimal/countsem.c	/^void vStartCountingSemaphoreTasks( void )$/;"	f
+vStartDynamicPriorityTasks	Demo/Common/Minimal/dynamic.c	/^void vStartDynamicPriorityTasks( void )$/;"	f
+vStartGenericQueueTasks	Demo/Common/Minimal/GenQTest.c	/^void vStartGenericQueueTasks( unsigned portBASE_TYPE uxPriority )$/;"	f
+vStartIntegerMathTasks	Demo/Common/Minimal/integer.c	/^void vStartIntegerMathTasks( unsigned portBASE_TYPE uxPriority )$/;"	f
+vStartLEDFlashTasks	Demo/Common/Minimal/flash.c	/^void vStartLEDFlashTasks( unsigned portBASE_TYPE uxPriority )$/;"	f
+vStartMathTasks	Demo/Common/Minimal/flop.c	/^void vStartMathTasks( unsigned portBASE_TYPE uxPriority )$/;"	f
+vStartPolledQueueTasks	Demo/Common/Minimal/PollQ.c	/^void vStartPolledQueueTasks( unsigned portBASE_TYPE uxPriority )$/;"	f
+vStartQueuePeekTasks	Demo/Common/Minimal/QPeek.c	/^void vStartQueuePeekTasks( void )$/;"	f
+vStartRecursiveMutexTasks	Demo/Common/Minimal/recmutex.c	/^void vStartRecursiveMutexTasks( void )$/;"	f
+vStartSemaphoreTasks	Demo/Common/Minimal/semtest.c	/^void vStartSemaphoreTasks( unsigned portBASE_TYPE uxPriority )$/;"	f
+vStartTimerDemoTask	Demo/Common/Minimal/TimerDemo.c	/^void vStartTimerDemoTask( portTickType xBasePeriodIn )$/;"	f
+vTaskAllocateMPURegions	Source/include/mpu_wrappers.h	67;"	d
+vTaskAllocateMPURegions	Source/tasks.c	/^	void vTaskAllocateMPURegions( xTaskHandle xTaskToModify, const xMemoryRegion * const xRegions )$/;"	f
+vTaskDelay	Source/include/mpu_wrappers.h	70;"	d
+vTaskDelay	Source/tasks.c	/^	void vTaskDelay( portTickType xTicksToDelay )$/;"	f
+vTaskDelayUntil	Source/include/mpu_wrappers.h	69;"	d
+vTaskDelayUntil	Source/tasks.c	/^	void vTaskDelayUntil( portTickType * const pxPreviousWakeTime, portTickType xTimeIncrement )$/;"	f
+vTaskDelete	Source/include/mpu_wrappers.h	68;"	d
+vTaskDelete	Source/tasks.c	/^	void vTaskDelete( xTaskHandle pxTaskToDelete )$/;"	f
+vTaskEndScheduler	Source/tasks.c	/^void vTaskEndScheduler( void )$/;"	f
+vTaskEnterCritical	Source/tasks.c	/^	void vTaskEnterCritical( void )$/;"	f
+vTaskExitCritical	Source/tasks.c	/^void vTaskExitCritical( void )$/;"	f
+vTaskGetRunTimeStats	Source/include/mpu_wrappers.h	81;"	d
+vTaskGetRunTimeStats	Source/tasks.c	/^	void vTaskGetRunTimeStats( signed char *pcWriteBuffer )$/;"	f
+vTaskIncrementTick	Source/tasks.c	/^void vTaskIncrementTick( void )$/;"	f
+vTaskList	Source/include/mpu_wrappers.h	80;"	d
+vTaskList	Source/tasks.c	/^	void vTaskList( signed char *pcWriteBuffer )$/;"	f
+vTaskMissedYield	Source/tasks.c	/^void vTaskMissedYield( void )$/;"	f
+vTaskPlaceOnEventList	Source/tasks.c	/^void vTaskPlaceOnEventList( const xList * const pxEventList, portTickType xTicksToWait )$/;"	f
+vTaskPlaceOnEventListRestricted	Source/tasks.c	/^	void vTaskPlaceOnEventListRestricted( const xList * const pxEventList, portTickType xTicksToWait )$/;"	f
+vTaskPriorityDisinherit	Source/tasks.c	/^	void vTaskPriorityDisinherit( xTaskHandle * const pxMutexHolder )$/;"	f
+vTaskPriorityInherit	Source/tasks.c	/^	void vTaskPriorityInherit( xTaskHandle * const pxMutexHolder )$/;"	f
+vTaskPrioritySet	Source/include/mpu_wrappers.h	72;"	d
+vTaskPrioritySet	Source/tasks.c	/^	void vTaskPrioritySet( xTaskHandle pxTask, unsigned portBASE_TYPE uxNewPriority )$/;"	f
+vTaskResume	Source/include/mpu_wrappers.h	75;"	d
+vTaskResume	Source/tasks.c	/^	void vTaskResume( xTaskHandle pxTaskToResume )$/;"	f
+vTaskSetApplicationTaskTag	Source/include/mpu_wrappers.h	84;"	d
+vTaskSetApplicationTaskTag	Source/tasks.c	/^	void vTaskSetApplicationTaskTag( xTaskHandle xTask, pdTASK_HOOK_CODE pxHookFunction )$/;"	f
+vTaskSetTaskNumber	Source/tasks.c	/^	void vTaskSetTaskNumber( xTaskHandle xTask, unsigned portBASE_TYPE uxHandle )$/;"	f
+vTaskSetTimeOutState	Source/tasks.c	/^void vTaskSetTimeOutState( xTimeOutType * const pxTimeOut )$/;"	f
+vTaskStartScheduler	Source/tasks.c	/^void vTaskStartScheduler( void )$/;"	f
+vTaskStartTrace	Source/include/mpu_wrappers.h	82;"	d
+vTaskSuspend	Source/include/mpu_wrappers.h	73;"	d
+vTaskSuspend	Source/tasks.c	/^	void vTaskSuspend( xTaskHandle pxTaskToSuspend )$/;"	f
+vTaskSuspendAll	Source/include/mpu_wrappers.h	76;"	d
+vTaskSuspendAll	Source/tasks.c	/^void vTaskSuspendAll( void )$/;"	f
+vTaskSwitchContext	Source/tasks.c	/^void vTaskSwitchContext( void )$/;"	f
+vTaskSwitchContextConst	Source/portable/GCC/ARM_CA9/portASM.S	/^vTaskSwitchContextConst: .word vTaskSwitchContext$/;"	l
+vTimer0Enable	Demo/Versatile_Express_Cortex_A9MPCore/sp804_timer.c	/^void vTimer0Enable( void )$/;"	f
+vTimer0Initialise	Demo/Versatile_Express_Cortex_A9MPCore/sp804_timer.c	/^void vTimer0Initialise( unsigned long ulLoadValue )$/;"	f
+vTimer0InterruptHandler	Demo/Versatile_Express_Cortex_A9MPCore/sp804_timer.c	/^void vTimer0InterruptHandler( void *pvParameter )$/;"	f
+vTimerPeriodicISRTests	Demo/Common/Minimal/TimerDemo.c	/^void vTimerPeriodicISRTests( void )$/;"	f
+vUARTInitialise	Demo/MT3628_Cortex_A9SPCore/uart.c	/^void vUARTInitialise(unsigned long ulUARTPeripheral, unsigned long ulBaud, unsigned long ulQueueSize )$/;"	f
+vUARTInitialise	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	/^void vUARTInitialise(unsigned long ulUARTPeripheral, unsigned long ulBaud, unsigned long ulQueueSize )$/;"	f
+vUARTInitialise	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	/^void vUARTInitialise(unsigned long ulUARTPeripheral, unsigned long ulBaud, unsigned long ulQueueSize )$/;"	f
+vUARTInterruptHandler	Demo/MT3628_Cortex_A9SPCore/uart.c	/^void vUARTInterruptHandler( void *pvBaseAddress )$/;"	f
+vUARTInterruptHandler	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	/^void vUARTInterruptHandler( void *pvBaseAddress )$/;"	f
+vUARTInterruptHandler	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	/^void vUARTInterruptHandler( void *pvBaseAddress )$/;"	f
+xActiveTimerList1	Source/timers.c	/^PRIVILEGED_DATA static xList xActiveTimerList1;$/;"	v	file:
+xActiveTimerList2	Source/timers.c	/^PRIVILEGED_DATA static xList xActiveTimerList2;$/;"	v	file:
+xAreBlockTimeTestTasksStillRunning	Demo/Common/Minimal/blocktim.c	/^portBASE_TYPE xAreBlockTimeTestTasksStillRunning( void )$/;"	f
+xAreBlockingQueuesStillRunning	Demo/Common/Minimal/BlockQ.c	/^portBASE_TYPE xAreBlockingQueuesStillRunning( void )$/;"	f
+xAreComTestTasksStillRunning	Demo/Common/Minimal/comtest.c	/^portBASE_TYPE xAreComTestTasksStillRunning( void )$/;"	f
+xAreCountingSemaphoreTasksStillRunning	Demo/Common/Minimal/countsem.c	/^portBASE_TYPE xAreCountingSemaphoreTasksStillRunning( void )$/;"	f
+xAreDynamicPriorityTasksStillRunning	Demo/Common/Minimal/dynamic.c	/^portBASE_TYPE xAreDynamicPriorityTasksStillRunning( void )$/;"	f
+xAreGenericQueueTasksStillRunning	Demo/Common/Minimal/GenQTest.c	/^portBASE_TYPE xAreGenericQueueTasksStillRunning( void )$/;"	f
+xAreIntegerMathsTaskStillRunning	Demo/Common/Minimal/integer.c	/^portBASE_TYPE xAreIntegerMathsTaskStillRunning( void )$/;"	f
+xAreMathsTaskStillRunning	Demo/Common/Minimal/flop.c	/^portBASE_TYPE xAreMathsTaskStillRunning( void )$/;"	f
+xArePollingQueuesStillRunning	Demo/Common/Minimal/PollQ.c	/^portBASE_TYPE xArePollingQueuesStillRunning( void )$/;"	f
+xAreQueuePeekTasksStillRunning	Demo/Common/Minimal/QPeek.c	/^portBASE_TYPE xAreQueuePeekTasksStillRunning( void )$/;"	f
+xAreRecursiveMutexTasksStillRunning	Demo/Common/Minimal/recmutex.c	/^portBASE_TYPE xAreRecursiveMutexTasksStillRunning( void )$/;"	f
+xAreSemaphoreTasksStillRunning	Demo/Common/Minimal/semtest.c	/^portBASE_TYPE xAreSemaphoreTasksStillRunning( void )$/;"	f
+xAreTimerDemoTasksStillRunning	Demo/Common/Minimal/TimerDemo.c	/^portBASE_TYPE xAreTimerDemoTasksStillRunning( portTickType xCycleFrequency )$/;"	f
+xAutoReloadTimers	Demo/Common/Minimal/TimerDemo.c	/^static xTimerHandle xAutoReloadTimers[ configTIMER_QUEUE_LENGTH + 1 ] = { 0 };$/;"	v	file:
+xBasePeriod	Demo/Common/Minimal/TimerDemo.c	/^static portTickType xBasePeriod = 0;$/;"	v	file:
+xBlockLink	Source/portable/MemMang/heap_2.c	/^} xBlockLink;$/;"	t	typeref:struct:A_BLOCK_LINK	file:
+xBlockSize	Source/portable/MemMang/heap_2.c	/^	size_t xBlockSize;						\/*<< The size of the free block. *\/$/;"	m	struct:A_BLOCK_LINK	file:
+xBlockTime	Demo/Common/Minimal/BlockQ.c	/^	portTickType xBlockTime;				\/*< The block time to use on queue reads\/writes. *\/$/;"	m	struct:BLOCKING_QUEUE_PARAMETERS	file:
+xBlockTime	Demo/Common/Minimal/semtest.c	/^	portTickType xBlockTime;$/;"	m	struct:SEMAPHORE_PARAMETERS	file:
+xBlockingIsSuspended	Demo/Common/Minimal/recmutex.c	/^static volatile portBASE_TYPE xErrorOccurred = pdFALSE, xControllingIsSuspended = pdFALSE, xBlockingIsSuspended = pdFALSE;$/;"	v	file:
+xBlockingQueueParameters	Demo/Common/Minimal/BlockQ.c	/^} xBlockingQueueParameters;$/;"	t	typeref:struct:BLOCKING_QUEUE_PARAMETERS	file:
+xBlockingTaskHandle	Demo/Common/Minimal/recmutex.c	/^static xTaskHandle xControllingTaskHandle, xBlockingTaskHandle;$/;"	v	file:
+xCoRoutineCreate	Source/croutine.c	/^signed portBASE_TYPE xCoRoutineCreate( crCOROUTINE_CODE pxCoRoutineCode, unsigned portBASE_TYPE uxPriority, unsigned portBASE_TYPE uxIndex )$/;"	f
+xCoRoutineHandle	Source/include/croutine.h	/^typedef void * xCoRoutineHandle;$/;"	t
+xCoRoutineRemoveFromEventList	Source/croutine.c	/^signed portBASE_TYPE xCoRoutineRemoveFromEventList( const xList *pxEventList )$/;"	f
+xCoRoutineTickCount	Source/croutine.c	/^static portTickType xCoRoutineTickCount = 0, xLastTickCount = 0, xPassedTicks = 0;$/;"	v	file:
+xComPortHandle	Demo/Common/include/serial.h	/^typedef void * xComPortHandle;$/;"	t
+xContinousIncrementHandle	Demo/Common/Minimal/dynamic.c	/^static xTaskHandle xContinousIncrementHandle, xLimitedIncrementHandle;$/;"	v	file:
+xControllingIsSuspended	Demo/Common/Minimal/recmutex.c	/^static volatile portBASE_TYPE xErrorOccurred = pdFALSE, xControllingIsSuspended = pdFALSE, xBlockingIsSuspended = pdFALSE;$/;"	v	file:
+xControllingTaskHandle	Demo/Common/Minimal/recmutex.c	/^static xTaskHandle xControllingTaskHandle, xBlockingTaskHandle;$/;"	v	file:
+xCountSemStruct	Demo/Common/Minimal/countsem.c	/^} xCountSemStruct;$/;"	t	typeref:struct:COUNT_SEM_STRUCT	file:
+xCreatedTask	Demo/Common/Minimal/death.c	/^xTaskHandle xCreatedTask;$/;"	v
+xDelayedCoRoutineList1	Source/croutine.c	/^static xList xDelayedCoRoutineList1;									\/*< Delayed co-routines. *\/$/;"	v	file:
+xDelayedCoRoutineList2	Source/croutine.c	/^static xList xDelayedCoRoutineList2;									\/*< Delayed co-routines (two lists are used - one for delays that have overflowed the current tick count. *\/$/;"	v	file:
+xDelayedTaskList1	Source/tasks.c	/^PRIVILEGED_DATA static xList xDelayedTaskList1;							\/*< Delayed tasks. *\/$/;"	v	file:
+xDelayedTaskList2	Source/tasks.c	/^PRIVILEGED_DATA static xList xDelayedTaskList2;							\/*< Delayed tasks (two lists are used - one for delays that have overflowed the current tick count. *\/$/;"	v	file:
+xEnd	Source/portable/MemMang/heap_2.c	/^static xBlockLink xStart, xEnd;$/;"	v	file:
+xErrorDetected	Demo/Common/Minimal/GenQTest.c	/^static portBASE_TYPE xErrorDetected = pdFALSE;$/;"	v	file:
+xErrorDetected	Demo/Common/Minimal/QPeek.c	/^static volatile portBASE_TYPE xErrorDetected = pdFALSE;$/;"	v	file:
+xErrorDetected	Demo/Common/Minimal/countsem.c	/^static volatile portBASE_TYPE xErrorDetected = pdFALSE;$/;"	v	file:
+xErrorOccurred	Demo/Common/Minimal/blocktim.c	/^static volatile portBASE_TYPE xErrorOccurred = pdFALSE;$/;"	v	file:
+xErrorOccurred	Demo/Common/Minimal/recmutex.c	/^static volatile portBASE_TYPE xErrorOccurred = pdFALSE, xControllingIsSuspended = pdFALSE, xBlockingIsSuspended = pdFALSE;$/;"	v	file:
+xEventListItem	Source/include/croutine.h	/^	xListItem				xEventListItem;		\/*< List item used to place the CRCB in event lists. *\/$/;"	m	struct:corCoRoutineControlBlock
+xEventListItem	Source/tasks.c	/^	xListItem				xEventListItem;		\/*< List item used to place the TCB in event lists. *\/$/;"	m	struct:tskTaskControlBlock	file:
+xFreeBytesRemaining	Source/portable/MemMang/heap_2.c	/^static size_t xFreeBytesRemaining = configTOTAL_HEAP_SIZE;$/;"	v	file:
+xGenericListItem	Source/include/croutine.h	/^	xListItem				xGenericListItem;	\/*< List item used to place the CRCB in ready and blocked queues. *\/$/;"	m	struct:corCoRoutineControlBlock
+xGenericListItem	Source/tasks.c	/^	xListItem				xGenericListItem;	\/*< List item used to place the TCB in ready and blocked queues. *\/$/;"	m	struct:tskTaskControlBlock	file:
+xHandle	Source/queue.c	/^		xQueueHandle xHandle;$/;"	m	struct:QUEUE_REGISTRY_ITEM	file:
+xHeap	Source/portable/MemMang/heap_1.c	/^} xHeap;$/;"	v	typeref:union:xRTOS_HEAP	file:
+xHeap	Source/portable/MemMang/heap_2.c	/^} xHeap;$/;"	v	typeref:union:xRTOS_HEAP	file:
+xHighPriorityMutexTask	Demo/Common/Minimal/GenQTest.c	/^static xTaskHandle xHighPriorityMutexTask, xMediumPriorityMutexTask;$/;"	v	file:
+xHighPriorityTask	Demo/Common/Minimal/QPeek.c	/^xTaskHandle xMediumPriorityTask, xHighPriorityTask, xHighestPriorityTask;$/;"	v
+xHighestPriorityTask	Demo/Common/Minimal/QPeek.c	/^xTaskHandle xMediumPriorityTask, xHighPriorityTask, xHighestPriorityTask;$/;"	v
+xISRAutoReloadTimer	Demo/Common/Minimal/TimerDemo.c	/^static xTimerHandle xISRAutoReloadTimer = NULL;$/;"	v	file:
+xISROneShotTimer	Demo/Common/Minimal/TimerDemo.c	/^static xTimerHandle xISROneShotTimer = NULL;$/;"	v	file:
+xIdleTaskHandle	Source/tasks.c	/^	PRIVILEGED_DATA static xTaskHandle xIdleTaskHandle = NULL;$/;"	v	file:
+xInterruptHandlerDefinition	Source/portable/GCC/ARM_CA9/port.c	/^} xInterruptHandlerDefinition;$/;"	t	typeref:struct:STRUCT_HANDLER_PARAMETER	file:
+xInterruptHandlerDefinition	Source/portable/GCC/ARM_Cortex-A9/port.c	/^} xInterruptHandlerDefinition;$/;"	t	typeref:struct:STRUCT_HANDLER_PARAMETER	file:
+xIsCreateTaskStillRunning	Demo/Common/Minimal/death.c	/^portBASE_TYPE xIsCreateTaskStillRunning( void )$/;"	f
+xItemValue	Source/include/list.h	/^	portTickType xItemValue;				\/*< The value being listed.  In most cases this is used to sort the list in descending order. *\/$/;"	m	struct:xLIST_ITEM
+xItemValue	Source/include/list.h	/^	portTickType xItemValue;$/;"	m	struct:xMINI_LIST_ITEM
+xLIST	Source/include/list.h	/^typedef struct xLIST$/;"	s
+xLIST_ITEM	Source/include/list.h	/^struct xLIST_ITEM$/;"	s
+xLastTickCount	Source/croutine.c	/^static portTickType xCoRoutineTickCount = 0, xLastTickCount = 0, xPassedTicks = 0;$/;"	v	file:
+xLimitedIncrementHandle	Demo/Common/Minimal/dynamic.c	/^static xTaskHandle xContinousIncrementHandle, xLimitedIncrementHandle;$/;"	v	file:
+xList	Source/include/list.h	/^} xList;$/;"	t	typeref:struct:xLIST
+xListEnd	Source/include/list.h	/^	volatile xMiniListItem xListEnd;		\/*< List item that contains the maximum possible item value meaning it is always at the end of the list and is therefore used as a marker. *\/$/;"	m	struct:xLIST
+xListItem	Source/include/list.h	/^typedef struct xLIST_ITEM xListItem;		\/* For some reason lint wants this as two separate definitions. *\/$/;"	t	typeref:struct:xLIST_ITEM
+xMEMORY_REGION	Source/include/task.h	/^typedef struct xMEMORY_REGION$/;"	s
+xMINI_LIST_ITEM	Source/include/list.h	/^struct xMINI_LIST_ITEM$/;"	s
+xMPUSettings	Source/tasks.c	/^		xMPU_SETTINGS xMPUSettings;				\/*< The MPU settings are defined as part of the port layer.  THIS MUST BE THE SECOND MEMBER OF THE STRUCT. *\/$/;"	m	struct:tskTaskControlBlock	file:
+xMediumPriorityMutexTask	Demo/Common/Minimal/GenQTest.c	/^static xTaskHandle xHighPriorityMutexTask, xMediumPriorityMutexTask;$/;"	v	file:
+xMediumPriorityTask	Demo/Common/Minimal/QPeek.c	/^xTaskHandle xMediumPriorityTask, xHighPriorityTask, xHighestPriorityTask;$/;"	v
+xMemoryRegion	Source/include/task.h	/^} xMemoryRegion;$/;"	t	typeref:struct:xMEMORY_REGION
+xMessageID	Source/timers.c	/^	portBASE_TYPE			xMessageID;			\/*<< The command being sent to the timer service task. *\/$/;"	m	struct:tmrTimerQueueMessage	file:
+xMessageValue	Source/timers.c	/^	portTickType			xMessageValue;		\/*<< An optional value used by a subset of commands, for example, when changing the period of a timer. *\/$/;"	m	struct:tmrTimerQueueMessage	file:
+xMiniListItem	Source/include/list.h	/^typedef struct xMINI_LIST_ITEM xMiniListItem;$/;"	t	typeref:struct:xMINI_LIST_ITEM
+xMissedYield	Source/tasks.c	/^PRIVILEGED_DATA static volatile portBASE_TYPE xMissedYield 						= ( portBASE_TYPE ) pdFALSE;$/;"	v	file:
+xMutex	Demo/Common/Minimal/recmutex.c	/^static xSemaphoreHandle xMutex;$/;"	v	file:
+xNextFreeByte	Source/portable/MemMang/heap_1.c	/^static size_t xNextFreeByte = ( size_t ) 0;$/;"	v	file:
+xNextTaskUnblockTime	Source/tasks.c	/^PRIVILEGED_DATA static portTickType xNextTaskUnblockTime						= ( portTickType ) portMAX_DELAY;$/;"	v	file:
+xNumOfOverflows	Source/tasks.c	/^PRIVILEGED_DATA static volatile portBASE_TYPE xNumOfOverflows 					= ( portBASE_TYPE ) 0;$/;"	v	file:
+xOneShotTimer	Demo/Common/Minimal/TimerDemo.c	/^static xTimerHandle xOneShotTimer = NULL;$/;"	v	file:
+xOverflowCount	Source/include/task.h	/^	portBASE_TYPE xOverflowCount;$/;"	m	struct:xTIME_OUT
+xParameters	Demo/Common/Minimal/countsem.c	/^static volatile xCountSemStruct xParameters[ countNUM_TEST_TASKS ];$/;"	v	file:
+xPassedTicks	Source/croutine.c	/^static portTickType xCoRoutineTickCount = 0, xLastTickCount = 0, xPassedTicks = 0;$/;"	v	file:
+xPendingReadyCoRoutineList	Source/croutine.c	/^static xList xPendingReadyCoRoutineList;											\/*< Holds co-routines that have been readied by an external event.  They cannot be added directly to the ready lists as the ready lists cannot be accessed by interrupts. *\/$/;"	v	file:
+xPendingReadyList	Source/tasks.c	/^PRIVILEGED_DATA static xList xPendingReadyList;							\/*< Tasks that have been readied while the scheduler was suspended.  They will be moved to the ready queue when the scheduler is resumed. *\/$/;"	v	file:
+xPollingConsumerCount	Demo/Common/Minimal/PollQ.c	/^static volatile signed portBASE_TYPE xPollingConsumerCount = pollqINITIAL_VALUE, xPollingProducerCount = pollqINITIAL_VALUE;$/;"	v	file:
+xPollingProducerCount	Demo/Common/Minimal/PollQ.c	/^static volatile signed portBASE_TYPE xPollingConsumerCount = pollqINITIAL_VALUE, xPollingProducerCount = pollqINITIAL_VALUE;$/;"	v	file:
+xPort	Demo/Common/Minimal/comtest.c	/^static xComPortHandle xPort = NULL;$/;"	v	file:
+xPortGetFreeHeapSize	Source/include/mpu_wrappers.h	105;"	d
+xPortGetFreeHeapSize	Source/portable/MemMang/heap_1.c	/^size_t xPortGetFreeHeapSize( void )$/;"	f
+xPortGetFreeHeapSize	Source/portable/MemMang/heap_2.c	/^size_t xPortGetFreeHeapSize( void )$/;"	f
+xPortSetInterruptMask	Source/portable/GCC/ARM_CA9/port.c	/^portBASE_TYPE xPortSetInterruptMask( void )$/;"	f
+xPortSetInterruptMask	Source/portable/GCC/ARM_Cortex-A9/port.c	/^portBASE_TYPE xPortSetInterruptMask( void )$/;"	f
+xPortStartScheduler	Source/portable/GCC/ARM_CA9/port.c	/^portBASE_TYPE xPortStartScheduler( void )$/;"	f
+xPortStartScheduler	Source/portable/GCC/ARM_Cortex-A9/port.c	/^portBASE_TYPE xPortStartScheduler( void )$/;"	f
+xPrimaryCycles	Demo/Common/Minimal/blocktim.c	/^static volatile portBASE_TYPE xPrimaryCycles = 0, xSecondaryCycles = 0;$/;"	v	file:
+xQUEUE	Source/queue.c	/^} xQUEUE;$/;"	t	typeref:struct:QueueDefinition	file:
+xQueue	Demo/Common/Minimal/BlockQ.c	/^	xQueueHandle xQueue;					\/*< The queue to be used by the task. *\/$/;"	m	struct:BLOCKING_QUEUE_PARAMETERS	file:
+xQueueAltGenericReceive	Source/include/mpu_wrappers.h	98;"	d
+xQueueAltGenericReceive	Source/queue.c	/^	signed portBASE_TYPE xQueueAltGenericReceive( xQueueHandle pxQueue, void * const pvBuffer, portTickType xTicksToWait, portBASE_TYPE xJustPeeking )$/;"	f
+xQueueAltGenericSend	Source/include/mpu_wrappers.h	97;"	d
+xQueueAltGenericSend	Source/queue.c	/^	signed portBASE_TYPE xQueueAltGenericSend( xQueueHandle pxQueue, const void * const pvItemToQueue, portTickType xTicksToWait, portBASE_TYPE xCopyPosition )$/;"	f
+xQueueAltPeek	Source/include/queue.h	1207;"	d
+xQueueAltReceive	Source/include/queue.h	1206;"	d
+xQueueAltSendToBack	Source/include/queue.h	1205;"	d
+xQueueAltSendToFront	Source/include/queue.h	1204;"	d
+xQueueCRReceive	Source/queue.c	/^signed portBASE_TYPE xQueueCRReceive( xQueueHandle pxQueue, void *pvBuffer, portTickType xTicksToWait )$/;"	f
+xQueueCRReceiveFromISR	Source/queue.c	/^signed portBASE_TYPE xQueueCRReceiveFromISR( xQueueHandle pxQueue, void *pvBuffer, signed portBASE_TYPE *pxCoRoutineWoken )$/;"	f
+xQueueCRSend	Source/queue.c	/^signed portBASE_TYPE xQueueCRSend( xQueueHandle pxQueue, const void *pvItemToQueue, portTickType xTicksToWait )$/;"	f
+xQueueCRSendFromISR	Source/queue.c	/^signed portBASE_TYPE xQueueCRSendFromISR( xQueueHandle pxQueue, const void *pvItemToQueue, signed portBASE_TYPE xCoRoutinePreviouslyWoken )$/;"	f
+xQueueCreate	Source/include/mpu_wrappers.h	91;"	d
+xQueueCreate	Source/include/queue.h	144;"	d
+xQueueCreateCountingSemaphore	Source/include/mpu_wrappers.h	95;"	d
+xQueueCreateCountingSemaphore	Source/queue.c	/^	xQueueHandle xQueueCreateCountingSemaphore( unsigned portBASE_TYPE uxCountValue, unsigned portBASE_TYPE uxInitialCount )$/;"	f
+xQueueCreateMutex	Source/include/mpu_wrappers.h	92;"	d
+xQueueCreateMutex	Source/queue.c	/^	xQueueHandle xQueueCreateMutex( unsigned char ucQueueType )$/;"	f
+xQueueGenericCreate	Source/queue.c	/^xQueueHandle xQueueGenericCreate( unsigned portBASE_TYPE uxQueueLength, unsigned portBASE_TYPE uxItemSize, unsigned char ucQueueType )$/;"	f
+xQueueGenericReceive	Source/include/mpu_wrappers.h	99;"	d
+xQueueGenericReceive	Source/queue.c	/^signed portBASE_TYPE xQueueGenericReceive( xQueueHandle pxQueue, void * const pvBuffer, portTickType xTicksToWait, portBASE_TYPE xJustPeeking )$/;"	f
+xQueueGenericSend	Source/include/mpu_wrappers.h	96;"	d
+xQueueGenericSend	Source/queue.c	/^signed portBASE_TYPE xQueueGenericSend( xQueueHandle pxQueue, const void * const pvItemToQueue, portTickType xTicksToWait, portBASE_TYPE xCopyPosition )$/;"	f
+xQueueGenericSendFromISR	Source/queue.c	/^signed portBASE_TYPE xQueueGenericSendFromISR( xQueueHandle pxQueue, const void * const pvItemToQueue, signed portBASE_TYPE *pxHigherPriorityTaskWoken, portBASE_TYPE xCopyPosition )$/;"	f
+xQueueGiveMutexRecursive	Source/include/mpu_wrappers.h	93;"	d
+xQueueGiveMutexRecursive	Source/queue.c	/^	portBASE_TYPE xQueueGiveMutexRecursive( xQueueHandle pxMutex )$/;"	f
+xQueueHandle	Source/include/queue.h	/^typedef void * xQueueHandle;$/;"	t
+xQueueHandle	Source/queue.c	/^typedef xQUEUE * xQueueHandle;$/;"	t	file:
+xQueueIsQueueEmptyFromISR	Source/queue.c	/^signed portBASE_TYPE xQueueIsQueueEmptyFromISR( const xQueueHandle pxQueue )$/;"	f
+xQueueIsQueueFullFromISR	Source/queue.c	/^signed portBASE_TYPE xQueueIsQueueFullFromISR( const xQueueHandle pxQueue )$/;"	f
+xQueuePeek	Source/include/queue.h	574;"	d
+xQueueReceive	Source/include/queue.h	667;"	d
+xQueueReceiveFromISR	Source/queue.c	/^signed portBASE_TYPE xQueueReceiveFromISR( xQueueHandle pxQueue, void * const pvBuffer, signed portBASE_TYPE *pxTaskWoken )$/;"	f
+xQueueRegistry	Source/queue.c	/^	xQueueRegistryItem xQueueRegistry[ configQUEUE_REGISTRY_SIZE ];$/;"	v
+xQueueRegistryItem	Source/queue.c	/^	} xQueueRegistryItem;$/;"	t	typeref:struct:QUEUE_REGISTRY_ITEM	file:
+xQueueSend	Source/include/queue.h	392;"	d
+xQueueSendFromISR	Source/include/queue.h	1010;"	d
+xQueueSendToBack	Source/include/queue.h	308;"	d
+xQueueSendToBackFromISR	Source/include/queue.h	936;"	d
+xQueueSendToFront	Source/include/queue.h	226;"	d
+xQueueSendToFrontFromISR	Source/include/queue.h	865;"	d
+xQueueTakeMutexRecursive	Source/include/mpu_wrappers.h	94;"	d
+xQueueTakeMutexRecursive	Source/queue.c	/^	portBASE_TYPE xQueueTakeMutexRecursive( xQueueHandle pxMutex, portTickType xBlockTime )$/;"	f
+xRTOS_HEAP	Source/portable/MemMang/heap_1.c	/^static union xRTOS_HEAP$/;"	u	file:
+xRTOS_HEAP	Source/portable/MemMang/heap_2.c	/^static union xRTOS_HEAP$/;"	u	file:
+xRegions	Source/include/task.h	/^	xMemoryRegion xRegions[ portNUM_CONFIGURABLE_REGIONS ];$/;"	m	struct:xTASK_PARAMTERS
+xRunIndicator	Demo/Common/Minimal/blocktim.c	/^static volatile unsigned portBASE_TYPE xRunIndicator;$/;"	v	file:
+xRxLock	Source/queue.c	/^	signed portBASE_TYPE xRxLock;			\/*< Stores the number of items received from the queue (removed from the queue) while the queue was locked.  Set to queueUNLOCKED when the queue is not locked. *\/$/;"	m	struct:QueueDefinition	file:
+xSchedulerRunning	Source/tasks.c	/^PRIVILEGED_DATA static volatile signed portBASE_TYPE xSchedulerRunning 			= pdFALSE;$/;"	v	file:
+xSecondary	Demo/Common/Minimal/blocktim.c	/^static xTaskHandle xSecondary;$/;"	v	file:
+xSecondaryCycles	Demo/Common/Minimal/blocktim.c	/^static volatile portBASE_TYPE xPrimaryCycles = 0, xSecondaryCycles = 0;$/;"	v	file:
+xSemaphore	Demo/Common/Minimal/countsem.c	/^	xSemaphoreHandle xSemaphore;$/;"	m	struct:COUNT_SEM_STRUCT	file:
+xSemaphore	Demo/Common/Minimal/semtest.c	/^	xSemaphoreHandle xSemaphore;$/;"	m	struct:SEMAPHORE_PARAMETERS	file:
+xSemaphoreAltGive	Source/include/semphr.h	451;"	d
+xSemaphoreAltTake	Source/include/semphr.h	290;"	d
+xSemaphoreCreateCounting	Source/include/semphr.h	707;"	d
+xSemaphoreCreateMutex	Source/include/semphr.h	589;"	d
+xSemaphoreCreateRecursiveMutex	Source/include/semphr.h	644;"	d
+xSemaphoreGive	Source/include/semphr.h	353;"	d
+xSemaphoreGiveFromISR	Source/include/semphr.h	542;"	d
+xSemaphoreGiveRecursive	Source/include/semphr.h	437;"	d
+xSemaphoreHandle	Source/include/semphr.h	/^typedef xQueueHandle xSemaphoreHandle;$/;"	t
+xSemaphoreParameters	Demo/Common/Minimal/semtest.c	/^} xSemaphoreParameters;$/;"	t	typeref:struct:SEMAPHORE_PARAMETERS	file:
+xSemaphoreTake	Source/include/semphr.h	182;"	d
+xSemaphoreTakeRecursive	Source/include/semphr.h	275;"	d
+xSerialGetChar	Demo/MT3628_Cortex_A9SPCore/serial.c	/^signed portBASE_TYPE xSerialGetChar( xComPortHandle pxPort, signed char *pcRxedChar, portTickType xBlockTime )$/;"	f
+xSerialGetChar	Demo/Versatile_Express_Cortex_A9MPCore/serial.c	/^signed portBASE_TYPE xSerialGetChar( xComPortHandle pxPort, signed char *pcRxedChar, portTickType xBlockTime )$/;"	f
+xSerialPortInitMinimal	Demo/MT3628_Cortex_A9SPCore/serial.c	/^xComPortHandle xSerialPortInitMinimal( unsigned long ulWantedBaud, unsigned portBASE_TYPE uxQueueLength )$/;"	f
+xSerialPortInitMinimal	Demo/Versatile_Express_Cortex_A9MPCore/serial.c	/^xComPortHandle xSerialPortInitMinimal( unsigned long ulWantedBaud, unsigned portBASE_TYPE uxQueueLength )$/;"	f
+xSerialPutChar	Demo/MT3628_Cortex_A9SPCore/serial.c	/^signed portBASE_TYPE xSerialPutChar( xComPortHandle pxPort, signed char cOutChar, portTickType xBlockTime )$/;"	f
+xSerialPutChar	Demo/Versatile_Express_Cortex_A9MPCore/serial.c	/^signed portBASE_TYPE xSerialPutChar( xComPortHandle pxPort, signed char cOutChar, portTickType xBlockTime )$/;"	f
+xStart	Source/portable/MemMang/heap_2.c	/^static xBlockLink xStart, xEnd;$/;"	v	file:
+xSuspendedQueueReceiveError	Demo/Common/Minimal/dynamic.c	/^static volatile portBASE_TYPE xSuspendedQueueReceiveError = pdFALSE;$/;"	v	file:
+xSuspendedQueueSendError	Demo/Common/Minimal/dynamic.c	/^static volatile portBASE_TYPE xSuspendedQueueSendError = pdFALSE;$/;"	v	file:
+xSuspendedTaskList	Source/tasks.c	/^	PRIVILEGED_DATA static xList xSuspendedTaskList;					\/*< Tasks that are currently suspended. *\/$/;"	v	file:
+xSuspendedTestQueue	Demo/Common/Minimal/dynamic.c	/^xQueueHandle xSuspendedTestQueue;$/;"	v
+xTASK_PARAMTERS	Source/include/task.h	/^typedef struct xTASK_PARAMTERS$/;"	s
+xTIMER	Source/timers.c	/^} xTIMER;$/;"	t	typeref:struct:tmrTimerControl	file:
+xTIMER_MESSAGE	Source/timers.c	/^} xTIMER_MESSAGE;$/;"	t	typeref:struct:tmrTimerQueueMessage	file:
+xTIME_OUT	Source/include/task.h	/^typedef struct xTIME_OUT$/;"	s
+xTaskCallApplicationTaskHook	Source/include/mpu_wrappers.h	86;"	d
+xTaskCallApplicationTaskHook	Source/tasks.c	/^	portBASE_TYPE xTaskCallApplicationTaskHook( xTaskHandle xTask, void *pvParameter )$/;"	f
+xTaskCheck	Demo/Common/Minimal/integer.c	/^static volatile signed portBASE_TYPE xTaskCheck[ intgNUMBER_OF_TASKS ] = { ( signed portBASE_TYPE ) pdFALSE };$/;"	v	file:
+xTaskCheckForTimeOut	Source/tasks.c	/^portBASE_TYPE xTaskCheckForTimeOut( xTimeOutType * const pxTimeOut, portTickType * const pxTicksToWait )$/;"	f
+xTaskCreate	Source/include/task.h	270;"	d
+xTaskCreateRestricted	Source/include/task.h	339;"	d
+xTaskGenericCreate	Source/include/mpu_wrappers.h	66;"	d
+xTaskGenericCreate	Source/tasks.c	/^signed portBASE_TYPE xTaskGenericCreate( pdTASK_CODE pxTaskCode, const signed char * const pcName, unsigned short usStackDepth, void *pvParameters, unsigned portBASE_TYPE uxPriority, xTaskHandle *pxCreatedTask, portSTACK_TYPE *puxStackBuffer, const xMemoryRegion * const xRegions )$/;"	f
+xTaskGetApplicationTaskTag	Source/include/mpu_wrappers.h	85;"	d
+xTaskGetApplicationTaskTag	Source/tasks.c	/^	pdTASK_HOOK_CODE xTaskGetApplicationTaskTag( xTaskHandle xTask )$/;"	f
+xTaskGetCurrentTaskHandle	Source/include/mpu_wrappers.h	88;"	d
+xTaskGetCurrentTaskHandle	Source/tasks.c	/^	xTaskHandle xTaskGetCurrentTaskHandle( void )$/;"	f
+xTaskGetIdleTaskHandle	Source/tasks.c	/^	xTaskHandle xTaskGetIdleTaskHandle( void )$/;"	f
+xTaskGetSchedulerState	Source/include/mpu_wrappers.h	89;"	d
+xTaskGetSchedulerState	Source/tasks.c	/^	portBASE_TYPE xTaskGetSchedulerState( void )$/;"	f
+xTaskGetTickCount	Source/include/mpu_wrappers.h	78;"	d
+xTaskGetTickCount	Source/tasks.c	/^portTickType xTaskGetTickCount( void )$/;"	f
+xTaskGetTickCountFromISR	Source/tasks.c	/^portTickType xTaskGetTickCountFromISR( void )$/;"	f
+xTaskHandle	Source/include/task.h	/^typedef void * xTaskHandle;$/;"	t
+xTaskIsTaskSuspended	Source/include/mpu_wrappers.h	74;"	d
+xTaskIsTaskSuspended	Source/tasks.c	/^	signed portBASE_TYPE xTaskIsTaskSuspended( xTaskHandle xTask )$/;"	f
+xTaskParameters	Source/include/task.h	/^} xTaskParameters;$/;"	t	typeref:struct:xTASK_PARAMTERS
+xTaskRemoveFromEventList	Source/tasks.c	/^signed portBASE_TYPE xTaskRemoveFromEventList( const xList * const pxEventList )$/;"	f
+xTaskResumeAll	Source/include/mpu_wrappers.h	77;"	d
+xTaskResumeAll	Source/tasks.c	/^signed portBASE_TYPE xTaskResumeAll( void )$/;"	f
+xTaskResumeFromISR	Source/tasks.c	/^	portBASE_TYPE xTaskResumeFromISR( xTaskHandle pxTaskToResume )$/;"	f
+xTasksWaitingTermination	Source/tasks.c	/^	PRIVILEGED_DATA static xList xTasksWaitingTermination;				\/*< Tasks that have been deleted - but the their memory not yet freed. *\/$/;"	v	file:
+xTasksWaitingToReceive	Source/queue.c	/^	xList xTasksWaitingToReceive;			\/*< List of tasks that are blocked waiting to read from this queue.  Stored in priority order. *\/$/;"	m	struct:QueueDefinition	file:
+xTasksWaitingToSend	Source/queue.c	/^	xList xTasksWaitingToSend;				\/*< List of tasks that are blocked waiting to post onto this queue.  Stored in priority order. *\/$/;"	m	struct:QueueDefinition	file:
+xTestQueue	Demo/Common/Minimal/blocktim.c	/^static xQueueHandle xTestQueue;$/;"	v	file:
+xTestStatus	Demo/Common/Minimal/TimerDemo.c	/^static volatile portBASE_TYPE xTestStatus = pdPASS;$/;"	v	file:
+xTickCount	Source/tasks.c	/^PRIVILEGED_DATA static volatile portTickType xTickCount 						= ( portTickType ) 0U;$/;"	v	file:
+xTimeOnEntering	Source/include/task.h	/^	portTickType  xTimeOnEntering;$/;"	m	struct:xTIME_OUT
+xTimeOutType	Source/include/task.h	/^} xTimeOutType;$/;"	t	typeref:struct:xTIME_OUT
+xTimerChangePeriod	Source/include/timers.h	460;"	d
+xTimerChangePeriodFromISR	Source/include/timers.h	839;"	d
+xTimerCreate	Source/timers.c	/^xTimerHandle xTimerCreate( const signed char *pcTimerName, portTickType xTimerPeriodInTicks, unsigned portBASE_TYPE uxAutoReload, void *pvTimerID, tmrTIMER_CALLBACK pxCallbackFunction )$/;"	f
+xTimerCreateTimerTask	Source/timers.c	/^portBASE_TYPE xTimerCreateTimerTask( void )$/;"	f
+xTimerDelete	Source/include/timers.h	498;"	d
+xTimerGenericCommand	Source/timers.c	/^portBASE_TYPE xTimerGenericCommand( xTimerHandle xTimer, portBASE_TYPE xCommandID, portTickType xOptionalValue, signed portBASE_TYPE *pxHigherPriorityTaskWoken, portTickType xBlockTime )$/;"	f
+xTimerGetTimerDaemonTaskHandle	Source/timers.c	/^	xTaskHandle xTimerGetTimerDaemonTaskHandle( void )$/;"	f
+xTimerHandle	Source/include/timers.h	/^typedef void * xTimerHandle;$/;"	t
+xTimerIsTimerActive	Source/timers.c	/^portBASE_TYPE xTimerIsTimerActive( xTimerHandle xTimer )$/;"	f
+xTimerListItem	Source/timers.c	/^	xListItem				xTimerListItem;		\/*<< Standard linked list item as used by all kernel features for event management. *\/$/;"	m	struct:tmrTimerControl	file:
+xTimerPeriodInTicks	Source/timers.c	/^	portTickType			xTimerPeriodInTicks;\/*<< How quickly and often the timer expires. *\/$/;"	m	struct:tmrTimerControl	file:
+xTimerQueue	Source/timers.c	/^PRIVILEGED_DATA static xQueueHandle xTimerQueue = NULL;$/;"	v	file:
+xTimerReset	Source/include/timers.h	621;"	d
+xTimerResetFromISR	Source/include/timers.h	924;"	d
+xTimerStart	Source/include/timers.h	339;"	d
+xTimerStartFromISR	Source/include/timers.h	705;"	d
+xTimerStop	Source/include/timers.h	381;"	d
+xTimerStopFromISR	Source/include/timers.h	767;"	d
+xTimerTaskHandle	Source/timers.c	/^	PRIVILEGED_DATA static xTaskHandle xTimerTaskHandle = NULL;$/;"	v	file:
+xTxLock	Source/queue.c	/^	signed portBASE_TYPE xTxLock;			\/*< Stores the number of items transmitted to the queue (added to the queue) while the queue was locked.  Set to queueUNLOCKED when the queue is not locked. *\/$/;"	m	struct:QueueDefinition	file:
+xUARTReceiveCharacter	Demo/MT3628_Cortex_A9SPCore/uart.c	/^portBASE_TYPE xUARTReceiveCharacter( unsigned long ulUARTPeripheral, unsigned char *pucChar, portTickType xDelay )$/;"	f
+xUARTReceiveCharacter	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	/^portBASE_TYPE xUARTReceiveCharacter( unsigned long ulUARTPeripheral, signed char *pcChar, portTickType xDelay )$/;"	f
+xUARTReceiveCharacter	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	/^portBASE_TYPE xUARTReceiveCharacter( unsigned long ulUARTPeripheral, unsigned char *pucChar, portTickType xDelay )$/;"	f
+xUARTSendCharacter	Demo/MT3628_Cortex_A9SPCore/uart.c	/^portBASE_TYPE xUARTSendCharacter( unsigned long ulUARTPeripheral, unsigned char ucChar, portTickType xDelay )$/;"	f
+xUARTSendCharacter	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	/^portBASE_TYPE xUARTSendCharacter( unsigned long ulUARTPeripheral, signed char cChar, portTickType xDelay )$/;"	f
+xUARTSendCharacter	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	/^portBASE_TYPE xUARTSendCharacter( unsigned long ulUARTPeripheral, unsigned char ucChar, portTickType xDelay )$/;"	f
+xUartQueues	Demo/MT3628_Cortex_A9SPCore/uart.c	/^static xQueueHandle xUartQueues[5][2] = { { NULL, NULL } };$/;"	v	file:
+xUartQueues	Demo/Versatile_Express_Cortex_A9MPCore/pl011.c	/^static xQueueHandle xUartQueues[5][2] = { { NULL, NULL } };$/;"	v	file:
+xUartQueues	Demo/Versatile_Express_Cortex_A9MPCore/uart.c	/^static xQueueHandle xUartQueues[5][2] = { { NULL, NULL } };$/;"	v	file:
